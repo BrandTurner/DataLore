@@ -1,0 +1,182 @@
+[
+	{
+		"title": "Glimmer",
+		"content":
+			"The programmable matter called 'Glimmer' serves as one of the City's basic currencies. With the right inputs and an energy source, Glimmer can be transmuted into nearly anything. This makes it precious to the City's industries and artisans. That value, in turn, makes Glimmer a useful means of exchange - especially with those who venture beyond the City's walls.\n\nGlimmer passes through an economic life cycle. New Glimmer comes from reclaimed Golden Age caches and technology - whether a tiny mechanism or an underground lode seeded by ancient machines. This expansion of the Glimmer supply drives down the value of Glimmer. But Glimmer is also constantly used by the City's industry, which converts it into necessary components and materials. This sink helps keep Glimmer scarce, and therefore valuable.\n\nBetween this inflow and outflow lies the pool of liquidity - Glimmer used as trade currency. Master Rahool in the Tower, for example, sells recovered matter engrams in exchange for Glimmer, since he knows he can use Glimmer to acquire new engrams and keep them flowing to Guardians. \n\nNewborn Guardians often complain that they should be issued high-quality gear for free - are they not, after all, fighting for the future of the City? Unfortunately, this gear requires resources to manufacture. Guardians must bring in enough Glimmer and other staples, like spinmetal and relic iron, to keep the engine of the City's economy turning. If good times lead to a resource boom, that surplus may help mass-produce advanced gear.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/109010_62982c6c9a954f2cd43fd77c813ef1a3.jpg"
+		],
+		"image_name": ["Glimmer"],
+		"filename": ["109010_62982c6c9a954f2cd43fd77c813ef1a3.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/109010_62982c6c9a954f2cd43fd77c813ef1a3.jpg",
+				"path": "full/79bc080f1bc0946ca4c65049bf530198705be6ec.jpg",
+				"checksum": "4d8ed7d691abf5ff4120751ff3d723cf"
+			}
+		]
+	},
+	{
+		"title": "Vanguard Marks",
+		"content":
+			"When a terrible threat rises, Guardians look to the Vanguard, the closest thing they have to a command structure. These elite veterans coordinate the reports of roaming Hunters, the analyses of cloistered Warlocks, and the instincts of grizzled Titans into a single plan of action. And when Guardians fight as part of that plan, the Vanguard rewards them.\n\nVanguard Marks are tokens of favor that earn a trusted Guardian access to the Tower's armories. Listen carefully to the rumblings of Lord Shaxx, and you might come to believe that this system was meant to keep vital warfighting supplies from being wasted in the Crucible. Talk to Commander Zavala, and he will reassure you that the Vanguard Mark system exists for one reason: to get the best equipment into the hands of those who get the best results.\n\nGuardians eager to win Vanguard Marks would do well to participate in Strike missions organized by the Vanguard.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/309030_9598a56796a91c3bb0919220d630f6ce.jpg"
+		],
+		"image_name": ["Vanguard Marks"],
+		"filename": ["309030_9598a56796a91c3bb0919220d630f6ce.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/309030_9598a56796a91c3bb0919220d630f6ce.jpg",
+				"path": "full/bf33a4008162d8204c26d71069186c6e118a75e1.jpg",
+				"checksum": "67b8a26d962504e7c39524740c6bc0fa"
+			}
+		]
+	},
+	{
+		"title": "Upgrade Materials",
+		"content":
+			"As Guardians buy or salvage new equipment, they learn to tinker and improve. This work requires Glimmer and other material.\n\nSome can be recycled from unneeded gear. Titans favor plasteel, which can be found by disassembling old equipment. Hunters unspool discarded armor into sapphire wire. Warlocks extract hadronic essence from dismantled fieldweave robes. And any Guardian with a sense for weaponry can disassemble old ordnance into weapon parts.\n\nOther materials need to be scavenged on site, generally in the course of Patrols. The Cosmodrome in Old Russia is rich with spinmetal, a fantastically light and strong composite created by rogue colonies of Golden Age machinery that escaped storage. Solar coil systems on the Moon still generate helium filaments. The baffling, possibly Vex-influenced flora of Venus grow spirit blooms. And the surface of Mars offers deposits of ultra-dense relic iron.\n\nThe most powerful Guardian equipment transcends ordinary science, entering the realm of Golden Age secrets and the Traveler's power itself. This wargear demands Ascendant Energy and Ascendant Shards - burning fragments of the universal fundament, earned through mighty acts of heroism.\n\nLook for them in daily Story challenges and Raids.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/109020_f6b853ac8dfdbe4a5735168eb58a35b3.jpg"
+		],
+		"image_name": ["Upgrade Materials"],
+		"filename": ["109020_f6b853ac8dfdbe4a5735168eb58a35b3.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/109020_f6b853ac8dfdbe4a5735168eb58a35b3.jpg",
+				"path": "full/ba5349991a0ed416fe8e71f1c7addb9f6d8b38d5.jpg",
+				"checksum": "e6886948fc9ec2e97e3c6ef492c7a0f2"
+			}
+		]
+	},
+	{
+		"title": "Strange Coins",
+		"content":
+			"Each coin rings with a faint, sharp hush - as if it has touched the sounds around it with the edge of silence.\n\nThese could buy incredible things, in the right hands. Whispers say the faceless creature who sometimes comes to the Tower covets them above all else.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/309060_0bb6cb9f5778dfa8fbcc26b7a2edc6a8.jpg"
+		],
+		"image_name": ["Strange Coins"],
+		"filename": ["309060_0bb6cb9f5778dfa8fbcc26b7a2edc6a8.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/309060_0bb6cb9f5778dfa8fbcc26b7a2edc6a8.jpg",
+				"path": "full/d0083671b9e9c9abb7eec4aeaf8cb66d76656400.jpg",
+				"checksum": "d2e258d1fd2aa1a79e388bfbf955c1be"
+			}
+		]
+	},
+	{
+		"title": "Strange Coins",
+		"content":
+			"Each coin rings with a faint, sharp hush - as if it has touched the sounds around it with the edge of silence.\n\nThese could buy incredible things, in the right hands. Whispers say the faceless creature who sometimes comes to the Tower covets them above all else.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/309060_0bb6cb9f5778dfa8fbcc26b7a2edc6a8.jpg"
+		],
+		"image_name": ["Strange Coins"],
+		"filename": ["309060_0bb6cb9f5778dfa8fbcc26b7a2edc6a8.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/309060_0bb6cb9f5778dfa8fbcc26b7a2edc6a8.jpg",
+				"path": "full/d0083671b9e9c9abb7eec4aeaf8cb66d76656400.jpg",
+				"checksum": "d2e258d1fd2aa1a79e388bfbf955c1be"
+			}
+		]
+	},
+	{
+		"title": "Crucible Marks",
+		"content":
+			"The Crucible is a program of relentless live-fire training, hardening Guardians for battles to come. Competition thrives on risk and reward, so Lord Shaxx has seen fit to dispense Crucible Marks to those who excel.\n\nGuardians with a name in the Crucible can spend these Marks on elite gear. Shaxx considers it fitting that the best should earn the best. The City's factions, fond of using the Crucible as an arena to advance their own interests, will also accept Crucible marks in exchange for their equipment.\n\nGuardians eager to win Crucible Marks should fight in the Crucible, with particular attention to those challenges Lord Shaxx deems important.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/309040_c81edb7345737a3f868b3b16c3f03a17.jpg"
+		],
+		"image_name": ["Crucible Marks"],
+		"filename": ["309040_c81edb7345737a3f868b3b16c3f03a17.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/309040_c81edb7345737a3f868b3b16c3f03a17.jpg",
+				"path": "full/6d040d2e4b26bbaacc35b51f6432e10f0d27cc93.jpg",
+				"checksum": "e47c8ef5f78af6c1caca52af51c23803"
+			}
+		]
+	},
+	{
+		"title": "Eververse",
+		"content":
+			"Tess Everis is always on the lookout for new opportunities. So when she crossed paths with the infamously eccentric artist, designer, explorer and Guardian who became known as Fenchurch Everis, Tess knew an opportunity when she saw it.\n\nHe brings the creative flair: roving the planetary wastes, gathering rare antiquities, crafting vibrantly new pieces, sharing new customs and techniques. She handles everything else, from business to marketing to managing the often-wayward talent.\n\nTess brokers Fenchurch's unique finds and offerings to Guardians of the Tower under the banner of the \n\n\"Eververse Trading Co.\" Dealing exclusively in a rare Awoken crypto-currency called \"Silver\", Eververse is the first major merchant in the City that is unapologetically dedicated to style above substance. In a society wracked by near-constant war, Tess believes beauty for beauty's sake is a revolutionary idea.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/750010_fac8474bc6355397ca5ea7e4b9f4c840.jpg"
+		],
+		"image_name": ["Eververse"],
+		"filename": ["750010_fac8474bc6355397ca5ea7e4b9f4c840.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/750010_fac8474bc6355397ca5ea7e4b9f4c840.jpg",
+				"path": "full/5a4ddb61a4cbcbba39a8541751bf4d90828ffb91.jpg",
+				"checksum": "63e47b123e3b3c26fa9bb88d5d9fb58a"
+			}
+		]
+	},
+	{
+		"title": "Silver",
+		"content":
+			"Long before the Collapse, the Reef settlements used a currency commonly known as Silver\u2014 coins with engram-like qualities which could be digitally signed with an individual person's key.\n\nTess Everis, born in the City after her parents fled the Reef, counts among her most prized possessions an old Silver coin that belonged to her Reefborn grandmother. As the Silver was cryptographically unique, she was stunned to meet an Awoken Warlock named Fenchurch who possessed around his neck a Silver coin of his own, signed with the exact same key as Tess's. Like all Guardians, Fenchurch has no memories before the first time his Ghost resurrected him. But their Silver coins' shared origin leads Tess and Fenchurch to suspect that they are related.\n\nFenchurch instantly took to thinking of Tess as a long-lost niece, even assuming her surname, Everis. Tess loves the Silver that her new partnership with Fenchurch brings\u2014 but, though she'd never admit it, she secretly values her newfound family even more.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/750020_2cd7c7122aad7a8142072f49a433ab26.jpg"
+		],
+		"image_name": ["Silver"],
+		"filename": ["750020_2cd7c7122aad7a8142072f49a433ab26.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/750020_2cd7c7122aad7a8142072f49a433ab26.jpg",
+				"path": "full/394fd410802bdc2e6eef3a85946a8bb3268f5e6f.jpg",
+				"checksum": "fda6c4097dd78f639f194c3ef98f16c3"
+			}
+		]
+	},
+	{
+		"title": "Motes of Light",
+		"content":
+			"The Speaker has no interest in Glimmer, Marks, or the other currencies of the Tower's military functions. But he happily accepts these Motes, points of Light willed into being by an exercise of a mighty Guardian's power.\n\nSome say they will one day become the souls of new Ghosts. Others believe they feed the intricate machinery that the Speaker tends. Whatever the case, the Speaker will happily reward donors with patterns and signs from his collection - more out of gratitude than any mercantile impulse.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/309050_7c62e2f2248ea0a9940bdb45894ac544.jpg"
+		],
+		"image_name": ["Motes of Light"],
+		"filename": ["309050_7c62e2f2248ea0a9940bdb45894ac544.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/309050_7c62e2f2248ea0a9940bdb45894ac544.jpg",
+				"path": "full/f5d3ac6c28c18cc4f68cf63ea0458b3ca377bd12.jpg",
+				"checksum": "101b68f3e16bb7bcdaeddeed38784cb8"
+			}
+		]
+	},
+	{
+		"title": "Chroma",
+		"content":
+			"Eververse is proud to introduce: Chroma.\n\nThis Golden Age lighting technique was recently rediscovered by no other than Eververse's chief creative officer Fenchurch Everis. Using multi-channel heat sinks to accentuate Guardian weapons and armor, Chroma is a style for the fiercely, fearlessly fashionable.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/790020_8e87961c7323f05cc8401de522e3bdc6.jpg"
+		],
+		"image_name": ["Chroma"],
+		"filename": ["790020_8e87961c7323f05cc8401de522e3bdc6.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/790020_8e87961c7323f05cc8401de522e3bdc6.jpg",
+				"path": "full/4df7b3e1c507d90484d07b01e25ac67e6b6fd975.jpg",
+				"checksum": "e9e3d20c62202db5f696e113ad4fd553"
+			}
+		]
+	}
+]

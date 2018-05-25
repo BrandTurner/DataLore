@@ -1,0 +1,230 @@
+[
+	{
+		"title": "Guardian Abilities",
+		"subtitle": "There is a Light in you from which no Darkness can hide.",
+		"content":
+			"Only Guardians have the gift of the Traveler's Light - the ability to channel its energies to project vast power into the world. Even without a firearm, a Guardian is a radiant engine of destruction.\n\nWhile these abilities rise from within, Guardians master their power in different ways. Titans understand the Light as a force to hone through practice and strict discipline. Hunters roam and explore in order to learn, using dangerous methods to survive the wilds. And Warlocks study the Light and its inner mechanisms, confronting unfathomable mysteries in the search for transcendent might.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301005_b658892584e6fe200ea8deb66f9d8c23.jpg"
+		],
+		"image_name": ["Guardian Abilities"],
+		"filename": ["301005_b658892584e6fe200ea8deb66f9d8c23.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301005_b658892584e6fe200ea8deb66f9d8c23.jpg",
+				"path": "full/1574eab682568349e66b2ddf1014d29f4f7f9f44.jpg",
+				"checksum": "197617aceeaadbf3c2b3f80df73d86ce"
+			}
+		]
+	},
+	{
+		"title": "Voidwalker",
+		"subtitle": "Those who have stared into the Void are not bound by the laws of space and time.",
+		"content":
+			"The Traveler came out of the void that surrounds all things. Thus we know that the void is full of power. Thus we enter the void without fear.\n\nSmall minds will call your abilities blasphemous. They will compare you to the abominable Wizards of the Hive.\n\nBut you will not be held back. Gifted with the Traveler's Light, armed with the secret physics of a lost age, you will tear reality asunder.\n\nYou will fear nothing, and nothing will not fear you.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/307060_b75ef2cc670682ca19ef501dd25c7bd0.jpg"
+		],
+		"image_name": ["Voidwalker"],
+		"filename": ["307060_b75ef2cc670682ca19ef501dd25c7bd0.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/307060_b75ef2cc670682ca19ef501dd25c7bd0.jpg",
+				"path": "full/06be4d15eee1f11c50dfe1470ba8f6e2e240e1e7.jpg",
+				"checksum": "54e138798467872b1cc70c07840d6bf9"
+			}
+		]
+	},
+	{
+		"title": "Defender",
+		"subtitle": "The wall against which the Darkness breaks.",
+		"content":
+			"Defender Titans are immovable anchors, trained to absorb punishment and control the flow of battle.\n\nArmed with unflinching conviction and an armory of Void techniques, Defenders block the enemy's movements, shrug off their fiercest weapons, and rally fellow Guardians to strike back.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/307030_39842fbcf3c93892ffca34555b9b090d.jpg"
+		],
+		"image_name": ["Defender"],
+		"filename": ["307030_39842fbcf3c93892ffca34555b9b090d.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/307030_39842fbcf3c93892ffca34555b9b090d.jpg",
+				"path": "full/246230a3eeb476a1d9d6d19243f4ef371661cc40.jpg",
+				"checksum": "3bc0d27a22f1187fe0233a239df11216"
+			}
+		]
+	},
+	{
+		"title": "Nightstalker",
+		"subtitle": "Draw from the Void. Light the way.",
+		"content":
+			"A lone hunter stalks the night, firing arrows into the Darkness. There is no hiding, no escape. In the distance, the beast falters, tethered to the void. The killing blow comes without hesitation, without mercy.\n\nThere\u2019s truth in the edge of Light, and beneath that truth a deeper truth, hidden from all but a few.\n\nThat truth is this: monsters need not fear the night.\n\nDo not hunt the monster. Become the monster.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700050_8f1255d6742b0b37f43917750bf3ec59.jpg"
+		],
+		"image_name": ["Nightstalker"],
+		"filename": ["700050_8f1255d6742b0b37f43917750bf3ec59.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700050_8f1255d6742b0b37f43917750bf3ec59.jpg",
+				"path": "full/03dc115182b6872c31ae9d149537575535d6fa71.jpg",
+				"checksum": "40f6a526a7031e4dc09eb9fe11a1865e"
+			}
+		]
+	},
+	{
+		"title": "Gunslinger",
+		"subtitle": "A lone wolf who lives for the perfect shot.",
+		"content":
+			"In the end, doesn't it all come down to you and your gun?\n\nDon't see much else to say about it. That's just truth.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/307040_06bfbbdf31d18761b7d260ec7ec6fe41.jpg"
+		],
+		"image_name": ["Gunslinger"],
+		"filename": ["307040_06bfbbdf31d18761b7d260ec7ec6fe41.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/307040_06bfbbdf31d18761b7d260ec7ec6fe41.jpg",
+				"path": "full/a0a9fc7644c5bbd724ee5a85a2f5c6d7076ee098.jpg",
+				"checksum": "ea96eb2d1d95ba5889921b14bda0e4ee"
+			}
+		]
+	},
+	{
+		"title": "Gunslinger",
+		"subtitle": "A lone wolf who lives for the perfect shot.",
+		"content":
+			"In the end, doesn't it all come down to you and your gun?\n\nDon't see much else to say about it. That's just truth.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/307040_06bfbbdf31d18761b7d260ec7ec6fe41.jpg"
+		],
+		"image_name": ["Gunslinger"],
+		"filename": ["307040_06bfbbdf31d18761b7d260ec7ec6fe41.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/307040_06bfbbdf31d18761b7d260ec7ec6fe41.jpg",
+				"path": "full/a0a9fc7644c5bbd724ee5a85a2f5c6d7076ee098.jpg",
+				"checksum": "ea96eb2d1d95ba5889921b14bda0e4ee"
+			}
+		]
+	},
+	{
+		"title": "Sunbreaker",
+		"subtitle": "Forge the fury of undying suns.",
+		"content":
+			"Some Titan orders predate the City, born of a darker time, when Light was an untamed weapon. The Sunbreakers brought honor to the wild, never seeking the safety of the City. Bound by an oath, they live as mercenaries, seeking battles and alliances beyond the Walls. Now the Light of their fire has at last found rank among the City.\n\nWield the Hammer of Sol with honor, Titan, it is a thing of legend, both past and future.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700040_56486e39243bcb049201c89b22fd05f0.jpg"
+		],
+		"image_name": ["Sunbreaker"],
+		"filename": ["700040_56486e39243bcb049201c89b22fd05f0.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700040_56486e39243bcb049201c89b22fd05f0.jpg",
+				"path": "full/d56c84761be10b9382848225f7edd1d7fbace4e8.jpg",
+				"checksum": "4e8649af24aff2a0dababc692d8530b0"
+			}
+		]
+	},
+	{
+		"title": "Striker",
+		"subtitle": "At close quarters a fist is better than any gun.",
+		"content":
+			"Striker Titans charge into close combat, armored in Light and wielding fistfuls of thunder.\n\nStriker tactics depend on shock and disciplined aggression. They must awe and scatter the enemy, or risk being overwhelmed. Fellow Guardians prize their ability to draw fire as they shatter the enemy line.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/307020_de0975f5d5366da2c0b907e1dd69f08c.jpg"
+		],
+		"image_name": ["Striker"],
+		"filename": ["307020_de0975f5d5366da2c0b907e1dd69f08c.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/307020_de0975f5d5366da2c0b907e1dd69f08c.jpg",
+				"path": "full/d6e3c684079ffce45bc2f78a74e8449d5df9849f.jpg",
+				"checksum": "043c587e189de740bb99e37dc407b286"
+			}
+		]
+	},
+	{
+		"title": "Ghost Fragment: Abilities",
+		"subtitle": "From Lord Saladin's Induction Speech",
+		"content":
+			"Nothing born is born strong.\n\nI know I began weak, the same as you. I don't care if you're an Exo, staring at that number and wondering where you've come from. Or a Human hungry to understand the ancient world that left you for dead. Or an Awoken reborn in the very essence of what your people hide from. Together, we're the pointed end of a long stick of happenstance. Change one ripple in an ancient ocean and we would never have been granted the Light within us, or the good Ghosts that want to help us.\n\nHumble origins.\n\nEvery world begins as a big pebble lost among trillions of pebbles. Every worthy sun was once cold hydrogen spread thin across the vacuum. Even the universe, this cosmic garden that surrounds us and awes us...this monument to Creation was once the size of an apple seed. And everything that's splendid and great stands at the end of incalculable chance and mayhem.\n\nYes, you have talents. Enormous, wondrous powers. But you should put the smirk away. Do you know what a Guardian is? Not yet. Your name is another pebble. You are a cold apple seed.\n\nBut you will grow.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301010_06b2f5376b6f6adc0d629ee88fa06cf1.jpg"
+		],
+		"image_name": ["Ghost Fragment: Abilities"],
+		"filename": ["301010_06b2f5376b6f6adc0d629ee88fa06cf1.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301010_06b2f5376b6f6adc0d629ee88fa06cf1.jpg",
+				"path": "full/98f1f0e6255e0dec104efede042b98dfae4f5cdf.jpg",
+				"checksum": "246c2754597fc7c6a2cbd23e3c1d9ff0"
+			}
+		]
+	},
+	{
+		"title": "Bladedancer",
+		"subtitle": "Beautiful lethality, relentless style.",
+		"content":
+			"There's something to be said for the blade. A knife won't jam. A knife won't run dry. A knife is very, very quiet.\n\nLeave the noise and fire to others. There's work to be done, out there in the dark - monsters that deserve death, delivered quickly, silently, and without mercy.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/307050_d84fd9e01d55ac301f4a3241f1f34ce6.jpg"
+		],
+		"image_name": ["Bladedancer"],
+		"filename": ["307050_d84fd9e01d55ac301f4a3241f1f34ce6.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/307050_d84fd9e01d55ac301f4a3241f1f34ce6.jpg",
+				"path": "full/03484367ed8f9a27d2634b37a724f0bbb6645bb7.jpg",
+				"checksum": "7643426d727e770853cea4ea188cc827"
+			}
+		]
+	},
+	{
+		"title": "Sunsinger",
+		"subtitle": "There are flames that even the Darkness cannot extinguish.",
+		"content":
+			"These are dark times. Humanity stands on the brink of extinction. We will carry fire into that darkness - a beacon to guide the way, and a pyre to consume our great enemy. \n\nThe Light saved us from death and forged us into weapons. We seek to understand it, to embrace it, to consume and be consumed by it. We hope to become radiant.\n\nOur fellow Guardians need our power. Our civilization needs our strength.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/307070_f9f9f9f95d60626a06fe91b40f4b2dd4.jpg"
+		],
+		"image_name": ["Sunsinger"],
+		"filename": ["307070_f9f9f9f95d60626a06fe91b40f4b2dd4.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/307070_f9f9f9f95d60626a06fe91b40f4b2dd4.jpg",
+				"path": "full/04b92e22ddf0f3cfaf9a044235aa7a75f3f0c0a8.jpg",
+				"checksum": "d91106e5bd0b356654a28fe50876fb12"
+			}
+		]
+	},
+	{
+		"title": "Stormcaller",
+		"subtitle": "Harmony within, hurricane without.",
+		"content":
+			"Meditate. Focus. Draw the static from within. The Arc is inside all life.\n\nYou must feel it take hold, let it flow through, but not consume you. You are a conduit. Between sky and earth. Electricity and matter. Life and death.\n\nYou are a weapon.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700060_145e4baa48d908c7c1057f55921aaf1b.jpg"
+		],
+		"image_name": ["Stormcaller"],
+		"filename": ["700060_145e4baa48d908c7c1057f55921aaf1b.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700060_145e4baa48d908c7c1057f55921aaf1b.jpg",
+				"path": "full/c6b4a6738ece7e8ef6b6a182c810546c43608471.jpg",
+				"checksum": "442c8e0ecf76c0f42ea2e505695648ee"
+			}
+		]
+	}
+]

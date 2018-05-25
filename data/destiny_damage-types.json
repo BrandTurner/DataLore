@@ -1,0 +1,78 @@
+[
+	{
+		"title": "Arc",
+		"subtitle": "\"A spark can give life...or take it.\"",
+		"content":
+			"The universe is defined by fundamental forces. Complex matter is bound together by deep forces - and in the study of this binding lies the secret of Arc Light.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/305020_aa4b0a05a8f099e86cd6aecc8ce983de.jpg"
+		],
+		"image_name": ["Arc"],
+		"filename": ["305020_aa4b0a05a8f099e86cd6aecc8ce983de.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/305020_aa4b0a05a8f099e86cd6aecc8ce983de.jpg",
+				"path": "full/ffc04562b90562bf0416319d36b48fb474774e86.jpg",
+				"checksum": "88e2d637e5b8f344151971ee8f02c98f"
+			}
+		]
+	},
+	{
+		"title": "Solar",
+		"subtitle": "\"Sometimes the only answer is to burn it all away.\"",
+		"content":
+			"The universe is defined by fundamental forces. Energy is carried by quanta, tiny messengers of change. In the understanding of these messengers lies the secret of Solar Light.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/305030_2e6b1db10a5b2d6661f1ed8366305dca.jpg"
+		],
+		"image_name": ["Solar"],
+		"filename": ["305030_2e6b1db10a5b2d6661f1ed8366305dca.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/305030_2e6b1db10a5b2d6661f1ed8366305dca.jpg",
+				"path": "full/498ba084f008bdb7620e4e13233dfcd065dae8e2.jpg",
+				"checksum": "2d7d5902f374c52a7c45ed40201cb31b"
+			}
+		]
+	},
+	{
+		"title": "Solar",
+		"subtitle": "\"Sometimes the only answer is to burn it all away.\"",
+		"content":
+			"The universe is defined by fundamental forces. Energy is carried by quanta, tiny messengers of change. In the understanding of these messengers lies the secret of Solar Light.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/305030_2e6b1db10a5b2d6661f1ed8366305dca.jpg"
+		],
+		"image_name": ["Solar"],
+		"filename": ["305030_2e6b1db10a5b2d6661f1ed8366305dca.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/305030_2e6b1db10a5b2d6661f1ed8366305dca.jpg",
+				"path": "full/498ba084f008bdb7620e4e13233dfcd065dae8e2.jpg",
+				"checksum": "2d7d5902f374c52a7c45ed40201cb31b"
+			}
+		]
+	},
+	{
+		"title": "Void",
+		"subtitle": "\"It's fitting, then, that we have weaponized the unknown.\"",
+		"content":
+			"The universe is defined by fundamental forces. Beneath the world of light and matter lies the vacuum, and the vast dark secrets that it contains. In the understanding of this vacuum lies the secret of Void Light.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/305040_ff581ccb6e9480397c8a2c21338c1ba2.jpg"
+		],
+		"image_name": ["Void"],
+		"filename": ["305040_ff581ccb6e9480397c8a2c21338c1ba2.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/305040_ff581ccb6e9480397c8a2c21338c1ba2.jpg",
+				"path": "full/00296fab424a1f13ae1292293c384e805a7e2fb0.jpg",
+				"checksum": "6725df3cee2a17b915b70ee64c4565c4"
+			}
+		]
+	}
+]

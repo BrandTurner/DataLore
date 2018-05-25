@@ -1,0 +1,434 @@
+[
+	{
+		"title": "Shotguns",
+		"content":
+			"There are few weapons that offer the comfort and familiarity of a shotgun. Built for close quarters combat, they provide immediate, violent conflict resolution.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303010_2e2c0afc5689a0b52d132a0dee25dc77.jpg"
+		],
+		"image_name": ["Shotguns"],
+		"filename": ["303010_2e2c0afc5689a0b52d132a0dee25dc77.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303010_2e2c0afc5689a0b52d132a0dee25dc77.jpg",
+				"path": "full/f839b23162f8f0126622f803c971764df238878e.jpg",
+				"checksum": "e97b8b2c337767be1f27db8f53abdb3f"
+			}
+		]
+	},
+	{
+		"title": "Plan C",
+		"content":
+			"Sharp reflexes keep you alive on the frontier - but no matter how fast you are, a fusion rifle can only charge so quickly. Enter the Plan C. When you draw the weapon, fast-rise capacitors and a smart induction system prime for firing. The 'ready fire' state only lasts a few moments - but in a gunfight, those moments matter.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303060_b50448c19cd2d99a172e30396da42161.jpg"
+		],
+		"image_name": ["Plan C"],
+		"filename": ["303060_b50448c19cd2d99a172e30396da42161.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303060_b50448c19cd2d99a172e30396da42161.jpg",
+				"path": "full/1d165dc03d25ee937e5ca153c60162abbdd4a389.jpg",
+				"checksum": "2fea6068bae32cd84c87483ec56415a8"
+			}
+		]
+	},
+	{
+		"title": "Invective",
+		"content":
+			"Invective was Ikora Rey's weapon of choice during her younger, more rebellious days. An ideal fallback for situations that can't be solved by wit, quick talk, or pure intimidation, this modified shotgun uses a self-replicating magazine to keep its owner well-stocked for any and all trouble that waits beyond the City.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303030_5bc704eb4efc564ba0588d145ce46121.jpg"
+		],
+		"image_name": ["Invective"],
+		"filename": ["303030_5bc704eb4efc564ba0588d145ce46121.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303030_5bc704eb4efc564ba0588d145ce46121.jpg",
+				"path": "full/d44417cb4c25bc23572bfe438be56853c312028c.jpg",
+				"checksum": "751aedc7aabfdb61e806c2e19c964f81"
+			}
+		]
+	},
+	{
+		"title": "Pocket Infinity",
+		"content":
+			"Fireteam Tuyet died in the Ishtar Sink, hunting the secrets of the Vex. They must have come too close to something precious, for the Vex descended on them with their typical inscrutable, thorough violence. \n\nBut their sacrifice was not in vain. The data they gathered helped forge the Pocket Infinity. Properly modified, the weapon should be capable of devastating output on just a single charge cycle.\n\nThe Infinity's mechanisms have proven difficult, if not impossible, to replicate en masse. It is conceivable that the weapon draws its energy from the Vex networks...an ominous possibility. So be wary with it.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303050_f5bc7cdc008f035f9f7e0e42e5fae3d2.jpg"
+		],
+		"image_name": ["Pocket Infinity"],
+		"filename": ["303050_f5bc7cdc008f035f9f7e0e42e5fae3d2.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303050_f5bc7cdc008f035f9f7e0e42e5fae3d2.jpg",
+				"path": "full/d9b488cdd89f4df6621cff4a0f4e12e75fcb279b.jpg",
+				"checksum": "9d75b45568ffde2524b1bba10293349a"
+			}
+		]
+	},
+	{
+		"title": "Universal Remote",
+		"content":
+			"It took great care, and an incredible feat of fine-tuning, to craft a weapon that packs a close-quarters punch, yet has the range of a precision rifle. Universal Remote is that weapon.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303020_36cf11b6155ab6252cdb54feb7171247.jpg"
+		],
+		"image_name": ["Universal Remote"],
+		"filename": ["303020_36cf11b6155ab6252cdb54feb7171247.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303020_36cf11b6155ab6252cdb54feb7171247.jpg",
+				"path": "full/ee0e155ebb55d8dd050de0b96ec4f11cc3c12f35.jpg",
+				"checksum": "8a6f22c073538e4fae60bad41bcf1c8b"
+			}
+		]
+	},
+	{
+		"title": "The 4th Horseman",
+		"content":
+			"One look at The 4th Horseman, and the care taken in crafting it, points to the old trophy-driven traditions of the hunt, but this blunt force destroyer wasn\u2019t built for just any game. Its precision tuning allows for full-auto firing, while measured impact timing provides an extra kick at the tail end of each magazine\u2014a needed fail safe designed specifically for the weapon\u2019s intended prey, the biggest game in the system, the Cabal.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303093_fe42b8bfb71964af2a0a25c0b5969a15.jpg"
+		],
+		"image_name": ["The 4th Horseman"],
+		"filename": ["303093_fe42b8bfb71964af2a0a25c0b5969a15.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303093_fe42b8bfb71964af2a0a25c0b5969a15.jpg",
+				"path": "full/4332270621a93bb73e5fbaefed84e6eb5f6f13fc.jpg",
+				"checksum": "1407405018e54121163df2b5ff314f49"
+			}
+		]
+	},
+	{
+		"title": "The Chaperone",
+		"content":
+			"Amanda Holliday was born on the road, when the City was nothing more than a whispered prayer. Their only protection was the weapons they could scavenge, build or modify. Weapons like her mother's two-barrel shotgun, with its black and gold filigree far too fine for the world around it. They called it the Chaperone.\n\nThat Chaperone lies in a shallow grave with its last owner, but Amanda recalls every detail of its design. And via a partnership with the gunsmiths of Tex Mechanica, she's brought the Chaperone back to life. Though the new weapon is much more powerful than the cantankerous relic the Hollidays used on the road, it bears the appearance, and the name, of the Chaperone that saw the one surviving Holliday safely to the Last City.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700220_dfbdc8d3d545fc107a36d27641796c30.jpg"
+		],
+		"image_name": ["The Chaperone"],
+		"filename": ["700220_dfbdc8d3d545fc107a36d27641796c30.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700220_dfbdc8d3d545fc107a36d27641796c30.jpg",
+				"path": "full/03610c2006816c099fe29a5f67d7125eaca3651c.jpg",
+				"checksum": "ae2d36fd014e9246fe6612ab382a538e"
+			}
+		]
+	},
+	{
+		"title": "Fusion Rifles",
+		"content":
+			"Advancements in directed energy disbursement, gained through the discovery of Golden Age research, led to the creation of stable, field-ready energy-based weaponry. The first implementation of this technology comes in the form of the Fusion Rifle. Users must hold the trigger down for a few moments to charge the weapon before firing.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303040_8ddb175d35651a6c395a2280c3b05e78.jpg"
+		],
+		"image_name": ["Fusion Rifles"],
+		"filename": ["303040_8ddb175d35651a6c395a2280c3b05e78.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303040_8ddb175d35651a6c395a2280c3b05e78.jpg",
+				"path": "full/401736008b33c26c8fcf24a00458066b05a87d0b.jpg",
+				"checksum": "a9495ca9816f3c1c0bf8d686c9932a40"
+			}
+		]
+	},
+	{
+		"title": "Lord of Wolves",
+		"content":
+			"Jolyon was a Crow. He'd seen much. More than most. He held the enemy's greatest weapon. Remembered its burn. Then began tinkering. He liked things. Liked how they worked. Found happiness in finding new avenues through which a thing could function. Not to alter the purpose, but simply to refine it.\n\nThe weapon delivered impact with incredible force spread over a range to increase its area of influence. But what if that force was brought to focus in a directed burst. A seasoned marksman with a steady, strong hand could deliver a burn that served less to herd, more to punish.\n\nThe feral ones deserved nothing less. The Wolves would have a new master. And that master was fire.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303034_c0e3c6dbea486baff6d72082812b01bf.jpg"
+		],
+		"image_name": ["Lord of Wolves"],
+		"filename": ["303034_c0e3c6dbea486baff6d72082812b01bf.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303034_c0e3c6dbea486baff6d72082812b01bf.jpg",
+				"path": "full/5ea1f637ffa62bee9191228610e65007d5d32754.jpg",
+				"checksum": "58b2a1f8a8d7bbe9e55c10d6cbc24364"
+			}
+		]
+	},
+	{
+		"title": "Vex Mythoclast",
+		"content":
+			"Some legends live forever. Others are overwritten - reshaped by the sheer will of those who believe that any ordeal can be conquered, any foe vanquished, any god cast down. \n\nThe Mythoclast is a Vex instrument from some far-flung corner of time and space, mysteriously fit for human hands. Its origins, mechanism of action, and ultimate purpose remain unknown. Perhaps it will reveal itself to you, in time...",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303065_acefb449b43912f4c66b7f12d3d821bc.jpg"
+		],
+		"image_name": ["Vex Mythoclast"],
+		"filename": ["303065_acefb449b43912f4c66b7f12d3d821bc.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303065_acefb449b43912f4c66b7f12d3d821bc.jpg",
+				"path": "full/77b399e5008921e5fbc08fc9673efd57201acea3.jpg",
+				"checksum": "2ed2b1cae2df4523bc9edf270d8052bf"
+			}
+		]
+	},
+	{
+		"title": "Queenbreakers' Bow",
+		"content":
+			"\"Queenbreaker\" was the label given to the Fallen who first rose to betray the Queen. Their coordinated attempt on Her Grace's life was quick and violent. Most of the Queenbreakers were eliminated, their line rifles taken as trophies. Some remain at-large.\n\nKnown as Queenbreakers' Bows, the very weapons once used in an effort to assassinate the Queen of the Reef are now prized possessions for Guardians\u2014not only for their storied history, but for the chance to get their hands on fully functional Fallen weaponry.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303310_0af29a33544bf782bd9c4c3930ee9af1.jpg"
+		],
+		"image_name": ["Queenbreakers' Bow"],
+		"filename": ["303310_0af29a33544bf782bd9c4c3930ee9af1.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303310_0af29a33544bf782bd9c4c3930ee9af1.jpg",
+				"path": "full/d148a1d1289c62e9930536def0100c6969224418.jpg",
+				"checksum": "8c8efc2b241c6e6ec4c5d515b7426fca"
+			}
+		]
+	},
+	{
+		"title": "Sleeper Simulant",
+		"content":
+			"V156NNI900CLS002\n\nAI-COM/RSPN: ASSETS//COSMO//IMPERATIVE\n\nIMMEDIATE EVALUATION DIRECTIVE\n\nThis is a CENTRAL ASSETS IMPERATIVE (secured/CONFERENCE)\n\nThis is an INTERNAL ALERT.\n\nNumber of exterior defense breaches has increased by 400% in the past year. Current campus defense protocols unable to keep up with new demands.\n\nOperation MIDNIGHT EXIGENT is NOT YET COMPLETE. Interim response necessity is IMPERATIVE.\n\nHypothesize that resource GUARDIANS may be leveraged to compensate for CDP inadequacies.\n\nReassign 12 percent of COSMO assets to new directive: declare IKELOS.\n\nI am calling VOLUSPA and extracting subroutine DVALIN FORGE, to be modified and recompiled to comport to MIDNIGHT EXIGENT parameters.\n\nI am inserting the modified DVALIN FORGE-2 into IKELOS and compiling for immediate implementation.\n\nExecute short hold for partial shutdown and reactivation.\n\nSTOP STOP STOP V55NNI900CLS003",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700250_d060e978cc1fff08a1edf0df1773627b.jpg"
+		],
+		"image_name": ["Sleeper Simulant"],
+		"filename": ["700250_d060e978cc1fff08a1edf0df1773627b.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700250_d060e978cc1fff08a1edf0df1773627b.jpg",
+				"path": "full/3eb4fdc4081357648d1d3dd1a3c6a7f12d9bcba4.jpg",
+				"checksum": "cd02a47e730b50c2c115198ba5990ee3"
+			}
+		]
+	},
+	{
+		"title": "Ice Breaker",
+		"content":
+			"The Ice Breaker series was a clandestine project developed by the Vanguard in conjunction with various City weapons foundries. Meant as an exploration of Golden Age weapon technology, the project was scrapped after only a single weapon reached the testing phase. \n\nThe prototypes for the project's lone weapon are considered dangerous and unfit for field duty by the Vanguard. This hasn't stopped daring Guardians from seeking out the Ice Breakers - death, after all, is an occupational hazard.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303090_215ea0cd908496c32c7009973f8ca536.jpg"
+		],
+		"image_name": ["Ice Breaker"],
+		"filename": ["303090_215ea0cd908496c32c7009973f8ca536.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303090_215ea0cd908496c32c7009973f8ca536.jpg",
+				"path": "full/61cea6c74a28199887f3003a43d024aa3e6322d0.jpg",
+				"checksum": "d506f95c75a22c5201021bdade1f974a"
+			}
+		]
+	},
+	{
+		"title": "Telesto",
+		"content":
+			"PUBLIC KEY 023 629 DWS REGAL\n\nFROM: PLDN KAMALA RIOR [PLDN CMD TF 5.3]\n\nTO: ACT RGNT PETRA VENJ\n\nSUBJ: S&amp;R REPORT: Saturn XIII\n\nExpanded search of Saturn's nearby moons produced only one notable discovery: A cloud of Harbinger matter collected around Saturn's 13th moon, designation \"Telesto.\" A sample is enclosed for your examination.\n\nStill no sign of primary objectives. Continued survey of the remaining 100,000 km3 of space is underway. But as an Armada Paladin of the Awoken, it is my duty to officially recommend declaration of death of the following: Paladin Yasmin Eld, Paladin Leona Bryl, Paladin Abra Zire, Paladin Pavel Nolg, Techeun Shuro, Techeun Sedia, Techeun Kali, and the Awoken Queen Mara Sov.\n\nNote that as acting regent-commander it is NOT your duty to actually declare these deaths at this time.\n\nMESSAGE ENDS",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700230_cf9a662032babb9d1aaa5132c54e031e.jpg"
+		],
+		"image_name": ["Telesto"],
+		"filename": ["700230_cf9a662032babb9d1aaa5132c54e031e.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700230_cf9a662032babb9d1aaa5132c54e031e.jpg",
+				"path": "full/2703e6bed0b7059642fbbfe49c27edb0c4fb2eae.jpg",
+				"checksum": "a53d208ab83a895ea904a2d59ef5dbf7"
+			}
+		]
+	},
+	{
+		"title": "Sniper Rifles",
+		"content":
+			"The dangers present beyond the City's walls cannot always be met head-on. The accuracy and power of the Sniper Rifle offers the best option for precise ranged attacks. Caliber and make differ, but a good sniper can always remove key threats.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303070_e0edae4d575cef60eaceeca8592a8360.jpg"
+		],
+		"image_name": ["Sniper Rifles"],
+		"filename": ["303070_e0edae4d575cef60eaceeca8592a8360.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303070_e0edae4d575cef60eaceeca8592a8360.jpg",
+				"path": "full/409e9c696db918e97f9cc4ae8b41cb9f709c6927.jpg",
+				"checksum": "ce7aad3b24eb9120f8405f9a68eb45a3"
+			}
+		]
+	},
+	{
+		"title": "Patience and Time",
+		"content":
+			"Patience and Time is an assassin's dream. Enhanced sensor integration allows for target tracking while aiming down the sight, and those who work with the weapon and explore its deeper capabilities will find light-bending camouflage systems ready to interface with a Guardian's armor micromaterials.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303080_02fbc0740324f8fd0a0da532e3419eba.jpg"
+		],
+		"image_name": ["Patience and Time"],
+		"filename": ["303080_02fbc0740324f8fd0a0da532e3419eba.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303080_02fbc0740324f8fd0a0da532e3419eba.jpg",
+				"path": "full/5893cf2d39acb193c896333839582e3faf3f6447.jpg",
+				"checksum": "fac7f79569912429545138fb506abf3a"
+			}
+		]
+	},
+	{
+		"title": "No Land Beyond",
+		"content":
+			"Rumors of this weapon's existence sent many a Guardian clawing through the corners of Old Russia, seeking its legend. Some believe its origins predate the Golden Age and served to liberate the old Earth nation from a terrible cycle of war.\n\nOthers believe it a Golden Age relic built to honor the sniper and their artful approach to battle\u2014to lean on the sole power of the long rifle, nest where the enemy cannot see, trust in the power of calm and know there is nowhere to fall back to.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303092_9b618fc25106f99d4cba6d37e27415d7.jpg"
+		],
+		"image_name": ["No Land Beyond"],
+		"filename": ["303092_9b618fc25106f99d4cba6d37e27415d7.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303092_9b618fc25106f99d4cba6d37e27415d7.jpg",
+				"path": "full/3fab2821e3c734a83789c2f67c8bbabbf32c91d3.jpg",
+				"checksum": "3030b17fe009ec065fefbfec470adcc5"
+			}
+		]
+	},
+	{
+		"title": "Hereafter",
+		"content":
+			"Once, we had peace. \n\nThis isn't a story about peace.\n\nThen there was darkness, destruction, despair.\n\nThis isn't a story about those things either.\n\nThis story comes much later.\n\nIt's a story about what was here, after,\n\nAnd what came next.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700210_e84f429bc0cdcd42cfd0591b2c5af37e.jpg"
+		],
+		"image_name": ["Hereafter"],
+		"filename": ["700210_e84f429bc0cdcd42cfd0591b2c5af37e.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700210_e84f429bc0cdcd42cfd0591b2c5af37e.jpg",
+				"path": "full/999726e6256e368f6a95fb6810aba8730bd9b8ad.jpg",
+				"checksum": "4dbfdb8bb9e7e2cb88f6c643e0cfca8c"
+			}
+		]
+	},
+	{
+		"title": "Zen Meteor",
+		"content":
+			"Exo have always known that a machine is capable of bridging the gap between the physical and the numinous. It is from that knowledge, and my collaboration with two Guardians \u2014 Hunter Uzoma Vale and the Warlock they call The Stoic \u2014 that the Zen Meteor was born.\n\nThis groundbreaking weapon uses electroencephalography to draw energy from the wielder's neural activity. It can even, if a certain threshold is met, convert that energy into matter to be used as concussive ammunition.\n\nOr, to be more precise \u2014 the more focused the wielder's mind, the more powerful the weapon.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/790010_2051cc121e7f17b7fcce025e95aa76dc.jpg"
+		],
+		"image_name": ["Zen Meteor"],
+		"filename": ["790010_2051cc121e7f17b7fcce025e95aa76dc.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/790010_2051cc121e7f17b7fcce025e95aa76dc.jpg",
+				"path": "full/8632cf971418a23632277c2378f8105bb6d83d1b.jpg",
+				"checksum": "aa2b3bd32a66105d45b0c573f0bc9522"
+			}
+		]
+	},
+	{
+		"title": "Black Spindle",
+		"content":
+			"The followers of Crota swing Hammers,\n\nSing death-songs:\n\nFatal.\n\nFinal.\n\nAbsolute.\n\nIr Halak and Ir An\u00fbk laugh at Crota.\n\nFinality is a child's plaything,\n\nFit for one such as Crota,\n\nThey say.\n\nNo Hammer for the Unraveler and the Weaver,\n\nBut a Spindle, wound with woe.\n\nFor their foes,\n\nNo end of suffering.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700240_2c2774b5fd9806738c9870bb17d89b48.jpg"
+		],
+		"image_name": ["Black Spindle"],
+		"filename": ["700240_2c2774b5fd9806738c9870bb17d89b48.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700240_2c2774b5fd9806738c9870bb17d89b48.jpg",
+				"path": "full/abe1d97a613b657dc3181ab9aa46a1a41215b2fa.jpg",
+				"checksum": "d90f4323b44c166c4919a4fe67e4eb7e"
+			}
+		]
+	},
+	{
+		"title": "Sidearms",
+		"content":
+			"The Sidearms class is made up of lightweight pistols designed for ease of handling and quick-firing. Its antiquated triggering system and engineering make it rare within City limits. \n\nAs it's long been a staple of the Awoken Royal Guard, perhaps this newly forged alliance between the Reef and the City will see the Sidearm become commonplace within Guardian arsenals.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303200_09580ccd8cec672ced2ef84c5140a73b.jpg"
+		],
+		"image_name": ["Sidearms"],
+		"filename": ["303200_09580ccd8cec672ced2ef84c5140a73b.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303200_09580ccd8cec672ced2ef84c5140a73b.jpg",
+				"path": "full/5cbd6e1465026c2d9deafad272bb300986844a5e.jpg",
+				"checksum": "eab260782f530af22e86c1e80162508d"
+			}
+		]
+	},
+	{
+		"title": "Vestian Dynasty",
+		"content":
+			"Imagine: you live in the largest territory in the system. A huge torus of habitable, explorable space. But there's a catch. That huge space is made up of millions and millions of nooks and crannies. Asteroids. Crumbling derelicts. Debris from dozens of wars. It's a place where you could go for thousands\u2014millions\u2014of miles without ever seeing another friendly face, and yet never once be able to stretch your legs.\n\nNow imagine: you're spelunking across an asteroid, or crawling through a half-collapsed ship that could be hundreds of years old. You won't see enemies coming, not in a tight corner like that. Won't hear 'em or smell 'em either, not in the void. But then you move, or they move, and there you both are.\n\nRifles, shotguns, they aren't gonna cut it. You don't have room to heft a barrel of that length. Don't have the arm room to throw a knife or a grenade either. But what you do have is a sidearm at your hip. Small enough for a fast draw, strong enough to save your life.\n\nThat's why the Queen sends out every last Corsair with a Vestian Dynasty sidearm at our hips. And Vestian Dynasty is what gets us home again too.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303210_a9e9f39d78a5bbea700cc9e0cce280d7.jpg"
+		],
+		"image_name": ["Vestian Dynasty"],
+		"filename": ["303210_a9e9f39d78a5bbea700cc9e0cce280d7.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303210_a9e9f39d78a5bbea700cc9e0cce280d7.jpg",
+				"path": "full/ae6c8741859c8de41cfc671936f5efa2df2438cb.jpg",
+				"checksum": "8976fa1bccf25a1423160f2e8ec3a853"
+			}
+		]
+	},
+	{
+		"title": "Dreg's Promise",
+		"content":
+			"There is a story, old as time, of he who could catch the stars. Unnamed and eternal, the star-catcher would lead the Fallen, rising from the lowest station to the highest exalted peaks. It is a fairy tale allowed to persist by the four-armed to keep the docked hopeful, placated\u2014even the low may one day ascend.\n\nMyth, fairy tale or a prophecy of what will be, it's best to not take chances. After all, one can't reach across the black to claim dominion over ten thousand stars with ten thousand arms if they die here and now with only two.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303220_75a7006411b64917e542956fa748368e.jpg"
+		],
+		"image_name": ["Dreg's Promise"],
+		"filename": ["303220_75a7006411b64917e542956fa748368e.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/303220_75a7006411b64917e542956fa748368e.jpg",
+				"path": "full/515a1ac4b17355375b986fe282e12bff83189e89.jpg",
+				"checksum": "849465195dc30cee866d9bde9a935882"
+			}
+		]
+	},
+	{
+		"title": "Trespasser",
+		"content":
+			"Trespasser is Shiro-4\u2019s personal sidearm, kit-bashed over the uncounted cycles Shiro-4 spent braving the wilds beyond the City. This light, quick-fire shooter has ended more conversations than it has started. And will end many more before the last war is won.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/800403_90f7885c0e6c77e3469fb470c6ad5413.jpg"
+		],
+		"image_name": ["Trespasser"],
+		"filename": ["800403_90f7885c0e6c77e3469fb470c6ad5413.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/800403_90f7885c0e6c77e3469fb470c6ad5413.jpg",
+				"path": "full/137088e9b6144e4dcc1e7a060254088f946ae21e.jpg",
+				"checksum": "ea86936d51a6628cd9914fface31215f"
+			}
+		]
+	}
+]

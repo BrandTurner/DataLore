@@ -1,0 +1,74 @@
+[
+	{
+		"title": "Ghost Fragment: The Traveler 3",
+		"content":
+			"The knife had a million blades.\n\nAnd you were giant, powerful and swift. But the knife pinned you. Cut your godly flesh away.\n\nVery little was left, you are sure, because you feel insignificant now. The hard slick heart of your soul: That is what remains. A body small as a river stone, and just as simple. You picture yourself as a piece of indigestible grit, a nameless nothing hiding among other nameless stones. Perhaps you glitter like a gem, yes. Pride makes you hope so. If only you could see yourself. But you have no eyes. Not the dimmest sense survives. What lives is memory, and what slim portion of these thoughts can you trust?\n\nThe knife stole much more than your body.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/103050_5138e24efa9eb85f6ca1302223221813.jpg"
+		],
+		"image_name": ["Ghost Fragment: The Traveler 3"],
+		"filename": ["103050_5138e24efa9eb85f6ca1302223221813.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/103050_5138e24efa9eb85f6ca1302223221813.jpg",
+				"path": "full/2fee49424f4ac01e990e9b81866b3f1d7120e557.jpg",
+				"checksum": "91727ccec3c53d630d6a5223f872e108"
+			}
+		]
+	},
+	{
+		"title": "Ghost Fragment: The Traveler 2",
+		"content":
+			"This has been such a long chase. This will be the place you will fight. Fight and win. \n\nBut do you really know why you go where you go, and where this journey is taking you?\n\nThe chase leads you where you need to be, you believe.\n\nUnless...you are being pushed.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/103040_135e7b8d4482da13eda8431b590f4657.jpg"
+		],
+		"image_name": ["Ghost Fragment: The Traveler 2"],
+		"filename": ["103040_135e7b8d4482da13eda8431b590f4657.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/103040_135e7b8d4482da13eda8431b590f4657.jpg",
+				"path": "full/1b454b0382add964766d8af5635bdde8dd99fd70.jpg",
+				"checksum": "450096ecd434404c6891363a54842e39"
+			}
+		]
+	},
+	{
+		"title": "The Traveler",
+		"content":
+			"Everything changed with the coming of the Traveler.\n\nIt gave us gifts that transformed the solar system and the nature of human life. It ushered in the Golden Age, a time of miracles. But it never shared its deepest secrets.\n\nWhere did the Traveler come from? Why did it offer us so much? Did it know it was being hunted across the stars? And why, when the Darkness came, did it choose to stay and fight for us?\n\nNow the Traveler hangs, silent, above humanity's final sanctuary. It may be healing. It may be dying. It gave everything it had to save us. And now its power lies with us, its Guardians.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/103020_6301004ed1d40665f4490066097afac9.jpg"
+		],
+		"image_name": ["The Traveler"],
+		"filename": ["103020_6301004ed1d40665f4490066097afac9.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/103020_6301004ed1d40665f4490066097afac9.jpg",
+				"path": "full/4a0aee0553e81ba6ed3b6b867a387e53fc630380.jpg",
+				"checksum": "c02547969969d37ee4a6dce956d7ea9f"
+			}
+		]
+	},
+	{
+		"title": "Ghost Fragment: The Traveler",
+		"content":
+			"You have lived as invisibly as possible, flicking from solar system to solar system, making grand plans, overseeing the culturing of civilizations, before leaving in a blink. But you have no recollection of ever wanting worship or even thanks from those blessed by you. \n\nBut memory is heavy now. \n\nIt feels like lead and neutronium and electroweak matter fashioned into a moon-sized ball that you must carry as you move. \n\nNow, your flight is rapid, your vast mind infected with such dread and toxic doubt that you find yourself afraid of the simple act of thought. \n\nAnd it is your children you must turn to now, in time of need.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/103030_135e7b8d4482da13eda8431b590f4657.jpg"
+		],
+		"image_name": ["Ghost Fragment: The Traveler"],
+		"filename": ["103030_135e7b8d4482da13eda8431b590f4657.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/103030_135e7b8d4482da13eda8431b590f4657.jpg",
+				"path": "full/42a9f62b6ea7b3d58975cb811edb2b65fdfead40.jpg",
+				"checksum": "450096ecd434404c6891363a54842e39"
+			}
+		]
+	}
+]

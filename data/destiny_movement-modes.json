@@ -1,0 +1,74 @@
+[
+	{
+		"title": "Lift",
+		"content":
+			"Leap into a powered jump. The long, slow arc makes you a target, but used carefully, it's a superb way to break contact, gain control of the high ground, or set up devastating ambushes.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301050_863a2657a161bafcec7e38011d67942a.jpg"
+		],
+		"image_name": ["Lift"],
+		"filename": ["301050_863a2657a161bafcec7e38011d67942a.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301050_863a2657a161bafcec7e38011d67942a.jpg",
+				"path": "full/2b975250e6eba0c16f290bd74b97292fc9459654.jpg",
+				"checksum": "b2c2c5032d8c1306f49dd632ff1526f5"
+			}
+		]
+	},
+	{
+		"title": "Glide",
+		"content":
+			"Break the bonds of gravity and convert your jump into a long, smooth glide. Cross dangerous terrain and float from perch to perch to keep the high ground.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301030_58d2b43a100e09bcac6dbd29a7ac5dfc.jpg"
+		],
+		"image_name": ["Glide"],
+		"filename": ["301030_58d2b43a100e09bcac6dbd29a7ac5dfc.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301030_58d2b43a100e09bcac6dbd29a7ac5dfc.jpg",
+				"path": "full/c325e6733767d39fa321b57adab0d02e4810472f.jpg",
+				"checksum": "e71fabc06af2ea7691f747749e8501d3"
+			}
+		]
+	},
+	{
+		"title": "Blink",
+		"content":
+			"Rip a hole in space and leap from point to point. Master the Blink, and you will be a fearsome killer - a spectral force, hard to evade and impossible to pin down.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301040_c240746dc2cbbde2e4f4b5912fccda23.jpg"
+		],
+		"image_name": ["Blink"],
+		"filename": ["301040_c240746dc2cbbde2e4f4b5912fccda23.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301040_c240746dc2cbbde2e4f4b5912fccda23.jpg",
+				"path": "full/565ff672063676b6792847145df1c24f7a5808e1.jpg",
+				"checksum": "85af1e73425d5e7c4d7f238ec651d912"
+			}
+		]
+	},
+	{
+		"title": "Double Jump",
+		"content":
+			"Bend momentum to jump again in mid-air. Leap to even greater heights, or make a quick adjustment while airborne to disorient your foes.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301020_7892fe29a0c13e54ffc084a18eab19e6.jpg"
+		],
+		"image_name": ["Double Jump"],
+		"filename": ["301020_7892fe29a0c13e54ffc084a18eab19e6.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301020_7892fe29a0c13e54ffc084a18eab19e6.jpg",
+				"path": "full/c26f287cf634fd7823b74e5d1ec5747915855b62.jpg",
+				"checksum": "d0be99405ac7972b1faa54815b8b216b"
+			}
+		]
+	}
+]

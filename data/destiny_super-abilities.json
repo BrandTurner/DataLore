@@ -1,0 +1,182 @@
+[
+	{
+		"title": "Fist of Havoc",
+		"content":
+			"Leap forward and smash the ground, obliterating everything nearby. You will be a thunderbolt - but use your fury carefully. If there are survivors, you will surely draw their wrath.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301120_3bfd404f8d1234f6fe8ff6ce98078f83.jpg"
+		],
+		"image_name": ["Fist of Havoc"],
+		"filename": ["301120_3bfd404f8d1234f6fe8ff6ce98078f83.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301120_3bfd404f8d1234f6fe8ff6ce98078f83.jpg",
+				"path": "full/7648de54fc62e2a50a26056aae69b26ba4de8dfb.jpg",
+				"checksum": "957cf9d961d71a0d710b6c915c050792"
+			}
+		]
+	},
+	{
+		"title": "Golden Gun",
+		"content":
+			"Draw a hand cannon burning with Solar Light and loaded with three rounds of sunfire. Aim steady and keep your wits about you. You are a Gunslinger, and this is what you live for.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301140_fe3eb1876ea1abcb12e4cbb7934b2843.jpg"
+		],
+		"image_name": ["Golden Gun"],
+		"filename": ["301140_fe3eb1876ea1abcb12e4cbb7934b2843.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301140_fe3eb1876ea1abcb12e4cbb7934b2843.jpg",
+				"path": "full/b402221200bb5de2c0e09a7a2b96f746256fc158.jpg",
+				"checksum": "c364455e8ad4a3fd459c814421fa6635"
+			}
+		]
+	},
+	{
+		"title": "Stormtrance",
+		"content":
+			"Focus your Light to call forth a powerful Arc storm, and siphon it, channeling lightning through your fingertips to send it surging between your targets. A Warlock in Stormtrance is exercising such unbreakable focus that the Arc energy they summon draws them off the ground, the air humming and crackling around them. Like lightning you bend your path forward through the air, striking down anything too slow escape the storm.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700120_4880deafe37ac64fa781d5393eba739c.jpg"
+		],
+		"image_name": ["Stormtrance"],
+		"filename": ["700120_4880deafe37ac64fa781d5393eba739c.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700120_4880deafe37ac64fa781d5393eba739c.jpg",
+				"path": "full/d53408a62467e19b8d70f33da6493c6fe67f5bdc.jpg",
+				"checksum": "1e62c250bbe65cf250f20657e750920d"
+			}
+		]
+	},
+	{
+		"title": "Ward of Dawn",
+		"content":
+			"Open a pocket in the universe, an impregnable fortress for you and your allies. The mighty Ward allows Guardians to hold key points and gather their strength in the face of overwhelming opposition.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301130_3b0a10c41a7453748de6fec6a483fcbe.jpg"
+		],
+		"image_name": ["Ward of Dawn"],
+		"filename": ["301130_3b0a10c41a7453748de6fec6a483fcbe.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301130_3b0a10c41a7453748de6fec6a483fcbe.jpg",
+				"path": "full/ed5eda81dc84982de0007fa504611daabfcaf5ea.jpg",
+				"checksum": "951aaea0ae1e99f7f15f55eaa7078565"
+			}
+		]
+	},
+	{
+		"title": "Nova Bomb",
+		"content":
+			"Channel the Traveler's Light into a bolt of energy with the power of a collapsing star. The devastating Nova Bomb scours the battlefield with ethereal fire - but be careful in its use. It takes precious moments to summon, and it must be aimed precisely to avoid obstacles.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301160_4e41b7a1f4c39927b75c9f843b559b4e.jpg"
+		],
+		"image_name": ["Nova Bomb"],
+		"filename": ["301160_4e41b7a1f4c39927b75c9f843b559b4e.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301160_4e41b7a1f4c39927b75c9f843b559b4e.jpg",
+				"path": "full/be303a1bf92461b840a5f3d4860e56e091ac4641.jpg",
+				"checksum": "b5cad60594289c90784490ffb2b0eae5"
+			}
+		]
+	},
+	{
+		"title": "Shadowshot",
+		"content":
+			"Summon the power of the Void to draw back and launch a precision long-range projectile that reaches out and snares enemies with slowing, draining tethers of Void Light. Shadowshot lets a Hunter's dead-eye precision carve a path to new battles.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700110_03836f023daba986152b182a0ee3bcdb.jpg"
+		],
+		"image_name": ["Shadowshot"],
+		"filename": ["700110_03836f023daba986152b182a0ee3bcdb.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700110_03836f023daba986152b182a0ee3bcdb.jpg",
+				"path": "full/d514c86dcf39915276d9fbd5169163cf7faa19e3.jpg",
+				"checksum": "ac83dcf02af92d4342925ab5550da1f5"
+			}
+		]
+	},
+	{
+		"title": "Arc Blade",
+		"content":
+			"Set aside your weapons and lose yourself in the blade trance. Arc Light galvanizes your armor and hastens your movements, and when your knife finds a target it discharges a snap of annihilating current. For as long as the trance lasts, you are the very shadow of death.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301150_61e33e7a1e9d3d6c4edf044e37345a7f.jpg"
+		],
+		"image_name": ["Arc Blade"],
+		"filename": ["301150_61e33e7a1e9d3d6c4edf044e37345a7f.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301150_61e33e7a1e9d3d6c4edf044e37345a7f.jpg",
+				"path": "full/2182adfc7a3c42a8fcfd0a3d49b85c497fb5742e.jpg",
+				"checksum": "fe7b2fbdf450524d5689480d3be2b4f3"
+			}
+		]
+	},
+	{
+		"title": "Arc Blade",
+		"content":
+			"Set aside your weapons and lose yourself in the blade trance. Arc Light galvanizes your armor and hastens your movements, and when your knife finds a target it discharges a snap of annihilating current. For as long as the trance lasts, you are the very shadow of death.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301150_61e33e7a1e9d3d6c4edf044e37345a7f.jpg"
+		],
+		"image_name": ["Arc Blade"],
+		"filename": ["301150_61e33e7a1e9d3d6c4edf044e37345a7f.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301150_61e33e7a1e9d3d6c4edf044e37345a7f.jpg",
+				"path": "full/2182adfc7a3c42a8fcfd0a3d49b85c497fb5742e.jpg",
+				"checksum": "fe7b2fbdf450524d5689480d3be2b4f3"
+			}
+		]
+	},
+	{
+		"title": "Radiance",
+		"content":
+			"Open yourself to the Light. Glimpse, for a few rapturous moments, the truth beyond the powers you wield.<br><br>\nA Warlock in a state of Radiance threatens to slip beyond the bonds of the material, shrugging off physical harm, channeling a torrent of abilities. Some may learn to elevate nearby Guardians, gifting them with power. Others, entranced by the Ghosts' power to reach beyond death, may learn to pluck themselves out of nothingness like the phoenix of ancient myth.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301170_164ad38bbca3f21fa918b534214c5c84.jpg"
+		],
+		"image_name": ["Radiance"],
+		"filename": ["301170_164ad38bbca3f21fa918b534214c5c84.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301170_164ad38bbca3f21fa918b534214c5c84.jpg",
+				"path": "full/5e9a0c69516bc458e98d6c980d364f381f71fd3f.jpg",
+				"checksum": "bf3a58a35f035b0913e0df44f729db8a"
+			}
+		]
+	},
+	{
+		"title": "Hammer of Sol",
+		"content":
+			"Forge your Light into a raging inferno of Solar energy, and pull forth a blazing hammer from the fire. Cloaked in flames, launch your hammer at enemies from afar, releasing a devastating eruption of Solar fire on impact. You burn with the intensity of stars, and no shadow is safe from your Light.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700100_dc7e54fd60d3d7ad1752bac403e0bb61.jpg"
+		],
+		"image_name": ["Hammer of Sol"],
+		"filename": ["700100_dc7e54fd60d3d7ad1752bac403e0bb61.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/700100_dc7e54fd60d3d7ad1752bac403e0bb61.jpg",
+				"path": "full/794ba361886e38e6ec5cde384f74f07309de9b19.jpg",
+				"checksum": "1350f3b31ec0d67f3d3e90a6a1a1a221"
+			}
+		]
+	}
+]

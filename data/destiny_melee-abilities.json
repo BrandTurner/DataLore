@@ -1,0 +1,73 @@
+[
+	{
+		"title": "Punch",
+		"content": "The brute strength of a Titan's melee offers a full-force response to immediate danger.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301180_fa15e491499ecd5ae6abdb2fd0b1267a.jpg"
+		],
+		"image_name": ["Punch"],
+		"filename": ["301180_fa15e491499ecd5ae6abdb2fd0b1267a.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301180_fa15e491499ecd5ae6abdb2fd0b1267a.jpg",
+				"path": "full/d6702b239e77be4e790f03f37c555faeb7f33a5d.jpg",
+				"checksum": "16ddb6f0a24079a0963108dcb88968c9"
+			}
+		]
+	},
+	{
+		"title": "Stab",
+		"content":
+			"With their finely tuned reflexes, Hunters are naturally gifted with knives. The make and shape of the perfect knife is a matter of endless debate.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301190_e089a78796cc945ad74f94139ecc09f0.jpg"
+		],
+		"image_name": ["Stab"],
+		"filename": ["301190_e089a78796cc945ad74f94139ecc09f0.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301190_e089a78796cc945ad74f94139ecc09f0.jpg",
+				"path": "full/4da1f866506200e52588f3d4a8c0c878da173dd9.jpg",
+				"checksum": "d47f949d796333d73aa1f7444c40c7c0"
+			}
+		]
+	},
+	{
+		"title": "Stab",
+		"content":
+			"With their finely tuned reflexes, Hunters are naturally gifted with knives. The make and shape of the perfect knife is a matter of endless debate.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301190_e089a78796cc945ad74f94139ecc09f0.jpg"
+		],
+		"image_name": ["Stab"],
+		"filename": ["301190_e089a78796cc945ad74f94139ecc09f0.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301190_e089a78796cc945ad74f94139ecc09f0.jpg",
+				"path": "full/4da1f866506200e52588f3d4a8c0c878da173dd9.jpg",
+				"checksum": "d47f949d796333d73aa1f7444c40c7c0"
+			}
+		]
+	},
+	{
+		"title": "Palm",
+		"content":
+			"Curiosity gets a Warlock into trouble, and force of will gets a Warlock out. Even novices can shear reality with a single deadly gesture.",
+		"image_urls": [
+			"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301200_5daf38a63fad5fdb57ec44f1fcc496f6.jpg"
+		],
+		"image_name": ["Palm"],
+		"filename": ["301200_5daf38a63fad5fdb57ec44f1fcc496f6.jpg"],
+		"images": [
+			{
+				"url":
+					"https://www.bungie.net/common/destiny_content/grimoire/hr_images/301200_5daf38a63fad5fdb57ec44f1fcc496f6.jpg",
+				"path": "full/1e2b1d95927f4d1abe77535ad147eaf7db49c187.jpg",
+				"checksum": "9e0dd989fd4d7688f7f196d047fd59e2"
+			}
+		]
+	}
+]
