@@ -20,6 +20,9 @@ import { BlurView } from 'expo';
 import propTypes from 'prop-types';
 
 import Images from '../../assets/grimoire_cards/index';
+const Entity = require('html-entities').AllHtmlEntities;
+
+const entities = new Entity();
 
 const { width, height } = Dimensions.get('window');
 
@@ -29,7 +32,15 @@ class GrimoireCardComponent extends Component {
     super(props);
 
     this.renderImageBackground = this.renderImageBackground.bind(this);
-	}
+  }
+
+  static navigationOptions = ({ navigation }) => ({
+    title: `${navigation.state.params.title}`,
+     headerTitleStyle : {textAlign: 'center',alignSelf:'center'},
+        headerStyle:{
+            backgroundColor:'white',
+        },
+    });
 
   renderImageBackground() {
     const { navigation } = this.props;
@@ -49,11 +60,11 @@ class GrimoireCardComponent extends Component {
         <ScrollView style={{ height: '70%' }}>
 					<View style={styles.textBg}>
 						<View style={styles.cardHeader}>
-							<Text style={styles.headerText}>{title.toUpperCase()}</Text>
+							<Text adjustsFontSizeToFit  numberOfLines={1} allowFontScaling style={styles.headerText}>{title.toUpperCase()}</Text>
 						</View>
 
 						<View style={styles.subTitleView}>
-							<Text style={styles.subTitleText}>{subtitle.toUpperCase()}</Text>
+							<Text style={styles.subTitleText}>{entities.decode(subtitle)}</Text>
 						</View>
 
 						<View style={styles.contentView}>
@@ -75,11 +86,11 @@ class GrimoireCardComponent extends Component {
       <ScrollView style={{ height: '70%' }}>
 					<View style={styles.textBg}>
 						<View style={styles.cardHeader}>
-							<Text style={styles.headerText}>{title.toUpperCase()}</Text>
+							<Text adjustsFontSizeToFit numberOfLines={1} allowFontScaling style={styles.headerText}>{title.toUpperCase()}</Text>
 						</View>
 
 						<View style={styles.subTitleView}>
-							<Text style={styles.subTitleText}>{subtitle.toUpperCase()}</Text>
+							<Text style={styles.subTitleText}>{entities.decode(subtitle)}</Text>
 						</View>
 
 						<View style={styles.contentView}>
@@ -91,6 +102,8 @@ class GrimoireCardComponent extends Component {
       )
     }
   }
+
+
 
 	render() {
 		// const { title, subtitle, content } = this.props;
@@ -118,7 +131,7 @@ const styles = StyleSheet.create({
 	textBg: {
 		backgroundColor: 'rgba(30, 30, 30, 0.7)',
 		width: '90%',
-		justifyContent: 'center',
+		justifyContent: 'flex-start',
 		marginLeft: '5%',
 		marginRight: '5%',
 		marginTop: height / 2,
@@ -127,7 +140,8 @@ const styles = StyleSheet.create({
 	cardHeader: {
 		backgroundColor: 'rgba(80,80,75, 0.7)',
 		width: '100%',
-		height: 30
+    height: 30,
+    flex: 1
 	},
 	headerText: {
 		backgroundColor: 'transparent',
@@ -135,7 +149,7 @@ const styles = StyleSheet.create({
 		fontSize: 25,
 		color: '#FFF',
 		fontWeight: 'bold',
-		paddingLeft: 10
+    paddingLeft: 10
 	},
 	subTitleView: {
 		paddingLeft: 10,
@@ -146,7 +160,8 @@ const styles = StyleSheet.create({
 		fontFamily: 'Helvetica',
 		fontSize: 14,
 		fontWeight: 'bold',
-		color: '#FFF'
+    color: '#FFF',
+    fontStyle: 'italic'
 	},
 	contentView: {
 		marginTop: 15

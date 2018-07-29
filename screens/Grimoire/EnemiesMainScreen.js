@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { StyleSheet, View, Text, ImageBackground, ScrollView, TouchableOpacity } from 'react-native';
 import GridView from 'react-native-super-grid';
 import CardMenuScreen from './CardMenuScreen';
-import Enemies from '../../data/enemies/enemies.json';
+import Enemies from '../../data/enemies/enemiesFull.json';
 
 
 export default class EnemiesMainScreen extends Component {
@@ -19,7 +19,7 @@ export default class EnemiesMainScreen extends Component {
                   title: enemy.title,
                   subtitle: '',
                   image: enemy.image_url,
-                  card_data: enemy.data,
+                  card_data: enemy.newdata,
                   isImageUrl: true
               })}
             >

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { StyleSheet, View, Text, ImageBackground, ScrollView, TouchableOpacity } from 'react-native';
 import GridView from 'react-native-super-grid';
 import CardMenuScreen from './CardMenuScreen';
-import Places from '../../data/places/places.json';
+import Places from '../../data/places/placesFull.json';
 
 
 export default class PlacesMainScreen extends Component {
@@ -19,7 +19,7 @@ export default class PlacesMainScreen extends Component {
                   title: place.title,
                   subtitle: '',
                   image: place.image_url,
-                  card_data: place.data,
+                  card_data: place.newdata,
                   isImageUrl: true
               })}
             >

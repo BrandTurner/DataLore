@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { StyleSheet, View, Text, ImageBackground, ScrollView, TouchableOpacity } from 'react-native';
 import GridView from 'react-native-super-grid';
 import CardMenuScreen from '../CardMenuScreen';
-import Allies from '../../../data/allies/allies.json';
+import Allies from '../../../data/allies/alliesFull.json';
 
 
 export default class AlliesMainScreen extends Component {
@@ -27,7 +27,7 @@ export default class AlliesMainScreen extends Component {
                   title: ally.title,
                   subtitle: '',
                   image: ally.image_url,
-                  card_data: ally.data,
+                  card_data: ally.newdata,
                   isImageUrl: true
               })}
             >

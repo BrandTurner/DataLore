@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "/Users/turnerb/Projects/python/grimoire"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

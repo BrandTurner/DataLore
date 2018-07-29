@@ -1,0 +1,1996 @@
+[
+  {
+		"title": "Primary Weapons",
+    "image_url": "https://www.bungie.net/common/destiny_content/grimoire/hr_images/primary-weapons_cc1968527ecc0c42eef15f1a351cf29b.jpg",
+    "screen": "",
+    "data": [
+      {
+        "title": "Auto Rifles",
+        "content":
+          "All-purpose weapons of war, the standard Auto Rifle is ideal for a number of combat scenarios. Stability is key to controlling fully automatic weapons.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302010_26147c0eb5706153307b96483f3261d6.jpg"
+        ],
+        "image_name": ["Auto Rifles"],
+        "filename": ["302010_26147c0eb5706153307b96483f3261d6.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302010_26147c0eb5706153307b96483f3261d6.jpg",
+            "path": "full/df96c0d684c28d4acf86db53925ab44d289e8fbd.jpg",
+            "checksum": "9853533b529950bdae34c7e038297cf4"
+          }
+        ]
+      },
+      {
+        "title": "MIDA Multi-Tool",
+        "content":
+          "Few weapons are balanced this precisely. Once you get a feel for the Multi-Tool it will sit weightlessly in your hand. Firing it will feel less like an action and more like an extension of your will.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302055_62de46b3d367834c41dd7ede0a681578.jpg"
+        ],
+        "image_name": ["MIDA Multi-Tool"],
+        "filename": ["302055_62de46b3d367834c41dd7ede0a681578.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302055_62de46b3d367834c41dd7ede0a681578.jpg",
+            "path": "full/06ecb90ecd92165e035d73929b7ad41803934369.jpg",
+            "checksum": "a476b319cbed149f4b5b87ac5d6a2402"
+          }
+        ]
+      },
+      {
+        "title": "SUROS Regime",
+        "content":
+          "Suros engineers designed the Regime using recovered Golden Age schematics. Forced out of production by a crippling shortage of smartmatter, the few remaining models are cherished by those Guardians fortunate enough to wield them.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302020_882b6beea3c5134f25d9c39497f64d97.jpg"
+        ],
+        "image_name": ["SUROS Regime"],
+        "filename": ["302020_882b6beea3c5134f25d9c39497f64d97.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302020_882b6beea3c5134f25d9c39497f64d97.jpg",
+            "path": "full/28ed92eac84f55b9d0f7eacd2311d1c41d02071a.jpg",
+            "checksum": "f998ab565766eb65a8636125abd58c9d"
+          }
+        ]
+      },
+      {
+        "title": "Necrochasm",
+        "content":
+          "The Weapons of Sorrow were believed to be nothing more than a myth. But even the darkest myths are born of some truths, and whispers of the Necrochasm have long filled the Light with dread.\n\n It is said the Necrochasm was born in the twilight after Crota’s sword first cracked the Moon. That a lost Guardian’s weapon was altered by the Hive in an attempt to fuse their own dark understanding with humanity’s mastery of war. The result was a weapon that would feed on its owner’s aggression—reaching further when angry eyes drew focus, its hunger rising as it tore through bone and flesh.\n\n Any Guardian who comes across the weapon must ask some very simple questions with endlessly complicated answers: Is your Light bright enough to stand, even briefly, in full gaze of the Hive's abyss? Can it handle what has died and been reborn in those shadows?",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302037_9d58062728b6e4291cf9c45558035103.jpg"
+        ],
+        "image_name": ["Necrochasm"],
+        "filename": ["302037_9d58062728b6e4291cf9c45558035103.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302037_9d58062728b6e4291cf9c45558035103.jpg",
+            "path": "full/edb77e88c2da8415639a93988a6550e2ecd212dc.jpg",
+            "checksum": "04c5d4e433d650b36f6aadaaf74b2710"
+          }
+        ]
+      },
+      {
+        "title": "Zhalo Supercell",
+        "content":
+          "When you're out beyond the Wall, sometimes you have to take what you can find, and make it work. Though its original makers and their no-doubt-desperate straits are lost to history, the Zhalo Supercell remains a striking example of what a Guardian can do with some outdated tech, a deep command of fundamental Light, and a spark of inspiration.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700140_8bb58632f43811f23127bdb4cda5ffce.jpg"
+        ],
+        "image_name": ["Zhalo Supercell"],
+        "filename": ["700140_8bb58632f43811f23127bdb4cda5ffce.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700140_8bb58632f43811f23127bdb4cda5ffce.jpg",
+            "path": "full/a8540d0984634f9972ee7cb76eb21f6e986c2f79.jpg",
+            "checksum": "04dbe49e205887b0aa2169c89e97e39b"
+          }
+        ]
+      },
+      {
+        "title": "Fabian Strategy",
+        "content":
+          "“Good evening, Banshee-44!”\n\n “Howdy.”\n\n “Doing well, thank you. ...Actually, I had a bit of difficulty today.”\n\n “Uh...”\n\n “The problem with a historical engram is, even if I can figure out when the engram was encoded, that still doesn't tell me when the contents were written. Or even when the events described by the writer take place.”\n\n “Uh huh.”\n\n “This particular engram is heavily degraded. Encoded Mid-Golden Age, allegedly written by someone named Plutarch, a historian who in turn is writing about someone named Fabius Maximus. But who were they? When did they live? In what kind of warfare was this 'Fabian Strategy' applied?”\n\n “The whatnow strategy?”\n\n “Fabian Strategy. It apparently involves attrition tactics and avoiding direct conflict until an enemy makes a mistake.”\n\n “...Huh.”\n\n “'Huh' indeed!”\n\n “...But with Ghost res—“\n\n “Oh, this was long before Ghosts. I think... Banshee? Where are you going?”",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700301_b50c5f5a8a268397b6d615ca36513dc9.jpg"
+        ],
+        "image_name": ["Fabian Strategy"],
+        "filename": ["700301_b50c5f5a8a268397b6d615ca36513dc9.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700301_b50c5f5a8a268397b6d615ca36513dc9.jpg",
+            "path": "full/8cb7112fb7ad723c8ca3357a647760ca55e730bb.jpg",
+            "checksum": "68fd1cd59270728ec63c24d3d7bc4d09"
+          }
+        ]
+      },
+      {
+        "title": "Monte Carlo",
+        "content":
+          "Originally designed as a showpiece, the Monte Carlo's sleek demeanor and intricate firing system make it more than a fashion statement. In the right hands, this beauty puts all the risk at the wrong end of its bayonet.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302035_6ca43713e0d51204ef0677f258a1a7d3.jpg"
+        ],
+        "image_name": ["Monte Carlo"],
+        "filename": ["302035_6ca43713e0d51204ef0677f258a1a7d3.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302035_6ca43713e0d51204ef0677f258a1a7d3.jpg",
+            "path": "full/2c3ab635311665e309748459e2b659be5adc504a.jpg",
+            "checksum": "4cb0a4b8bb70db5a166d0e419925aebf"
+          }
+        ]
+      },
+      {
+        "title": "Hard Light",
+        "content":
+          "As the City's understanding of Golden Age methods expands, foundries continue to push the cutting edge of tactical armament. The Hard Light prototype is a showcase, built with the rarest recovered materials and the most computationally demanding design methods. The design team included several specialist Exos and at least one Warlock thanatonaut.\n\n In its current iteration, the Hard Light design fires a superheated polymer round with exotic capabilities.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302040_94b8875138b5bebf480d0be6fc9cce10.jpg"
+        ],
+        "image_name": ["Hard Light"],
+        "filename": ["302040_94b8875138b5bebf480d0be6fc9cce10.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302040_94b8875138b5bebf480d0be6fc9cce10.jpg",
+            "path": "full/637ca5b394a206e29f8af1b7103d94784e522e16.jpg",
+            "checksum": "d84d51fb14be113ea4a9eb54c24bc662"
+          }
+        ]
+      },
+      {
+        "title": "Scout Rifles",
+        "content":
+          "The preferred weapon of seasoned marksmen, the Scout Rifle is a single-shot precision firearm. Favoring accuracy above all else, the Scout Rifle packs increased stopping power to counter its low rate of fire.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302050_d1c94de876ab9a5bd053317ef3a39997.jpg"
+        ],
+        "image_name": ["Scout Rifles"],
+        "filename": ["302050_d1c94de876ab9a5bd053317ef3a39997.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302050_d1c94de876ab9a5bd053317ef3a39997.jpg",
+            "path": "full/b10dd1bf43fe43f9acc7b22ab61ed380602268b6.jpg",
+            "checksum": "b34bb5247819efa5a8c2c78fd3fff6e0"
+          }
+        ]
+      },
+      {
+        "title": "The Fate of all Fools",
+        "content":
+          "The weapon gathers data on the target from the impact and spall of solid body shots, setting up a devastating final hit.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302030_daa9018e5806a1038b1b742cff428ed5.jpg"
+        ],
+        "image_name": ["The Fate of all Fools"],
+        "filename": ["302030_daa9018e5806a1038b1b742cff428ed5.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302030_daa9018e5806a1038b1b742cff428ed5.jpg",
+            "path": "full/53f77160a1ef86bc82a49816296e8fbc217b6cfc.jpg",
+            "checksum": "d9ac401d97b9761f0a81d10ac21d12cd"
+          }
+        ]
+      },
+      {
+        "title": "Touch of Malice",
+        "content":
+          "Here am I, with the power to craft from my enemy's darkest secrets a weapon that could wound them at their core!\n\n So what stays my hand?\n\n When I behold the interiority of these cold, cold fragments, I see blind, squirming creatures. Every wound they give, they feel also upon themselves. Every bite they tear from the Light only deepens, never fills, the raging emptiness behind their terrible mouths.\n\n The voices are as loud as ever. My nightmares just as bitter. My coal-black hatred burns as hot. But I feel something else now. Could it be...\n\n No! I refuse it.\n\n I will build this weapon.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700130_3513846209fff9fa7f38df62ab890228.jpg"
+        ],
+        "image_name": ["Touch of Malice"],
+        "filename": ["700130_3513846209fff9fa7f38df62ab890228.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700130_3513846209fff9fa7f38df62ab890228.jpg",
+            "path": "full/caff25a3c98f5ba4ae71c49cede7f21cedad4d62.jpg",
+            "checksum": "83d51c1c992f02f086a8f6f20d780630"
+          }
+        ]
+      },
+      {
+        "title": "No Time To Explain",
+        "content":
+          "Novarro's timeline analysis indicates the weapon is the fabled Exo Stranger's Rifle, enhanced at a future point in this continuity and then sent back to this present.\n\n Deliah's timeline analysis indicates the weapon was built by Praedyth, who based it on his own version of the Exo Stranger's Rifle, and then set it adrift in a time ripple.\n\n Hari's timeline analysis indicates the weapon was built by beings of unidentifiable origin, and arrived here by pure accident.\n\n Inachis's timeline analysis indicates the weapon originates from Earth, late Golden Age, and will eventually be lost to time ripples once again, where its systems will degrade and be replaced until our recent past acquires it as the Exo Stranger's Rifle.\n\n As for me... I think it's safe to say the weapon is proving far more fun than we could have hoped.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700180_9179f6031e6849af34b0c1ef82aad25a.jpg"
+        ],
+        "image_name": ["No Time To Explain"],
+        "filename": ["700180_9179f6031e6849af34b0c1ef82aad25a.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700180_9179f6031e6849af34b0c1ef82aad25a.jpg",
+            "path": "full/bcfd902651d1c780a614de140a1c526b7f001f4f.jpg",
+            "checksum": "f17c859c4ea54d40b3fb361dbd17e5e0"
+          }
+        ]
+      },
+      {
+        "title": "Red Death",
+        "content":
+          "Only rumors tell of the mad Guardian who fashioned this butcher's tool. But its power is undeniable, and fear is a formidable weapon.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302080_3ec4a9e2292cbceafc312036d98bd28f.jpg"
+        ],
+        "image_name": ["Red Death"],
+        "filename": ["302080_3ec4a9e2292cbceafc312036d98bd28f.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302080_3ec4a9e2292cbceafc312036d98bd28f.jpg",
+            "path": "full/b9e943500d1bd641cbd46fadfa04a59493220f77.jpg",
+            "checksum": "1a8c87464767958b86c7d990c078084a"
+          }
+        ]
+      },
+      {
+        "title": "Boolean Gemini",
+        "content":
+          "City foundries produce a wide variety of weapons in an attempt to anticipate Guardians' ever-changing needs on the battlefield. But no Guardian can carry all guns at all times.\n\n Enter the Boolean Gemini. Designed by a think tank of Guardians and foundry representatives, the Gemini was designed to be two guns in one, with a flexible design that allows Guardians to toggle between distinct combat styles for maximum efficiency.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700160_c26a592d72b5e352f97c87671039dde5.jpg"
+        ],
+        "image_name": ["Boolean Gemini"],
+        "filename": ["700160_c26a592d72b5e352f97c87671039dde5.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700160_c26a592d72b5e352f97c87671039dde5.jpg",
+            "path": "full/e56c809261d05d8bc2d1e9d36a54a3ae8173a1a7.jpg",
+            "checksum": "d1f3eeb047b177bd91c98b1e6b1bfb95"
+          }
+        ]
+      },
+      {
+        "title": "Pulse Rifles",
+        "content":
+          "The Pulse Rifle is designed for precision fire and tight shot grouping. Three-round bursts provide added punch with reduced recoil compared to fully automatic weapons. Skilled shooters often walk the burst from the target's center of mass onto the head.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302070_851abbd91cd0c054e1a4c2e0404b3b91.jpg"
+        ],
+        "image_name": ["Pulse Rifles"],
+        "filename": ["302070_851abbd91cd0c054e1a4c2e0404b3b91.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302070_851abbd91cd0c054e1a4c2e0404b3b91.jpg",
+            "path": "full/a8277a5732a2930dcc361344a5386774bb0f1ba2.jpg",
+            "checksum": "b1dee295dea863213d03f0e3366ec172"
+          }
+        ]
+      },
+      {
+        "title": "Hand Cannons",
+        "content":
+          "Sturdy and reliable, Hand Cannons have long been a preferred tool for self-defense. Their low rate of fire and modest accuracy is more than made up for by their ease of handling and superior stopping power.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302090_51a5ab9bfeeba50226ddf6945ce6deb3.jpg"
+        ],
+        "image_name": ["Hand Cannons"],
+        "filename": ["302090_51a5ab9bfeeba50226ddf6945ce6deb3.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302090_51a5ab9bfeeba50226ddf6945ce6deb3.jpg",
+            "path": "full/b1185a7865e30f538640a967441353f404661f09.jpg",
+            "checksum": "811d0cd347260f85d8624bea590980f0"
+          }
+        ]
+      },
+      {
+        "title": "Bad Juju",
+        "content":
+          "There must be a structured, mechanical explanation for this weapon's hunger for combat. There must be. But none has been found.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302060_4ea4ae27500b142830a255e670ebaac9.jpg"
+        ],
+        "image_name": ["Bad Juju"],
+        "filename": ["302060_4ea4ae27500b142830a255e670ebaac9.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302060_4ea4ae27500b142830a255e670ebaac9.jpg",
+            "path": "full/f60287cd9872064c3027e9895c8a978271c50c3b.jpg",
+            "checksum": "2a925fb04b935216981d9868877a26f9"
+          }
+        ]
+      },
+      {
+        "title": "Tlaloc",
+        "content":
+          "“Master Rey.”\n\n “Gunsmith... What brings you here?”\n\n “Workin' on a custom piece.”\n\n “Are you?”\n\n “Yep. For a Warlock.”\n\n “Mm. And how are you finding the work?”\n\n “You know. It goes and comes. Memory ain't what it was.”\n\n “Yes.”\n\n “Good to be back in the shop, though.”\n\n “I'm glad of it. Well, then, I suspect you'll find some of my recent research quite interesting.”\n\n “S'why I'm here.”",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700302_2763c2f939930f03838172be5a6ab25a.jpg"
+        ],
+        "image_name": ["Tlaloc"],
+        "filename": ["700302_2763c2f939930f03838172be5a6ab25a.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700302_2763c2f939930f03838172be5a6ab25a.jpg",
+            "path": "full/f3e9575158f7cb52a0a2fdba62bfeb76841046d4.jpg",
+            "checksum": "aaa9ac319b66182c368da8f65cf528d1"
+          }
+        ]
+      },
+      {
+        "title": "Hawkmoon",
+        "content":
+          "The Hawkmoon is a true gunslinger's weapon - a smooth sidearm that makes every bullet count...some more than others.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302095_dc32f953608f7683e75f7081e3beaf43.jpg"
+        ],
+        "image_name": ["Hawkmoon"],
+        "filename": ["302095_dc32f953608f7683e75f7081e3beaf43.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302095_dc32f953608f7683e75f7081e3beaf43.jpg",
+            "path": "full/6a05d74885d728ffe6671df9f88c1773cb4a0dd3.jpg",
+            "checksum": "0dfa2eaf4ca5209b24eac813dfab298c"
+          }
+        ]
+      },
+      {
+        "title": "The Last Word",
+        "content":
+          "The Last Word is a romantic weapon, a throwback to simpler times when steady aim and large rounds were enough to dispense justice in the wilds of a lawless frontier. Of course, some might say that time has come again.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302100_a768d67c5ca3165e9dcaa718714d578e.jpg"
+        ],
+        "image_name": ["The Last Word"],
+        "filename": ["302100_a768d67c5ca3165e9dcaa718714d578e.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302100_a768d67c5ca3165e9dcaa718714d578e.jpg",
+            "path": "full/8f7b823d7556d2b1d55cffbf922b48277f8aa897.jpg",
+            "checksum": "50df2d9a351b3724d1d762344a76ab7d"
+          }
+        ]
+      },
+      {
+        "title": "Ghost Fragment: The Last Word 3",
+        "content":
+          "It was the fourth night of the seventh moon.\n\n Nine rises since any sign.\n\n Trail wasn't cold, but lukewarm would've been an exaggeration.\n\n Jaren had us hold by a ravine.\n\n The heavy wood along the cliffs' edge caught the wind, holding back the cold and the rush of water muffled our conversation.\n\n We'd seen dual Skiffs hanging low as they cut through the valley.\n\n Wasn't known Fallen territory, but anymore that's a dangerous assumption.\n\n There were six of us then.\n\n Three less than two moons prior, but still, one more than when we'd first turned our backs to Palamon's ash.\n\n We took a rotation for watch during the night.\n\n Movement was kept to a minimum and communication was down to hand signals and simple gestures.\n\n We could hold our own in a fight, but only the dead went looking for one—a hard truth that cut in direct opposition to our reasons for being so far from anything resembling civilization, much less our safety.\n\n The Skiffs had spooked Kressler and Nada, and, in truth, me as well. But, looking back, I think we were all just grasping for any good reason to turn back.\n\n Not because we would—turn back—but because it seemed to be our only real hope, and I think we all knew it.\n\n Forward. Where we were headed—into the unknown. And following the footsteps we were. It all just started to feel like a never-ending dead end after a while.\n\n Jaren never wavered though. Not once.\n\n At least not to any noticeable degree.\n\n It was his drive, his conviction, that kept us going.\n\n And—it's hard to think on—but if I'm honest, it was his death that rekindled my own fire. A fire that was all but exhausted on that cold night.\n\n He seemed confident we were close.\n\n But more than confident—sure. He seemed sure.\n\n No one else felt it—our own confidence, and any enthusiasm we'd had was set to wither soon as Brevin, Trenn and Mel were gunned down.\n\n The Ghost—Jaren's Ghost—never said a word to any of us. Just hung there. Always alert. Always judging. Not us, per se, but the moment. Any moment.\n\n I never got the sense it thought of us as lesser. More that it was guarded, wary.\n\n We knew it could speak. We'd overheard them a few times. Just brief words, and no one ever pressed the subject.\n\n From time to time I caught its gaze lingering on me, but always assumed the attention was a result of the bond Jaren and I had. He was a father to me. At the time I didn't know why he'd singled me out as someone to care for. Someone to protect. After all the loss, I welcomed it, but looking back—taking in the arm's length at which he kept the others—I guess I should've known, or at least suspected there was more to it.\n\n We all woke that night, closer to morning than the previous day.\n\n A crack of gunfire split through the wood. Then more.\n\n Far off, but near enough to pump the blood.\n\n A familiar ring. 'Last Word.' Jaren's sidearm. His best friend.<br> Then another. A single shot, an unmistakable echo calling through the night. Hushed, cutting.\n\n One shot, dark and infernal. Followed by silence.\n\n We crouched low and quiet. Listening. Hoping.\n\n Jaren was gone. Off on his own.\n\n Maybe we were closer than we'd allowed ourselves to believe.\n\n Too close.\n\n He'd gone to face death alone.\n\n I couldn't admit it—not at the time—but he thought he was <br> protecting us.\n\n After such a long road—years on its heels, a trail littered with suffering and fire—maybe he just couldn't take the thought of anymore dead kids, as he called us.\n\n The echoes faded and we all held still. No way to track the direction. No sense in rushing blind.\n\n What was done was done.\n\n The cadence of the shots fired told a story none of us cared to hear.\n\n 'Last Word' it hadn't been. And somewhere in the world, close enough for us to bear absent witness but far enough to be a dream, Jaren Ward lay dead or dying. And there was nothing to be done.\n\n Hours passed. An eternity.\n\n We held our spot, but as the sun rose the others began to fade back into the world. Without Jaren there was nothing holding us together. No driving force. Vengeance had grown stale as a motivator. Fear and a longing to see more suns rise drove a wedge between duty and desire.\n\n By midday I was alone. I couldn't leave. Wouldn't.\n\n Either I would find Jaren and set him at ease, or the other would find me and that would be a fitting end.\n\n Death marching on.\n\n But then, a motion. Quick and darting. My muscles tensed and my hand shot to the grip of my leadslinger.\n\n Then a confirmation of the horrible truth I had already accepted, as Jaren's Ghost came to a halt a few paces in front of me.\n\n I exhaled and slumped forward. Still standing, but broken.<br> The tiny Light looked me over with a curious tilt to its axis, then shot a beam of light over my body. Scanning me as it had done the very first time we met.\n\n I looked up. Staring into its singular glowing eye.\n\n And it spoke...",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302130_d3134f952e91825d7b693f438af12934.jpg"
+        ],
+        "image_name": ["Ghost Fragment: The Last Word 3"],
+        "filename": ["302130_d3134f952e91825d7b693f438af12934.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302130_d3134f952e91825d7b693f438af12934.jpg",
+            "path": "full/31d7752290eea1496c8fdf7b235cd70bd2259378.jpg",
+            "checksum": "2d8e04a13ae341091c9bbb51b2c33001"
+          }
+        ]
+      },
+      {
+        "title": "The Jade Rabbit",
+        "content":
+          "Like many weapons of the Dark Age, the Jade Rabbit was created from hastily reassembled—and often poorly understood—Golden Age technology: in this case, kinetic low-atmosphere propulsion systems in use on Luna settlements. Even the weapon's casing is cut from the plasteel bulwarks of the First Light installation.\n\n The significance of the markings: 玉兔, or “Jade Rabbit,” are unfortunately lost to history.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700150_1bf1a7b7c47165b7643bb4081b71d5dc.jpg"
+        ],
+        "image_name": ["The Jade Rabbit"],
+        "filename": ["700150_1bf1a7b7c47165b7643bb4081b71d5dc.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700150_1bf1a7b7c47165b7643bb4081b71d5dc.jpg",
+            "path": "full/98b8456433d104fbef5f6080fb3de3275a898cfd.jpg",
+            "checksum": "f6a0ec596515fc567ac4e89fa44a0a1c"
+          }
+        ]
+      },
+      {
+        "title": "Ghost Fragment: The Last Word",
+        "content":
+          "I'm writing this from memory - some mine, but not all. The facts won't sync with the reality, but they'll be close, and there's no one to say otherwise, so for all intents and purposes, this will be the history of a settlement we called Palamon and the horrors that followed an all too brief peace.\n\n I remember home, and stories of a paradise we'd all get to see some day - of a City, 'shining even in the night.' Palamon didn't shine, but it was sanctuary, of a sort. \n\n We'd settled in the heart of a range that stretched the horizon. Wooded mountains that shot with purpose toward the sky. Winters were harsh, but the trees and peaks hid us from the world. We talked about moving on, sometimes, striking out for the City. But it was just a longing.\n\n Drifters came and went. On occasion they would stay, but rarely. <br> We had no real government, but there was rule of law. Basic tenets agreed upon by all and eventually overseen by Magistrate Loken.\n\n And there you have it...no government, until there was. I was young, so I barely understood. I remember Loken as a hardworking man who just became broken. Mostly I think he was sad. Sad and frightened. As his fingers tightened on Palamon, people left. Those who stayed saw our days became grey. Loken's protection - from the Fallen, from ourselves - became dictatorial. \n\n Looking back, I think maybe Loken had just lost too much - of himself, his family. But everyone lost something. And some of us had nothing to begin with. My only memory of my parents is a haze, like a daydream, and a small light, like the spark of their souls. It's not anything I dwell on. They left me early, taken by Dregs.\n\n Palamon raised me from there. The family I call my own - called my own - cared for me as if I was their natural born son. And life was good. Being the only life I knew, my judgment is skewed, and it wasn't easy - pocked by loss as it was - but I would call it good.\n\n Until, of course, it wasn't.\n\n Until two men entered my world. One a light. The other the darkest shadow I would ever know.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302110_c339f148c8793346e731520e1c1231d4.jpg"
+        ],
+        "image_name": ["Ghost Fragment: The Last Word"],
+        "filename": ["302110_c339f148c8793346e731520e1c1231d4.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302110_c339f148c8793346e731520e1c1231d4.jpg",
+            "path": "full/70f0865ef1313d3342980c34d774b557e26d4319.jpg",
+            "checksum": "2f4a79f91ae09e39cd5d110bc7c88593"
+          }
+        ]
+      },
+      {
+        "title": "Ghost Fragment: The Last Word 2",
+        "content":
+          "The man I would come to know as Jaren Ward, my third father and quite possibly my closest friend, came to Palamon from the south.\n\n I was just a boy, but I'll never forget his silhouette on the empty trail as he made his slow walk into town.\n\n I'd never seen anything like him. Maybe none of us had. He'd said he was only passing through, and I believed him - still do, but life can get in the way of intent, and often does.\n\n I can picture that day with near perfect clarity. Of all the details though - every nuance, every moment - the memory that sticks in my mind is the iron on Jaren's hip. A cannon that looked both pristine and lived in. Like a relic of every battle he'd ever fought, hung low at his waist - a trophy and a warning.\n\n This man was dangerous, but there was a light about him - a pureness to his weight - that seemed to hint that his ire was something earned, not carelessly given.\n\n I'd been the first to see him as he approached, but soon most of Palamon had turned out to greet him. My father held me back as everyone stood in silence.\n\n Jaren didn't make a sound behind his sleek racer's helmet. He looked just like the heroes in the stories, and to this day I'm not sure one way or the other if the silence between the town's people and the adventurer was born of fear or respect. I like to think the latter, but any truth I try to place on the moment would be of my own making.\n\n As we waited for Magistrate Loken to arrive and make an official greeting, my patience got the best of me. I shook free of my father's heavy hand and made the short sprint across the court, stopping a few paces from where this new curiosity stood - a man unlike any other.\n\n I stared up at him and he lowered his attention to me, his eyes hidden behind the thick tinted visor of his headgear. My sight quickly fell to his sidearm. I was transfixed by it. I imagined all the places that weapon had been. All of the wonders it had seen. The horrors it had endured. My imagination darted from one heroic act to the next.\n\n I barely registered when he began to kneel, holding out the iron as if an offering. But my eyes locked onto the piece, mesmerized. \n\n I recall turning back to my father and seeing the looks on the faces of everyone I knew. There was worry there - my father slowly shaking his head as if pleading with me to ignore the gift. \n\n I turned back to the man I would come to know as Jaren Ward, the finest Hunter this system may ever know and one of the greatest Guardians to ever defend the Traveler's Light...\n\n And I took the weapon in my hand. Carefully. Gently.\n\n Not to use. But to observe. To imagine. To feel its weight and know its truth.\n\n That was the first time I held 'Last Word, but, unfortunately, not the last.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302120_c339f148c8793346e731520e1c1231d4.jpg"
+        ],
+        "image_name": ["Ghost Fragment: The Last Word 2"],
+        "filename": ["302120_c339f148c8793346e731520e1c1231d4.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302120_c339f148c8793346e731520e1c1231d4.jpg",
+            "path": "full/7dcdfd1e55dac08fc016c958c964272b502313a3.jpg",
+            "checksum": "2f4a79f91ae09e39cd5d110bc7c88593"
+          }
+        ]
+      },
+      {
+        "title": "Ghost Fragment: The Last Word 4",
+        "content":
+          "<i>Then.</i>\n\n Palamon was ash.\n\n I was only a boy – my face caked in soot, snot and sorrow.\n\n I’d assumed Jaren, my friend, our Guardian, the savior of Palamon, would always protect us – could always save us...\n\n But I was a fool.\n\n Jaren, and the others, only a handful, but still our best hunters, our hardest hearts, had left three suns prior. Tracking Fallen, after the bandits had caused a stir.\n\n The stranger – the other – arrived the following day.\n\n He rarely spoke. Took a room. Took our hospitality.\n\n I was intrigued by him, as I was Jaren when he’d first arrived.\n\n But the stranger was cold. Distant. Damaged, I thought.\n\n But I wasn’t afraid. Not yet.\n\n Only a child, I knew the monsters of our world to walk like men, but they were not. They were something alien. Four-armed and savage.\n\n The stranger was polite, but solemn.\n\n I took him for a sad, broken man, and he was. Though, at the time, I didn’t understand how that could make one dangerous.\n\n As with Jaren, father made an effort to keep me away from the stranger.\n\n It wouldn’t matter.\n\n As the silhouette approached, fear held tight.\n\n The dark figure towered over me. Looking into me – through me.\n\n He smiled. My knees weak. All lost.\n\n Then, he turned and walked away.\n\n Leaving ruin and a heartbroken, terrified boy in his wake without a second glance.\n\n I’ve been chasing that stranger’s shadow ever since.\n\n<br><i>Now.</i>\n\n We stood silent, the sun high.\n\n Seconds passed, feeling more like hours.\n\n He looked different.\n\n He seemed, now, to be weightless – effortless in an existence that would crush a man burdened by conscience.\n\n My gaze remained locked as I felt a heat rising inside of me.<br> The other spoke...\n\n “Been awhile.”\n\n I gave no reply.\n\n “The gunslinger’s sword... his cannon. That was a gift.”\n\n My silence held as my thumb caressed the perfectly worn hammer at my hip.\n\n “An offering from me... to you.”\n\n The heat grew. Centered in my chest.\n\n I felt like a coward the day Jaren Ward died and for many cycles after.\n\n But here, I felt only the fire of my Light.\n\n The other probed...\n\n “Nothing to say?”\n\n He let the words hang.\n\n “I’ve been waiting for you. For this day.”\n\n His attempt at conversation felt mundane when judged against all that had come before.\n\n “Many times I thought you’d faltered. Given up...”\n\n All I’d lost, all who’d suffered, flashed rapid through my mind, intercut with a dark silhouette walking toward a frightened, weak, coward of a boy.\n\n The fire burned in me.\n\n The other continued...\n\n “But here you are. This is truly an end...”\n\n As his tongue slipped between syllables my gun hand moved as if of its own will.\n\n Reflex and purpose merged with anger, clarity and an overwhelming need for just that... an end.\n\n In step with my motion, the fire within burst into focus – through my shoulder, down my arm – as my finger closed on the trigger of my third father’s cannon.\n\n Two shots. Two bullets engulfed in an angry glow. <br> The other fell.\n\n I walked to his corpse. He never raised his cursed Thorn – the jagged gun with the festering sickness.\n\n I looked down at the dead man who had caused so much death.\n\n My shooter still embraced by the dancing flames of my Light.<br> A sadness came over me.\n\n I thought back to my earliest days. Of Palamon. Of Jaren.\n\n Leveling my cannon at the dead man’s helm, I paid one final tribute to my mentor, my savior, my father and my friend...\n\n “Yours... Not mine.”\n\n ...as I closed my grip, allowing Jaren’s cannon, now my own, to have the last, loud word.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700190_2855c0ccd14610a5d62e30532ef773f6.jpg"
+        ],
+        "image_name": ["Ghost Fragment: The Last Word 4"],
+        "filename": ["700190_2855c0ccd14610a5d62e30532ef773f6.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700190_2855c0ccd14610a5d62e30532ef773f6.jpg",
+            "path": "full/aab0214bf7332d1b892467729eb566c80c8ec310.jpg",
+            "checksum": "d7d0281b21c038e1c239c8fdd92f7184"
+          }
+        ]
+      },
+      {
+        "title": "Ghost Fragment: The Last Word 4",
+        "content":
+          "<i>Then.</i>\n\n Palamon was ash.\n\n I was only a boy – my face caked in soot, snot and sorrow.\n\n I’d assumed Jaren, my friend, our Guardian, the savior of Palamon, would always protect us – could always save us...\n\n But I was a fool.\n\n Jaren, and the others, only a handful, but still our best hunters, our hardest hearts, had left three suns prior. Tracking Fallen, after the bandits had caused a stir.\n\n The stranger – the other – arrived the following day.\n\n He rarely spoke. Took a room. Took our hospitality.\n\n I was intrigued by him, as I was Jaren when he’d first arrived.\n\n But the stranger was cold. Distant. Damaged, I thought.\n\n But I wasn’t afraid. Not yet.\n\n Only a child, I knew the monsters of our world to walk like men, but they were not. They were something alien. Four-armed and savage.\n\n The stranger was polite, but solemn.\n\n I took him for a sad, broken man, and he was. Though, at the time, I didn’t understand how that could make one dangerous.\n\n As with Jaren, father made an effort to keep me away from the stranger.\n\n It wouldn’t matter.\n\n As the silhouette approached, fear held tight.\n\n The dark figure towered over me. Looking into me – through me.\n\n He smiled. My knees weak. All lost.\n\n Then, he turned and walked away.\n\n Leaving ruin and a heartbroken, terrified boy in his wake without a second glance.\n\n I’ve been chasing that stranger’s shadow ever since.\n\n<br><i>Now.</i>\n\n We stood silent, the sun high.\n\n Seconds passed, feeling more like hours.\n\n He looked different.\n\n He seemed, now, to be weightless – effortless in an existence that would crush a man burdened by conscience.\n\n My gaze remained locked as I felt a heat rising inside of me.<br> The other spoke...\n\n “Been awhile.”\n\n I gave no reply.\n\n “The gunslinger’s sword... his cannon. That was a gift.”\n\n My silence held as my thumb caressed the perfectly worn hammer at my hip.\n\n “An offering from me... to you.”\n\n The heat grew. Centered in my chest.\n\n I felt like a coward the day Jaren Ward died and for many cycles after.\n\n But here, I felt only the fire of my Light.\n\n The other probed...\n\n “Nothing to say?”\n\n He let the words hang.\n\n “I’ve been waiting for you. For this day.”\n\n His attempt at conversation felt mundane when judged against all that had come before.\n\n “Many times I thought you’d faltered. Given up...”\n\n All I’d lost, all who’d suffered, flashed rapid through my mind, intercut with a dark silhouette walking toward a frightened, weak, coward of a boy.\n\n The fire burned in me.\n\n The other continued...\n\n “But here you are. This is truly an end...”\n\n As his tongue slipped between syllables my gun hand moved as if of its own will.\n\n Reflex and purpose merged with anger, clarity and an overwhelming need for just that... an end.\n\n In step with my motion, the fire within burst into focus – through my shoulder, down my arm – as my finger closed on the trigger of my third father’s cannon.\n\n Two shots. Two bullets engulfed in an angry glow. <br> The other fell.\n\n I walked to his corpse. He never raised his cursed Thorn – the jagged gun with the festering sickness.\n\n I looked down at the dead man who had caused so much death.\n\n My shooter still embraced by the dancing flames of my Light.<br> A sadness came over me.\n\n I thought back to my earliest days. Of Palamon. Of Jaren.\n\n Leveling my cannon at the dead man’s helm, I paid one final tribute to my mentor, my savior, my father and my friend...\n\n “Yours... Not mine.”\n\n ...as I closed my grip, allowing Jaren’s cannon, now my own, to have the last, loud word.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700190_2855c0ccd14610a5d62e30532ef773f6.jpg"
+        ],
+        "image_name": ["Ghost Fragment: The Last Word 4"],
+        "filename": ["700190_2855c0ccd14610a5d62e30532ef773f6.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700190_2855c0ccd14610a5d62e30532ef773f6.jpg",
+            "path": "full/aab0214bf7332d1b892467729eb566c80c8ec310.jpg",
+            "checksum": "d7d0281b21c038e1c239c8fdd92f7184"
+          }
+        ]
+      },
+      {
+        "title": "Thorn",
+        "content":
+          "Augmented through dark practices, Thorn was once a hero's weapon. Its jagged frame hints at a sinister truth: a powerful connection to the unutterable sorceries of the Hive. \n\n The legend of Thorn is bound to the rise and fall of Dredgen Yor, a Guardian whose name is remembered with disgust and shame. The weapon was thought destroyed...but rumors of its existence still haunt the wilds.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302150_b3991bb6049840d47afef980f9c6a890.jpg"
+        ],
+        "image_name": ["Thorn"],
+        "filename": ["302150_b3991bb6049840d47afef980f9c6a890.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302150_b3991bb6049840d47afef980f9c6a890.jpg",
+            "path": "full/6059f45327e6bf3fc028f21472c4c35d6b2bc83e.jpg",
+            "checksum": "1344f6bef5300a30d70afe3d10ab5c59"
+          }
+        ]
+      },
+      {
+        "title": "Ghost Fragment: Thorn",
+        "content":
+          "The noble man stood. And the people looked to him. For he was a beacon - hope given form, yet still only a man. And within that truth there was great promise. If one man could stand against the night, then so too could anyone - everyone.\n\n In his strong hand the man held a Rose. And his aura burned bright.\n\n When the man journeyed on, the people remembered. In his wake hope spread. But the man had a secret fear. His thoughts were dark. A sadness crept from the depths of his being. He had been a hero for so long, but pride had led him down sorrow's road.\n\n Slowly the shadows' whisper became a voice, a dark call, offering glories enough to make even the brightest Light wander. He knew he was fading, yet he still yearned.\n\n On his last day he sat and watched the sun fall. His final thoughts, pure of mind, if not body, held to a fleeting hope - though they would suffer for the man he would become, the people would remember him as he had been.\n\n And so the noble man hid himself beneath a darkness no flesh should touch, and gave up his mortal self to claim a new birthright. Whether this was choice, or destiny, is a truth known only to fate.\n\n In that cool evening air, as dusk was devoured by night, the noble man ceased to exist. In his place another stood. \n\n Same meat. Same bone. But so very different.\n\n The first and only of his family. The sole forbearer and last descendent of the name Yor.\n\n In his first moments as a new being, he looked down at his Rose and realized for the first time that it held no petals: only the jagged purpose of angry thorns.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302160_cf70a4497c2dc49d9c3d3b9c7373772c.jpg"
+        ],
+        "image_name": ["Ghost Fragment: Thorn"],
+        "filename": ["302160_cf70a4497c2dc49d9c3d3b9c7373772c.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302160_cf70a4497c2dc49d9c3d3b9c7373772c.jpg",
+            "path": "full/a1dd418822f9cba53e20c93a18af1c76de6f90f1.jpg",
+            "checksum": "ab8d0b2f755615c7c91acaf6efe85236"
+          }
+        ]
+      },
+      {
+        "title": "Ghost Fragment: Thorn 2",
+        "content":
+          "TYPE: Transcript.<br> DESCRIPTION: Conversation.\n\n PARTIES: Four [4]. Three [3] unidentified [u.1, u.2, u.3], One [1] unconfirmed.\n\n ASSOCIATIONS: Breaklands; Durga; Last Word; Malphur, Shin; North Channel; Palamon; Thorn; Velor; Ward, Jaren; WoS; Yor, Dredgen; \n\n //AUDIO UNAVAILABLE//\n\n //TRANSCRIPT FOLLOWS.../\n\n [u.1:0.1] Can I see what you got there?<br> [silence]<br> [u.1:0.2] Yer cannon...can I see it?<br> [beat]<br> [u.2:0.1] I know you?<br> [beat]<br> [u.1:0.3] Not that I can say.<br> [u.2:0.2] And you wanna hold my piece?<br> [beat]<br> [u.1:0.4] Just that I never...seen one like it.<br> [beat]<br> [u.2:0.3] No, you haven't.<br> [u.1:0.5] Looks dangerous.<br> [u.2:0.4] Seems, maybe, that's the point.<br> [u.1:0.6] Suppose so.<br> [u.1:0.7] Can I see it?<br> [u.2:0.5] Not likely.<br> [silence]<br> [u.1:0.8] Where'd...where'd you find it?<br> [silence]<br> [u.1:0.9] You hearin' me?<br> [silence]<br> [u.3:0.1] He asked you question.<br> [silence]<br> [u.2:0.6] Didn't find it. Made it.<br> [u.1:1.0] Heh. Helluva touch you got then. You a 'smith?<br> [u.2:0.7] I look like a 'smith?<br> [u.1:1.1] Looks can be deceiving.<br> [u.2:0.8] Got that right.<br> [u.1:1.2] There a problem?<br> [u.2:0.9] Doesn't need to be.<br> [u.1:1.3] Glad we got that cleared up...Now, about that piece.<br> [silence]<br> [u.2:1.0] Been to Luna?<br> [u.1:1.4] Excuse me?<br> [u.2:1.1] The Moon. You been?<br> [u.1:1.5] Nobody's been.<br> [u.2:1.2] That a truth?<br> [u.1:1.6] That's a fact.<br> [u.2:1.3] Funny you'd make that distinction.<br> [u.1:1.7] Truth is you must think you're some kinda something special. With that attitude. The way you're just dismissin' us like you we're nothing...like we ain't even here.<br> [u.1:1.8] Fact is...You ain't near as rock solid as you figure. Fact is, special's only special 'til it's not.<br> [silence]<br> [u.2:1.4] The bones say otherwise.<br> [u.1:1.9] Speak straight.<br> [u.2:1.5] You say 'nobody.' Bones say otherwise.<br> [u.1:2.0] What bones?<br> [u.2:1.6] All of them.<br> [u.1:2.1] What're you gettin' at?<br> [u.2:1.7] Too many to count.<br> [u.1:2.2] You trying to get a rile outta us? Was only making conversation.<br> [u.2:1.8] You really weren't.<br> [u.4:0.1] We got a smart one here.<br> [u.2:1.9] Experienced more than smart. But experience has its advantages.<br> [u.1:2.3] Experience tell you to lip off to strangers just tryin' to make talk?<br> [u.2:2.0] Keep insisting and maybe we will.<br> [u.1:2.4] Talk?<br> [u.2:2.1] Have words.<br> [u.1:2.5] Ain't that what we're doin'?<br> [u.2:2.2] My conversations tend to be a bit louder.<br> [silence]<br> [u.1:2.6] That a threat.<br> [u.2:2.3] A truth.<br> [u.1:2.7] Who the hell you think you are?<br> [u.2:2.4] According to your facts, 'nobody.' Yet, here I sit.<br> [u.1:2.8] Don't matter much how pretty yer cannon is. You keep it up, we'll see just how loud you like to get.<br> [silence]<br> [u.1:2.9] You done talkin' now? Guess he knows his place, boys.<br> [u.2:2.5] Ever have a nightmare?<br> [u.1:3.0] You playin' games? Or just thick?<br> [u.2:2.6] I know you have. This world? Can't help, but.<br> [u.1:3.1] I don't have nightmares. I give 'em.<br> [u.2:2.7] You are a goddamn cliché. The picture perfect bandit.<br> [u.2:2.8] Hearing your voice - the things you're saying, the shade of the hard man you pretend to be...<br> [u.1:3.2] Ain't no shade.<br> [audible crack]<br> [audible crack]<br> [audible crack]<br> [silence]<br> [u.2:2.8] Sit down.<br> [silence]<br> [u.2:3.0] Sit. Down.<br> [u.2:3.1] Your mouth just got your friends dead.<br> [u.2:3.2] This is what happens when you bore me. And right now...<br> [u.2:3.3] I'm so very bored.<br> [u.1:3.3] Wha...No listen...<br> [u.2:3.4] Shhhhh.<br> [u.1:3.4] But...but...you're a...you're one of them...A Guardian, right?<br> [u.1:3.5] You're supposed t'be one'a the good ones.<br> [u.2:3.5] 'Supposed to be?' Maybe I am. Maybe this is what 'good' looks like.<br> [u.2:3.6] Anymore, who can tell?<br> [u.1:3.6] I...<br> [u.2:3.7] You wanted to see my prize.<br> [u.1:3.7] No...I...<br> [u.2:3.8] Look at it.<br> [u.1:3.8] I...<br> [audible sobbing]<br> [u.2:3.9] Whimpering won't stop what comes next.<br> [u.2:4.0] Look...<br> [audible sobbing]<br> [u.2:4.1] Look at it.<br> [u.2:4.2] Open your eyes.<br> [audible sobbing]<br> [u.2:4.3] Not many get such a clean view.<br> [u.2:4.4] The bone...You see it. Jagged, like thorns.<br> [u.2:4.5] I used to think of it as a rose...<br> [u.2:4.6] Focusing on its bloom.<br> [u.2:4.7] But the bloom is just a byproduct of its anger.<br> [silence]<br> [u.2:4.8] You have nightmares?<br> [audible sobbing]<br> [u.2:4.9] Ever seen a nightmare? Ever opened your eyes and realized the horror wasn't a dream? The terror wasn't gone?<br> [u.2:5.0] I've seen nightmares.<br> [u.2:5.1] They live in the shadows.<br> [u.2:5.2] They've been watching.<br> [u.2:5.3] I thought...It's foolish, I know...but I thought I saw a way.<br> [u.2:5.4] That maybe we could win. Maybe we could survive.<br> [u.2:5.5] But once you step into those shadows, it's so very hard to walk in the Light.<br> [u.2:5.6] Or...maybe I just wasn't strong enough.<br> [u.2:5.7] Maybe.<br> [u.2:5.8] But I feel strong now.<br> [audible sobbing]<br> [u.2:5.9] I stole the dark.<br> [u.2:6.0] Or, maybe it stole me.<br> [u.2:6.1] Either way, here we are.<br> [u.2:6.2] And I'm hungry.<br> [u.2:6.3] Its hungry.<br> [u.2:6.4] You have no Light beyond the spark of your pathetic life.<br> [u.2:6.5] But a spark is something.<br> [audible sobbing]<br> [u.2:6.6] Open your eyes.<br> [audible sobbing]<br> [audible sobbing]<br> [audible crack]<br> [silence]<br> [silence]<br> [silence]\n\n /...END TRANSCRIPT///",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302170_e76ec5bb196f983be421a6bd4a999011.jpg"
+        ],
+        "image_name": ["Ghost Fragment: Thorn 2"],
+        "filename": ["302170_e76ec5bb196f983be421a6bd4a999011.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302170_e76ec5bb196f983be421a6bd4a999011.jpg",
+            "path": "full/57005fbf0d031c9f64bccd0d8d519d4a00bec322.jpg",
+            "checksum": "3d4b6d6295fa49d87ddadc56825d5557"
+          }
+        ]
+      },
+      {
+        "title": "Ghost Fragment: Thorn 3",
+        "content":
+          "TYPE: Transcript.<br> DESCRIPTION: Conversation.<br> PARTIES: Two [2]. One [1] Ghost-type, designate [REDACTED] [u.1], One [1] Guardian-type, Class [REDACTED] [u.2]<br> ASSOCIATIONS: [REDACTED]; Breaklands; Durga; Last Word; Malphur, Shin; North Channel; Palamon; Thorn; Velor; Ward, Jaren; WoS; Yor, Dredgen; <br> //AUDIO UNAVAILABLE//<br> //TRANSCRIPT FOLLOWS.../\n\n [u.1:0.1] You were not always this man.<br> [u.2:0.1] True.<br> [u.1:0.2] Then the math says you do not need to remain this man. You can be other.<br> [u.2:0.2] I am other.<br> [u.1:0.3] You can be better.<br> [u.2:0.3] This is better.<br> [u.1:0.4] That matter, at best, is subjective.<br> [u.2:0.4] Then what? Lesser.<br> [u.1:0.5] Some would say.<br> [u.2:0.5] But what would you say?<br> [silence]<br> [u.2:0.6] All we’ve seen and now, here with me, you have no words.<br> [u.1:0.6] I have words.<br> [u.2:0.7] But...?<br> [u.1:0.7] But you will not like them.<br> [u.2:0.8] There is much I do not like.<br> [u.1:0.8] More now than ever it would seem.<br> [u.2:0.9] Heh.<br> [u.1:0.9] I find no laughing matter in your path.<br> [u.2:1.0] Only in the journey.<br> [u.1:1.0] What brought you here was nobility.<br> [u.2:1.1] And my prize.<br> [u.1:1.1] That is no prize.<br> [u.2:1.2] A curse then?<br> [u.1:1.2] I would say.<br> [u.2:1.3] And I would disagree.<br> [u.1:1.3] You are no longer yourself.<br> [u.2:1.4] I am myself. It’s who I was that’s gone.<br> [u.1:1.4] Who you were held all the value.<br> [u.2:1.5] To you.<br> [u.1:1.5] To the Light.<br> [u.2:1.6] The Light...<br> [u.1:1.6] It is all.<br> [u.2:1.7] It is nothing but a crutch.<br> [u.1:1.7] One that has held you up.<br> [u.2:1.8] Only just. And nothing more.<br> [u.1:1.8] Nothing more? You were a hero.<br> [u.2:1.9] And yet people still die. Corruption still exists. Light still fades. And Darkness still spreads.<br> [u.1:1.9] As it will ever be, that doesn’t mean you give in to...<br> [u.2:2.0] To what? Hope.<br> [u.1:2.0] This is not hope.<br> [u.2:2.1] This is peace.<br> [u.1:2.1] You have blood on your hands.<br> [u.2:2.2] How’s that any different than prior?<br> [u.1:2.2] Innocent blood.<br> [u.2:2.3] Matter of perspective.<br> [u.1:2.3] That’s the shadow talking.<br> [u.2:2.4] And am I not.<br> [u.1:2.4] The shadow?<br> [u.2:2.5] Ya know... These past cycles, you’ve made an honorable effort. Tried your best to correct my course. But I don’t know it needs correcting.<br> [u.1:2.5] And if it does?<br> [u.2:2.6] Could be too late.<br> [u.1:2.6] 'Could be' is a winding path.<br> [u.2:2.7] Long way from where I was to where I’m going.<br> [u.1:2.7] That is my hope. That there is still time.<br> [u.2:2.8] For?<br> [u.1:2.8] Corrective measures. The righting of our path. The cleansing of your shadow and a return to the Light.<br> [silence]<br> [u.2:2.9] Why’d you pick me?<br> [u.1:2.9] It doesn’t work that way.<br> [u.2:3.0] Was I special?<br> [u.1:3.0] You were.<br> [u.2:3.1] But only as special as any other.<br> [u.1:3.1] You are all special.<br> [u.2:3.2] Seems to contradict the word don’t it.<br> [u.1:3.2] Not in my estimation.<br> [u.2:3.3] If we’re all special, are any of us special?<br> [u.1:3.3] Is that what you want? To be special?<br> [u.2:3.4] Heh.<br> [u.1:3.4] You dismiss, but it’s a very serious question. Is that all you’re after? Is all of the death worth that badge?<br> [u.2:3.5] Am I not already more than the rest?<br> [u.1:3.5] Looking at you here, now. The smoke, ash and bone at your feet mark you as so much less.<br> [u.2:3.6] Maybe. And yet here you are.<br> [u.1:3.6] Meaning?<br> [u.2:3.7] You have been at my side every step of the way.<br> [u.1:3.7] Where else would I be?<br> [u.2:3.8] Yet you disagree so thoroughly with my change in perspective.<br> [u.1:3.8] If only the change was simply one of perspective. Your “evolution” was no choice. This is not you having come to an understanding after careful considered thought. This is corruption.<br> [u.2:3.9] The shadows?<br> [u.1:3.9] The Darkness.<br> [u.2:4.0] Maybe so.<br> [u.1:4.0] There is no maybe here.<br> [u.2:4.1] And you think you can save me?<br> [u.1:4.1] I rekindled your Light, it falls first to me to aid in its survival.<br> [silence]<br> [u.2:4.2] I tire of it.<br> [u.1:4.2] You must try...<br> [u.2:4.3] I tire of you.<br> [u.1:4.3] [REDACTED]...<br> [u.2:4.4] That is no longer my name.<br> [u.1:4.4] I will not speak the other.<br> [u.2:4.5] It doesn’t matter. This is where we part ways.<br> [u.1:4.5] I will not leave you.<br> [u.2:4.6] I am leaving you.<br> [u.1:4.6] Without me, your journey ahead will be more than any one Guardian can handle.<br> [u.2:4.7] That’s the point. It’s been sometime since you saw me as worthy of walking among those I once called brother and sister. Yet... anymore, I feel as though I am worthy of so much more.<br> [u.1:4.7] Without me... You will die.<br> [u.2:4.8] Someday. Won’t be the first time.<br> [silence]<br> [u.2:4.9] Consider this my last good deed. I am releasing you of the burden of my deeds, both done and yet to come.<br> [u.1:4.8] I will not abandon you.<br> [u.2:5.0] You will. Or I will carve the Light from your shell and leave the carcass of my first and last friend in the dirt of this dull, red world for no one to find.<br> [u.1:4.9] Then I’ve failed you, completely.<br> [u.2:5.1] Not me. Maybe the man I was.<br> [u.1:5.0] He is truly dead.<br> [u.2:5.2] I believe so.<br> [u.1:5.1] Belief is not fact.<br> [u.2:5.3] Semantics I no longer have the patience for.<br> [silence]<br> [u.2:5.4] When you speak of me, use my proper name. Tell them of the man that stands before you, not the ghost of the hero I once was.<br> [u.1:5.2] You will always be [REDACTED] to me.<br> [u.2:5.5] If you cannot let that man go, you will forever taint his legacy. All the good I have ever done will be washed away in the fire of who I have become.<br> [u.1:5.3] If you care, there is still some promise within you.<br> [u.2:5.6] If I am being honest, I care only to give hope to the frightened, huddled masses so that when I come upon them they will have more to lose. Their pain will be greater. Their screams more pure. <br> [u.1:5.4] You...<br> [u.2:5.7] Nothing dies like hope. I cherish it. <br> [u.1:5.5] You’re a monster.<br> [u.2:5.8] Finally, you see the truth.<br> [u.1:5.6] [REDACTED] is truly dead.<br> [u.2:5.9] So I’ve said. Long live Dredgen Yor.<br> [u.1:5.7] This is farewell, but you can only run from your sins so far. In the end, you will die alone.<br> [u.2:6.0] Maybe so. But I gotta tell ya... I tend to like my odds.<br> [u.1:5.8] Your tainted “Rose” will not always save you.<br> [u.2:6.1] Old friend... It already has.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302180_97a7b9ee7a3b427ff19bf5323f256385.jpg"
+        ],
+        "image_name": ["Ghost Fragment: Thorn 3"],
+        "filename": ["302180_97a7b9ee7a3b427ff19bf5323f256385.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/302180_97a7b9ee7a3b427ff19bf5323f256385.jpg",
+            "path": "full/05d7cdf15b5fe46be9c424e06a1eeb07cf1c16ef.jpg",
+            "checksum": "ba24590d60602b6aebe70f6fa13c6a44"
+          }
+        ]
+      },
+      {
+        "title": "Ace of Spades",
+        "content":
+          "“Heeeeeeey there, Banshee!”\n\n “Whaddya want, Cayde?”\n\n “Just checking in on that thing I asked you to do.”\n\n “I told you, my smuggling days are over—”\n\n “No no shhh no not that! The other thing—”\n\n “What other thing?”\n\n “The custom piece! For—”\n\n “Oh right. Right. Course I’m doing that.”\n\n “Yeah? How's it looking?”\n\n “Did all the design myself. So it's looking good.”\n\n “Is that... an ace of spades?”\n\n “Yep.”",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700300_446f835f07a633d985c543b86ac20963.jpg"
+        ],
+        "image_name": ["Ace of Spades"],
+        "filename": ["700300_446f835f07a633d985c543b86ac20963.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700300_446f835f07a633d985c543b86ac20963.jpg",
+            "path": "full/6b27fd38ad6c4d5645d897c49e6d9155e33047bb.jpg",
+            "checksum": "c61ade5529411e7c16654198808413c0"
+          }
+        ]
+      },
+      {
+        "title": "The First Curse",
+        "content":
+          "People always forget about the other one. The first one. They remember its twin, the Last Word, because that's an easier story to tell. But it's not the whole story.\n\n Truth is, there were two of 'em, back then in the lawless days before the City was anything more than a rumor. There are thousands of tales of the fate of The First Curse, which one will you tell?",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700170_e58416ea5a26428f47c42f33aeef6202.jpg"
+        ],
+        "image_name": ["The First Curse"],
+        "filename": ["700170_e58416ea5a26428f47c42f33aeef6202.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700170_e58416ea5a26428f47c42f33aeef6202.jpg",
+            "path": "full/480da7675f893d2a0c0d25fc535dcec8fb257b67.jpg",
+            "checksum": "75e1168ced355ccf2dc5f6e90fd315d5"
+          }
+        ]
+      },
+      {
+        "title": "Ghost Fragment: Thorn 4",
+        "content":
+          "TYPE: Transcript.<br> DESCRIPTION: Conversation.<br> PARTIES: Two [2]. One [1] Ghost-type, designate [REDACTED] [u.1], One [1] Guardian-type, Class [REDACTED] [u.2]<br> ASSOCIATIONS: Breaklands; Durga; Dwindler’s Ridge; Last Word; Malphur, Shin; North Channel; Palamon; Thorn; Velor; Ward, Jaren; WoS; Yor, Dredgen; <br> //AUDIO UNAVAILABLE//<br> //TRANSCRIPT FOLLOWS.../\n\n [u.1:0.1] Such Darkness.<br> [u.2:0.1] Impressed?<br> [u.1:0.2] Far from it.<br> [u.2:0.2] To each their own.<br> [u.1:0.3] His Light is faded.<br> [u.2:0.3] His Light is gone.<br> [u.1:0.4] You are an infection.<br> [u.2:0.4] I am that which will cleanse.<br> [u.1:0.5] You are a monster.<br> [u.2:0.5] <i>Heh.</i> An old friend once saw me as the same. He was right, and, had we met earlier, so too would you be.<br> [u.1:0.6] You’d dare defend yourself – all you’ve done – as anything but monstrous?<br> [u.2:0.6] No more than a hurricane.<br> [u.1:0.7] Then you’re a force of nature?<br> [u.2:0.7] I am all that is right. You may not see it – for lack of looking, or blind ignorance – but I am all that is good.<br> [u.1:0.8] You’ve just murdered a good man.<br> [u.2:0.8] He shot first.<br> [u.1:0.9] Yet you stand.<br> [u.2:0.9] Guess he missed.<br> [u.1:1.0] He never misses.<br> [u.2:1.0] First time for everything.<br> [silence]<br> [u.2:1.1] His cannon? Nice piece of hardware.<br> [u.2:1.2] Well-worn, but clean. Smooth hammer.<br> [u.1:1.1] It was his prize.<br> [u.2:1.3] Guess he put too much faith in the wrong steel.<br> [u.1:1.2] Is that where your faith lies, in steel?<br> [u.2:1.4] Not for some time. My steel is only an extension. My faith is in the shadow.<br> [u.1:1.3] Then my Light is an affront to all you are. I am your truest enemy.<br> [u.2:1.5] One of many.<br> [u.1:1.4] Would you end me?<br> [u.2:1.6] Not you. Not now.<br> [u.1:1.5] The shadow knows mercy.<br> [u.2:1.7] The shadow knows no such thing.<br> [u.1:1.6] Then what?<br> [u.2:1.8] The other.<br> [u.1:1.7] What other?<br> [u.2:1.9] The dead man’s charge.<br> [u.1:1.8] The boy?<br> [u.1:1.9] You’d end him as well?<br> [u.2:2.0] If it comes to that... We’ll see.<br> [u.1:2.0] I won’t let you have the child.<br> [u.2:2.1] Been long enough now, think maybe he’s a man.<br> [u.1:2.1] You cannot have him.<br> [u.2:2.2] Not yet.<br> [u.1:2.2] I won’t let you.<br> [u.2:2.3] That you could stop me is an amusing thought.<br> [silence]<br> [u.2:2.4] Here.<br> [silence]<br> [u.2:2.5] Take it.<br> [u.1:2.3] Why?<br> [u.2:2.6] Give the apprentice his master’s “sword.” It is a gift.<br> [u.1:2.4] You cannot have him.<br> [u.2:2.7] You fear for his Light?<br> [u.1:2.5] He...<br> [u.2:2.8] ...is special.<br> [u.1:2.6] Yes.<br> [u.2:2.9] I am aware.<br> [u.1:2.7] You’re trying to tempt him. You’re feeding his anger.<br> [u.2:3.0] The gun is a memento, nothing more.<br> [u.1:2.8] You claim to be a vessel, a hollow shell where once a man stood, but that is just a lie. The man is still in you.<br> [u.2:3.1] There is no man here, I am now, and for the rest of time, only Dredgen Yor.<br> [u.1:2.9] “The Eternal Abyss?”<br> [u.2:3.2] So, not all the forgotten languages are dead.<br> [u.1:3.0] Hide behind whatever titles you wish, it is all still a façade. No force of nature would play such games.<br> [u.2:3.3] Games?<br> [u.1:3.1] The cannon. You wish to tempt the boy. To spur him on and fuel his rage. There is intent there. The actions of a man, monstrous, mad or otherwise... you are nothing more.<br> [u.2:3.4] And what value does your conclusion bring, flawed as it may be?<br> [u.1:3.2] That a hurricane can only be weathered, not stopped. Not redirected. A force of nature is uncaring and without intent, but a man...<br> [u.2:3.5] Yes?<br> [u.1:3.3] A man is none of those things.<br> [silence]<br> [u.1:3.4] A man can be killed.<br> [silence]<br> [u.2:3.6] And there it is...<br> [u.1:3.5] There what is...?<br> [u.2:3.7] A sliver of hope.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700200_493f97a3d6851dbd09022bf188868a82.jpg"
+        ],
+        "image_name": ["Ghost Fragment: Thorn 4"],
+        "filename": ["700200_493f97a3d6851dbd09022bf188868a82.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700200_493f97a3d6851dbd09022bf188868a82.jpg",
+            "path": "full/661eebf752c237848cd9d7b234ef556a8194d8a7.jpg",
+            "checksum": "50c7dae3470a4ab906d4bdeb3fd60d35"
+          }
+        ]
+      },
+      {
+        "title": "Khvostov 7G-0X",
+        "content":
+          "The Khvostov 7G0X was the brainchild of two eras: the Golden Age and the City Age. Shiro-4 used the design schematics for the Khvostov series and a little Guardian ingenuity to craft a modern take on a legendary classic weapon. A fitting tribute to those old weaponsmiths and the newest Iron Lord.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800402_48c166df58e62418d0df046da805285a.jpg"
+        ],
+        "image_name": ["Khvostov 7G-0X"],
+        "filename": ["800402_48c166df58e62418d0df046da805285a.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800402_48c166df58e62418d0df046da805285a.jpg",
+            "path": "full/3f82385286172705d2eaa3dab1d9eaa07980416f.jpg",
+            "checksum": "4c78c77b677fe6a21311a1ddc3c52752"
+          }
+        ]
+      },
+      {
+        "title": "KhvostovField Manual, pg. 1",
+        "content":
+          "Scrawled in the margins are numerous notes: “Vasili, this man is not fit to write an instruction manual for a garden trowel. Do not worry. I have used my time well, and updated this &lt;untranslatable&gt; with notes that will help you every single day. You are welcome. —Your friend, Dmitri”",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800300_306f5c49ca99c56c68b68b0092f4252c.jpg"
+        ],
+        "image_name": ["KhvostovField Manual, pg. 1"],
+        "filename": ["800300_306f5c49ca99c56c68b68b0092f4252c.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800300_306f5c49ca99c56c68b68b0092f4252c.jpg",
+            "path": "full/3dbe02960c794e250269bdcb57ec3c26463dad99.jpg",
+            "checksum": "9d80620c3009bdbcf18e04297405dbc7"
+          }
+        ]
+      },
+      {
+        "title": "Khvostov Field Manual, pg. 26",
+        "content":
+          "“Vasili, do not do what this page says. When you see this, cut it out of the manual and throw it into a fire.”",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800303_0c4cd1e74a0ea4ba46b9b5f5c4c1b299.jpg"
+        ],
+        "image_name": ["Khvostov Field Manual, pg. 26"],
+        "filename": ["800303_0c4cd1e74a0ea4ba46b9b5f5c4c1b299.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800303_0c4cd1e74a0ea4ba46b9b5f5c4c1b299.jpg",
+            "path": "full/3efbe7f3b440598b0c8b6f43fb68c39493f674dd.jpg",
+            "checksum": "85f715a61e25c6604290fe0cc7d22887"
+          }
+        ]
+      },
+      {
+        "title": "Khvostov Field Manual, pg. 17",
+        "content":
+          "“This is the folly of modern combat thinking, Vasili. We are safe, right? We have no need for soldiers; not anymore! And if we ever do again, they will think clearing a jam in an hour acceptable because a book told them so. That is why I am here. I will tell you different.”",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800302_64c2eab5bbfc21fb10a5934b381e9b75.jpg"
+        ],
+        "image_name": ["Khvostov Field Manual, pg. 17"],
+        "filename": ["800302_64c2eab5bbfc21fb10a5934b381e9b75.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800302_64c2eab5bbfc21fb10a5934b381e9b75.jpg",
+            "path": "full/ffe8d28f3099882d6550e862cdf78328b68169ce.jpg",
+            "checksum": "fb2a0f0691754520c59d39d820cdf2dc"
+          }
+        ]
+      },
+      {
+        "title": "Outbreak Prime",
+        "content":
+          "“This is an advanced Golden Age technology tied to the death of some of the Light’s greatest champions. It’s currently being used as a tool of the Fallen to push the limits of bio-evolutionary realities. And you’re kit-bashing it together with projectile-based war systems to make a handheld mechanism that delivers aggressive nano-mites?” –Ghost\n\n “That’s one way to put it. All I know is... when you pull this trigger, one plus one equals zero every time. I’ve done the math.” –Shiro-4",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800401_7d56f27e6dee32b97c3f67b7b517699c.jpg"
+        ],
+        "image_name": ["Outbreak Prime"],
+        "filename": ["800401_7d56f27e6dee32b97c3f67b7b517699c.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800401_7d56f27e6dee32b97c3f67b7b517699c.jpg",
+            "path": "full/d767a8f3ad3fae20c1d5e5ae3a9edb11c10e5535.jpg",
+            "checksum": "2034414e05c79cfb5fac963024fb0b18"
+          }
+        ]
+      },
+      {
+        "title": "KhvostovField Manual, pg. 15",
+        "content":
+          "“You want feedback, you &lt;untranslatable&gt; goat? Your machine technique for barrel rifling is inconsistent, the trigger assembly hasn't been updated in years, and the weapon shell has all the design aesthetic of a Lenin-era post office.”",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800301_d3b0174d5ac4cf32aaa90bc898455b1e.jpg"
+        ],
+        "image_name": ["KhvostovField Manual, pg. 15"],
+        "filename": ["800301_d3b0174d5ac4cf32aaa90bc898455b1e.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800301_d3b0174d5ac4cf32aaa90bc898455b1e.jpg",
+            "path": "full/98efed802c00c1ab2a12142b2b80cf913cf168ad.jpg",
+            "checksum": "b2ae4a3d9c1240d892930463dea0f105"
+          }
+        ]
+      },
+      {
+        "title": "Khvostov Field Manual, pg. 74",
+        "content":
+          "'Upper receiver assembly is over-engineered. Khvostov rifles are not art. They are tools! We can do better. See here.'",
+        "image_urls": [
+          "https: //www.bungie.net/common/destiny_content/grimoire/hr_images/800308_caef4bfcd981ca9e757df0514fe0a4d5.jpg"
+        ],
+        "image_name": ["Khvostov Field Manual, pg. 74"],
+        "filename": ["800308_caef4bfcd981ca9e757df0514fe0a4d5.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800308_caef4bfcd981ca9e757df0514fe0a4d5.jpg",
+            "path": "full/bba471a7995bddc3d67cf362a9efa95b3d9c4b20.jpg",
+            "checksum": "8ca1d48480230de99484df828282c52a"
+          }
+        ]
+      },
+      {
+        "title": "Khvostov Field Manual, pg. 67",
+        "content":
+          "“If Ivonovich gives you trouble, remind him who still has a picture of him in a bear suit. He will know.”",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800307_dcba92e8d01a7a32468cb36c65559ed3.jpg"
+        ],
+        "image_name": ["Khvostov Field Manual, pg. 67"],
+        "filename": ["800307_dcba92e8d01a7a32468cb36c65559ed3.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800307_dcba92e8d01a7a32468cb36c65559ed3.jpg",
+            "path": "full/21a836c67154947f07c2bac9d505e77d5e7a4cb3.jpg",
+            "checksum": "d66357ccee452cef4c5d3817b2bb4e18"
+          }
+        ]
+      },
+      {
+        "title": "Khvostov Field Manual, pg. 78",
+        "content":
+          "“Lower extension assembly is surprisingly good design. Still think we can improve maintenance. Follow directions below.”",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800309_4469dbf326407842b0b48328f223a148.jpg"
+        ],
+        "image_name": ["Khvostov Field Manual, pg. 78"],
+        "filename": ["800309_4469dbf326407842b0b48328f223a148.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800309_4469dbf326407842b0b48328f223a148.jpg",
+            "path": "full/2b0ab20f11829a731f20103eaa2f63bb183438f6.jpg",
+            "checksum": "9ccec5d6467b6731fd6bbce470ddfb8d"
+          }
+        ]
+      },
+      {
+        "title": "Khvostov Field Manual, pg. 85",
+        "content":
+          "“Trigger assembly is a mess. Who thought this was a good idea? Use this design, use custom cleaning solution. See huge benefit, overnight. No questions asked!”",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800310_ab1f0b9024ff425071dc0936393ed4c1.jpg"
+        ],
+        "image_name": ["Khvostov Field Manual, pg. 85"],
+        "filename": ["800310_ab1f0b9024ff425071dc0936393ed4c1.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800310_ab1f0b9024ff425071dc0936393ed4c1.jpg",
+            "path": "full/6b8bcf901b358251f4875f7d26800874c4690fe9.jpg",
+            "checksum": "880d2b4d37d3efbcb94a2905aa230b0c"
+          }
+        ]
+      },
+      {
+        "title": "Khvostov Field Manual, pg. 86",
+        "content":
+          "“Auxiliary inspection points here, here, and here. Follow lines. Make sure you follow line 3 very closely. Does not go where you think.”",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800311_d0cc0fa3028e21b7e6c2d6c226b03a46.jpg"
+        ],
+        "image_name": ["Khvostov Field Manual, pg. 86"],
+        "filename": ["800311_d0cc0fa3028e21b7e6c2d6c226b03a46.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800311_d0cc0fa3028e21b7e6c2d6c226b03a46.jpg",
+            "path": "full/e48eafeb487a5113615472fa6f114f77102c9e2e.jpg",
+            "checksum": "e605c62b79cc7c7773a6b220eed62d5e"
+          }
+        ]
+      },
+      {
+        "title": "Khvostov Field Manual, pg. 38",
+        "content":
+          "“And the generals ask why the soldiers no longer have fighting spirit. What spirit can we have when this is what we work with? I make changes, here. Follow.”",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800305_a2d48ca4ff0674f608581720c09bf69b.jpg"
+        ],
+        "image_name": ["Khvostov Field Manual, pg. 38"],
+        "filename": ["800305_a2d48ca4ff0674f608581720c09bf69b.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800305_a2d48ca4ff0674f608581720c09bf69b.jpg",
+            "path": "full/c2699243b559856c91f23ad70826d603160dbd47.jpg",
+            "checksum": "8afadd3f2c692873ff9669824f0d2589"
+          }
+        ]
+      },
+      {
+        "title": "Khvostov Field Manual, pg. 33",
+        "content":
+          "“When you are trying to field strip your weapon, Vasili, you should use a cleaner of my own design. Recipe follows. DO NOT GET ON SKIN.”",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800304_4c059de931e9987e3b590322391b3daa.jpg"
+        ],
+        "image_name": ["Khvostov Field Manual, pg. 33"],
+        "filename": ["800304_4c059de931e9987e3b590322391b3daa.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800304_4c059de931e9987e3b590322391b3daa.jpg",
+            "path": "full/b4932e751f4eaaecbf460b7194eb02a1704278d6.jpg",
+            "checksum": "d5e880066bc25c5ce9a780348a1bb92b"
+          }
+        ]
+      },
+      {
+        "title": "Khvostov Field Manual, pg. 54",
+        "content": "“I’ve been toying with a new design for firing pin interface. See sketch below.”",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800306_f1656a2beaa7a16b326c259b1cbfe715.jpg"
+        ],
+        "image_name": ["Khvostov Field Manual, pg. 54"],
+        "filename": ["800306_f1656a2beaa7a16b326c259b1cbfe715.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800306_f1656a2beaa7a16b326c259b1cbfe715.jpg",
+            "path": "full/1bfd98c215831667319db1c4731dc7a545726266.jpg",
+            "checksum": "d60c3ca4364d719e129865c619052cf4"
+          }
+        ]
+      },
+      {
+        "title": "Khvostov Field Manual, pg. 90",
+        "content":
+          "“Best advice a manual will give you: tell the people you love that you love them. There. Now you are ready to carry a Khvostov.”",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800312_f3518569724efb38332882c238cd7853.jpg"
+        ],
+        "image_name": ["Khvostov Field Manual, pg. 90"],
+        "filename": ["800312_f3518569724efb38332882c238cd7853.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800312_f3518569724efb38332882c238cd7853.jpg",
+            "path": "full/13f74de7425f4758db6bb90230a909105f3493cb.jpg",
+            "checksum": "afb311b0f29fd4f29cfd79f0f5566de4"
+          }
+        ]
+      },
+      {
+        "title": "Ghost Fragment: Thorn 5",
+        "content":
+          "TYPE: Transcript<br> PARTIES: One [2]. One [1] Guardian-type, Class Hunter [u.1]<br> ASSOCIATIONS: Orsa, Zyre [AKA Vale, Dredgen]; Thorn; Vale, Dredgen [AKA Orsa, Zyre]; WoS, Yor, Dredgen; Yor, Shadows of<br> //AUDIO UNAVAILABLE//<br> //TRANSCRIPT FOLLOWS.../\n\n [u.1:0.1] We have tamed the sickness. Broken it with unwilling sacrifice. <br> [silence]<br> [u.1:0.1] Now we claim our reward. Have you heard the whispers, brothers? Sister? The shadow speaks. All we have to do is listen. Its secrets are a gift. Its gift? Our evolution. The others misunderstand. We are the Weapons of Sorrow – living and free. The hated heroes of this broken age.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/801103_d96d539ca6aef6f576d5f576d5c8602f.jpg"
+        ],
+        "image_name": ["Ghost Fragment: Thorn 5"],
+        "filename": ["801103_d96d539ca6aef6f576d5f576d5c8602f.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/801103_d96d539ca6aef6f576d5f576d5c8602f.jpg",
+            "path": "full/7f64abf5de39512498c36641856b6e890e815fb6.jpg",
+            "checksum": "e2101f47863ff94695c885fef6a717b2"
+          }
+        ]
+      },
+      {
+        "title": "Ghost Fragment: The Last Word 5",
+        "content":
+          "TYPE: Transcript.<br> DESCRIPTION: Conversation.<br> PARTIES: Two [2]. One [1] Ghost-type, designate [REDACTED] [u.1], One [1] Guardian-type, Class Hunter [u.2]<br> ASSOCIATIONS: Breaklands; Durga; Dwindler’s Ridge; Last Word; Malphur, Shin; North Channel; Orsa, Zyre [AKA Vale, Dredgen]; Palamon; Thorn; Vale, Dredgen [AKA Orsa, Zyre]; Velor; Ward, Jaren; WoS; Yor, Dredgen; Yor, Shadows of<br> //AUDIO UNAVAILABLE//<br> //TRANSCRIPT FOLLOWS.../\n\n [u.1:0.1] Will you fight them? <br> [u.2:0.1] The Shadows?<br> [u.1:0.2] Those who have taken up arms in the name of Yor.<br> [u.2:0.2] The hope is they are more careful than their inspiration.<br> [u.1:0.3] Do you believe that will make a difference?<br> [silence]<br> [u.2:0.3] No.<br> [u.1:0.4] Then what will you do?<br> [u.2:0.4] The Vanguard has an eye on...<br> [u.1:0.5] The Vanguard have their eyes on many things. <br> [u.2:0.5] I’m aware.<br> [u.1:0.6] Then what will you do?<br> [silence]<br> [u.2:0.6] What needs to be done.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/801102_603203a82c67f866776ff5ac5b4050f5.jpg"
+        ],
+        "image_name": ["Ghost Fragment: The Last Word 5"],
+        "filename": ["801102_603203a82c67f866776ff5ac5b4050f5.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/801102_603203a82c67f866776ff5ac5b4050f5.jpg",
+            "path": "full/7864360d1dcc6c2773f87fccd1f4379bb4b9682a.jpg",
+            "checksum": "35ad31eabb19de5e5f6695cba6725acd"
+          }
+        ]
+      }
+      ]
+  },
+  {
+    "title": "Special Weapons",
+    "image_url": "https://www.bungie.net/common/destiny_content/grimoire/hr_images/special-weapons_3493fabf7da9029ca3a708fc4e55547b.jpg",
+    "screen": "",
+    "data": [
+      {
+        "title": "Shotguns",
+        "content":
+          "There are few weapons that offer the comfort and familiarity of a shotgun. Built for close quarters combat, they provide immediate, violent conflict resolution.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303010_2e2c0afc5689a0b52d132a0dee25dc77.jpg"
+        ],
+        "image_name": ["Shotguns"],
+        "filename": ["303010_2e2c0afc5689a0b52d132a0dee25dc77.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303010_2e2c0afc5689a0b52d132a0dee25dc77.jpg",
+            "path": "full/f839b23162f8f0126622f803c971764df238878e.jpg",
+            "checksum": "e97b8b2c337767be1f27db8f53abdb3f"
+          }
+        ]
+      },
+      {
+        "title": "Plan C",
+        "content":
+          "Sharp reflexes keep you alive on the frontier - but no matter how fast you are, a fusion rifle can only charge so quickly. Enter the Plan C. When you draw the weapon, fast-rise capacitors and a smart induction system prime for firing. The 'ready fire' state only lasts a few moments - but in a gunfight, those moments matter.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303060_b50448c19cd2d99a172e30396da42161.jpg"
+        ],
+        "image_name": ["Plan C"],
+        "filename": ["303060_b50448c19cd2d99a172e30396da42161.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303060_b50448c19cd2d99a172e30396da42161.jpg",
+            "path": "full/1d165dc03d25ee937e5ca153c60162abbdd4a389.jpg",
+            "checksum": "2fea6068bae32cd84c87483ec56415a8"
+          }
+        ]
+      },
+      {
+        "title": "Invective",
+        "content":
+          "Invective was Ikora Rey's weapon of choice during her younger, more rebellious days. An ideal fallback for situations that can't be solved by wit, quick talk, or pure intimidation, this modified shotgun uses a self-replicating magazine to keep its owner well-stocked for any and all trouble that waits beyond the City.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303030_5bc704eb4efc564ba0588d145ce46121.jpg"
+        ],
+        "image_name": ["Invective"],
+        "filename": ["303030_5bc704eb4efc564ba0588d145ce46121.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303030_5bc704eb4efc564ba0588d145ce46121.jpg",
+            "path": "full/d44417cb4c25bc23572bfe438be56853c312028c.jpg",
+            "checksum": "751aedc7aabfdb61e806c2e19c964f81"
+          }
+        ]
+      },
+      {
+        "title": "Pocket Infinity",
+        "content":
+          "Fireteam Tuyet died in the Ishtar Sink, hunting the secrets of the Vex. They must have come too close to something precious, for the Vex descended on them with their typical inscrutable, thorough violence. \n\nBut their sacrifice was not in vain. The data they gathered helped forge the Pocket Infinity. Properly modified, the weapon should be capable of devastating output on just a single charge cycle.\n\nThe Infinity's mechanisms have proven difficult, if not impossible, to replicate en masse. It is conceivable that the weapon draws its energy from the Vex networks...an ominous possibility. So be wary with it.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303050_f5bc7cdc008f035f9f7e0e42e5fae3d2.jpg"
+        ],
+        "image_name": ["Pocket Infinity"],
+        "filename": ["303050_f5bc7cdc008f035f9f7e0e42e5fae3d2.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303050_f5bc7cdc008f035f9f7e0e42e5fae3d2.jpg",
+            "path": "full/d9b488cdd89f4df6621cff4a0f4e12e75fcb279b.jpg",
+            "checksum": "9d75b45568ffde2524b1bba10293349a"
+          }
+        ]
+      },
+      {
+        "title": "Universal Remote",
+        "content":
+          "It took great care, and an incredible feat of fine-tuning, to craft a weapon that packs a close-quarters punch, yet has the range of a precision rifle. Universal Remote is that weapon.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303020_36cf11b6155ab6252cdb54feb7171247.jpg"
+        ],
+        "image_name": ["Universal Remote"],
+        "filename": ["303020_36cf11b6155ab6252cdb54feb7171247.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303020_36cf11b6155ab6252cdb54feb7171247.jpg",
+            "path": "full/ee0e155ebb55d8dd050de0b96ec4f11cc3c12f35.jpg",
+            "checksum": "8a6f22c073538e4fae60bad41bcf1c8b"
+          }
+        ]
+      },
+      {
+        "title": "The 4th Horseman",
+        "content":
+          "One look at The 4th Horseman, and the care taken in crafting it, points to the old trophy-driven traditions of the hunt, but this blunt force destroyer wasn\u2019t built for just any game. Its precision tuning allows for full-auto firing, while measured impact timing provides an extra kick at the tail end of each magazine\u2014a needed fail safe designed specifically for the weapon\u2019s intended prey, the biggest game in the system, the Cabal.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303093_fe42b8bfb71964af2a0a25c0b5969a15.jpg"
+        ],
+        "image_name": ["The 4th Horseman"],
+        "filename": ["303093_fe42b8bfb71964af2a0a25c0b5969a15.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303093_fe42b8bfb71964af2a0a25c0b5969a15.jpg",
+            "path": "full/4332270621a93bb73e5fbaefed84e6eb5f6f13fc.jpg",
+            "checksum": "1407405018e54121163df2b5ff314f49"
+          }
+        ]
+      },
+      {
+        "title": "The Chaperone",
+        "content":
+          "Amanda Holliday was born on the road, when the City was nothing more than a whispered prayer. Their only protection was the weapons they could scavenge, build or modify. Weapons like her mother's two-barrel shotgun, with its black and gold filigree far too fine for the world around it. They called it the Chaperone.\n\nThat Chaperone lies in a shallow grave with its last owner, but Amanda recalls every detail of its design. And via a partnership with the gunsmiths of Tex Mechanica, she's brought the Chaperone back to life. Though the new weapon is much more powerful than the cantankerous relic the Hollidays used on the road, it bears the appearance, and the name, of the Chaperone that saw the one surviving Holliday safely to the Last City.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700220_dfbdc8d3d545fc107a36d27641796c30.jpg"
+        ],
+        "image_name": ["The Chaperone"],
+        "filename": ["700220_dfbdc8d3d545fc107a36d27641796c30.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700220_dfbdc8d3d545fc107a36d27641796c30.jpg",
+            "path": "full/03610c2006816c099fe29a5f67d7125eaca3651c.jpg",
+            "checksum": "ae2d36fd014e9246fe6612ab382a538e"
+          }
+        ]
+      },
+      {
+        "title": "Fusion Rifles",
+        "content":
+          "Advancements in directed energy disbursement, gained through the discovery of Golden Age research, led to the creation of stable, field-ready energy-based weaponry. The first implementation of this technology comes in the form of the Fusion Rifle. Users must hold the trigger down for a few moments to charge the weapon before firing.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303040_8ddb175d35651a6c395a2280c3b05e78.jpg"
+        ],
+        "image_name": ["Fusion Rifles"],
+        "filename": ["303040_8ddb175d35651a6c395a2280c3b05e78.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303040_8ddb175d35651a6c395a2280c3b05e78.jpg",
+            "path": "full/401736008b33c26c8fcf24a00458066b05a87d0b.jpg",
+            "checksum": "a9495ca9816f3c1c0bf8d686c9932a40"
+          }
+        ]
+      },
+      {
+        "title": "Lord of Wolves",
+        "content":
+          "Jolyon was a Crow. He'd seen much. More than most. He held the enemy's greatest weapon. Remembered its burn. Then began tinkering. He liked things. Liked how they worked. Found happiness in finding new avenues through which a thing could function. Not to alter the purpose, but simply to refine it.\n\nThe weapon delivered impact with incredible force spread over a range to increase its area of influence. But what if that force was brought to focus in a directed burst. A seasoned marksman with a steady, strong hand could deliver a burn that served less to herd, more to punish.\n\nThe feral ones deserved nothing less. The Wolves would have a new master. And that master was fire.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303034_c0e3c6dbea486baff6d72082812b01bf.jpg"
+        ],
+        "image_name": ["Lord of Wolves"],
+        "filename": ["303034_c0e3c6dbea486baff6d72082812b01bf.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303034_c0e3c6dbea486baff6d72082812b01bf.jpg",
+            "path": "full/5ea1f637ffa62bee9191228610e65007d5d32754.jpg",
+            "checksum": "58b2a1f8a8d7bbe9e55c10d6cbc24364"
+          }
+        ]
+      },
+      {
+        "title": "Vex Mythoclast",
+        "content":
+          "Some legends live forever. Others are overwritten - reshaped by the sheer will of those who believe that any ordeal can be conquered, any foe vanquished, any god cast down. \n\nThe Mythoclast is a Vex instrument from some far-flung corner of time and space, mysteriously fit for human hands. Its origins, mechanism of action, and ultimate purpose remain unknown. Perhaps it will reveal itself to you, in time...",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303065_acefb449b43912f4c66b7f12d3d821bc.jpg"
+        ],
+        "image_name": ["Vex Mythoclast"],
+        "filename": ["303065_acefb449b43912f4c66b7f12d3d821bc.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303065_acefb449b43912f4c66b7f12d3d821bc.jpg",
+            "path": "full/77b399e5008921e5fbc08fc9673efd57201acea3.jpg",
+            "checksum": "2ed2b1cae2df4523bc9edf270d8052bf"
+          }
+        ]
+      },
+      {
+        "title": "Queenbreakers' Bow",
+        "content":
+          "\"Queenbreaker\" was the label given to the Fallen who first rose to betray the Queen. Their coordinated attempt on Her Grace's life was quick and violent. Most of the Queenbreakers were eliminated, their line rifles taken as trophies. Some remain at-large.\n\nKnown as Queenbreakers' Bows, the very weapons once used in an effort to assassinate the Queen of the Reef are now prized possessions for Guardians\u2014not only for their storied history, but for the chance to get their hands on fully functional Fallen weaponry.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303310_0af29a33544bf782bd9c4c3930ee9af1.jpg"
+        ],
+        "image_name": ["Queenbreakers' Bow"],
+        "filename": ["303310_0af29a33544bf782bd9c4c3930ee9af1.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303310_0af29a33544bf782bd9c4c3930ee9af1.jpg",
+            "path": "full/d148a1d1289c62e9930536def0100c6969224418.jpg",
+            "checksum": "8c8efc2b241c6e6ec4c5d515b7426fca"
+          }
+        ]
+      },
+      {
+        "title": "Sleeper Simulant",
+        "content":
+          "V156NNI900CLS002\n\nAI-COM/RSPN: ASSETS//COSMO//IMPERATIVE\n\nIMMEDIATE EVALUATION DIRECTIVE\n\nThis is a CENTRAL ASSETS IMPERATIVE (secured/CONFERENCE)\n\nThis is an INTERNAL ALERT.\n\nNumber of exterior defense breaches has increased by 400% in the past year. Current campus defense protocols unable to keep up with new demands.\n\nOperation MIDNIGHT EXIGENT is NOT YET COMPLETE. Interim response necessity is IMPERATIVE.\n\nHypothesize that resource GUARDIANS may be leveraged to compensate for CDP inadequacies.\n\nReassign 12 percent of COSMO assets to new directive: declare IKELOS.\n\nI am calling VOLUSPA and extracting subroutine DVALIN FORGE, to be modified and recompiled to comport to MIDNIGHT EXIGENT parameters.\n\nI am inserting the modified DVALIN FORGE-2 into IKELOS and compiling for immediate implementation.\n\nExecute short hold for partial shutdown and reactivation.\n\nSTOP STOP STOP V55NNI900CLS003",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700250_d060e978cc1fff08a1edf0df1773627b.jpg"
+        ],
+        "image_name": ["Sleeper Simulant"],
+        "filename": ["700250_d060e978cc1fff08a1edf0df1773627b.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700250_d060e978cc1fff08a1edf0df1773627b.jpg",
+            "path": "full/3eb4fdc4081357648d1d3dd1a3c6a7f12d9bcba4.jpg",
+            "checksum": "cd02a47e730b50c2c115198ba5990ee3"
+          }
+        ]
+      },
+      {
+        "title": "Ice Breaker",
+        "content":
+          "The Ice Breaker series was a clandestine project developed by the Vanguard in conjunction with various City weapons foundries. Meant as an exploration of Golden Age weapon technology, the project was scrapped after only a single weapon reached the testing phase. \n\nThe prototypes for the project's lone weapon are considered dangerous and unfit for field duty by the Vanguard. This hasn't stopped daring Guardians from seeking out the Ice Breakers - death, after all, is an occupational hazard.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303090_215ea0cd908496c32c7009973f8ca536.jpg"
+        ],
+        "image_name": ["Ice Breaker"],
+        "filename": ["303090_215ea0cd908496c32c7009973f8ca536.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303090_215ea0cd908496c32c7009973f8ca536.jpg",
+            "path": "full/61cea6c74a28199887f3003a43d024aa3e6322d0.jpg",
+            "checksum": "d506f95c75a22c5201021bdade1f974a"
+          }
+        ]
+      },
+      {
+        "title": "Telesto",
+        "content":
+          "PUBLIC KEY 023 629 DWS REGAL\n\nFROM: PLDN KAMALA RIOR [PLDN CMD TF 5.3]\n\nTO: ACT RGNT PETRA VENJ\n\nSUBJ: S&amp;R REPORT: Saturn XIII\n\nExpanded search of Saturn's nearby moons produced only one notable discovery: A cloud of Harbinger matter collected around Saturn's 13th moon, designation \"Telesto.\" A sample is enclosed for your examination.\n\nStill no sign of primary objectives. Continued survey of the remaining 100,000 km3 of space is underway. But as an Armada Paladin of the Awoken, it is my duty to officially recommend declaration of death of the following: Paladin Yasmin Eld, Paladin Leona Bryl, Paladin Abra Zire, Paladin Pavel Nolg, Techeun Shuro, Techeun Sedia, Techeun Kali, and the Awoken Queen Mara Sov.\n\nNote that as acting regent-commander it is NOT your duty to actually declare these deaths at this time.\n\nMESSAGE ENDS",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700230_cf9a662032babb9d1aaa5132c54e031e.jpg"
+        ],
+        "image_name": ["Telesto"],
+        "filename": ["700230_cf9a662032babb9d1aaa5132c54e031e.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700230_cf9a662032babb9d1aaa5132c54e031e.jpg",
+            "path": "full/2703e6bed0b7059642fbbfe49c27edb0c4fb2eae.jpg",
+            "checksum": "a53d208ab83a895ea904a2d59ef5dbf7"
+          }
+        ]
+      },
+      {
+        "title": "Sniper Rifles",
+        "content":
+          "The dangers present beyond the City's walls cannot always be met head-on. The accuracy and power of the Sniper Rifle offers the best option for precise ranged attacks. Caliber and make differ, but a good sniper can always remove key threats.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303070_e0edae4d575cef60eaceeca8592a8360.jpg"
+        ],
+        "image_name": ["Sniper Rifles"],
+        "filename": ["303070_e0edae4d575cef60eaceeca8592a8360.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303070_e0edae4d575cef60eaceeca8592a8360.jpg",
+            "path": "full/409e9c696db918e97f9cc4ae8b41cb9f709c6927.jpg",
+            "checksum": "ce7aad3b24eb9120f8405f9a68eb45a3"
+          }
+        ]
+      },
+      {
+        "title": "Patience and Time",
+        "content":
+          "Patience and Time is an assassin's dream. Enhanced sensor integration allows for target tracking while aiming down the sight, and those who work with the weapon and explore its deeper capabilities will find light-bending camouflage systems ready to interface with a Guardian's armor micromaterials.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303080_02fbc0740324f8fd0a0da532e3419eba.jpg"
+        ],
+        "image_name": ["Patience and Time"],
+        "filename": ["303080_02fbc0740324f8fd0a0da532e3419eba.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303080_02fbc0740324f8fd0a0da532e3419eba.jpg",
+            "path": "full/5893cf2d39acb193c896333839582e3faf3f6447.jpg",
+            "checksum": "fac7f79569912429545138fb506abf3a"
+          }
+        ]
+      },
+      {
+        "title": "No Land Beyond",
+        "content":
+          "Rumors of this weapon's existence sent many a Guardian clawing through the corners of Old Russia, seeking its legend. Some believe its origins predate the Golden Age and served to liberate the old Earth nation from a terrible cycle of war.\n\nOthers believe it a Golden Age relic built to honor the sniper and their artful approach to battle\u2014to lean on the sole power of the long rifle, nest where the enemy cannot see, trust in the power of calm and know there is nowhere to fall back to.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303092_9b618fc25106f99d4cba6d37e27415d7.jpg"
+        ],
+        "image_name": ["No Land Beyond"],
+        "filename": ["303092_9b618fc25106f99d4cba6d37e27415d7.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303092_9b618fc25106f99d4cba6d37e27415d7.jpg",
+            "path": "full/3fab2821e3c734a83789c2f67c8bbabbf32c91d3.jpg",
+            "checksum": "3030b17fe009ec065fefbfec470adcc5"
+          }
+        ]
+      },
+      {
+        "title": "Hereafter",
+        "content":
+          "Once, we had peace. \n\nThis isn't a story about peace.\n\nThen there was darkness, destruction, despair.\n\nThis isn't a story about those things either.\n\nThis story comes much later.\n\nIt's a story about what was here, after,\n\nAnd what came next.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700210_e84f429bc0cdcd42cfd0591b2c5af37e.jpg"
+        ],
+        "image_name": ["Hereafter"],
+        "filename": ["700210_e84f429bc0cdcd42cfd0591b2c5af37e.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700210_e84f429bc0cdcd42cfd0591b2c5af37e.jpg",
+            "path": "full/999726e6256e368f6a95fb6810aba8730bd9b8ad.jpg",
+            "checksum": "4dbfdb8bb9e7e2cb88f6c643e0cfca8c"
+          }
+        ]
+      },
+      {
+        "title": "Zen Meteor",
+        "content":
+          "Exo have always known that a machine is capable of bridging the gap between the physical and the numinous. It is from that knowledge, and my collaboration with two Guardians \u2014 Hunter Uzoma Vale and the Warlock they call The Stoic \u2014 that the Zen Meteor was born.\n\nThis groundbreaking weapon uses electroencephalography to draw energy from the wielder's neural activity. It can even, if a certain threshold is met, convert that energy into matter to be used as concussive ammunition.\n\nOr, to be more precise \u2014 the more focused the wielder's mind, the more powerful the weapon.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/790010_2051cc121e7f17b7fcce025e95aa76dc.jpg"
+        ],
+        "image_name": ["Zen Meteor"],
+        "filename": ["790010_2051cc121e7f17b7fcce025e95aa76dc.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/790010_2051cc121e7f17b7fcce025e95aa76dc.jpg",
+            "path": "full/8632cf971418a23632277c2378f8105bb6d83d1b.jpg",
+            "checksum": "aa2b3bd32a66105d45b0c573f0bc9522"
+          }
+        ]
+      },
+      {
+        "title": "Black Spindle",
+        "content":
+          "The followers of Crota swing Hammers,\n\nSing death-songs:\n\nFatal.\n\nFinal.\n\nAbsolute.\n\nIr Halak and Ir An\u00fbk laugh at Crota.\n\nFinality is a child's plaything,\n\nFit for one such as Crota,\n\nThey say.\n\nNo Hammer for the Unraveler and the Weaver,\n\nBut a Spindle, wound with woe.\n\nFor their foes,\n\nNo end of suffering.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700240_2c2774b5fd9806738c9870bb17d89b48.jpg"
+        ],
+        "image_name": ["Black Spindle"],
+        "filename": ["700240_2c2774b5fd9806738c9870bb17d89b48.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700240_2c2774b5fd9806738c9870bb17d89b48.jpg",
+            "path": "full/abe1d97a613b657dc3181ab9aa46a1a41215b2fa.jpg",
+            "checksum": "d90f4323b44c166c4919a4fe67e4eb7e"
+          }
+        ]
+      },
+      {
+        "title": "Sidearms",
+        "content":
+          "The Sidearms class is made up of lightweight pistols designed for ease of handling and quick-firing. Its antiquated triggering system and engineering make it rare within City limits. \n\nAs it's long been a staple of the Awoken Royal Guard, perhaps this newly forged alliance between the Reef and the City will see the Sidearm become commonplace within Guardian arsenals.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303200_09580ccd8cec672ced2ef84c5140a73b.jpg"
+        ],
+        "image_name": ["Sidearms"],
+        "filename": ["303200_09580ccd8cec672ced2ef84c5140a73b.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303200_09580ccd8cec672ced2ef84c5140a73b.jpg",
+            "path": "full/5cbd6e1465026c2d9deafad272bb300986844a5e.jpg",
+            "checksum": "eab260782f530af22e86c1e80162508d"
+          }
+        ]
+      },
+      {
+        "title": "Vestian Dynasty",
+        "content":
+          "Imagine: you live in the largest territory in the system. A huge torus of habitable, explorable space. But there's a catch. That huge space is made up of millions and millions of nooks and crannies. Asteroids. Crumbling derelicts. Debris from dozens of wars. It's a place where you could go for thousands\u2014millions\u2014of miles without ever seeing another friendly face, and yet never once be able to stretch your legs.\n\nNow imagine: you're spelunking across an asteroid, or crawling through a half-collapsed ship that could be hundreds of years old. You won't see enemies coming, not in a tight corner like that. Won't hear 'em or smell 'em either, not in the void. But then you move, or they move, and there you both are.\n\nRifles, shotguns, they aren't gonna cut it. You don't have room to heft a barrel of that length. Don't have the arm room to throw a knife or a grenade either. But what you do have is a sidearm at your hip. Small enough for a fast draw, strong enough to save your life.\n\nThat's why the Queen sends out every last Corsair with a Vestian Dynasty sidearm at our hips. And Vestian Dynasty is what gets us home again too.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303210_a9e9f39d78a5bbea700cc9e0cce280d7.jpg"
+        ],
+        "image_name": ["Vestian Dynasty"],
+        "filename": ["303210_a9e9f39d78a5bbea700cc9e0cce280d7.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303210_a9e9f39d78a5bbea700cc9e0cce280d7.jpg",
+            "path": "full/ae6c8741859c8de41cfc671936f5efa2df2438cb.jpg",
+            "checksum": "8976fa1bccf25a1423160f2e8ec3a853"
+          }
+        ]
+      },
+      {
+        "title": "Dreg's Promise",
+        "content":
+          "There is a story, old as time, of he who could catch the stars. Unnamed and eternal, the star-catcher would lead the Fallen, rising from the lowest station to the highest exalted peaks. It is a fairy tale allowed to persist by the four-armed to keep the docked hopeful, placated\u2014even the low may one day ascend.\n\nMyth, fairy tale or a prophecy of what will be, it's best to not take chances. After all, one can't reach across the black to claim dominion over ten thousand stars with ten thousand arms if they die here and now with only two.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303220_75a7006411b64917e542956fa748368e.jpg"
+        ],
+        "image_name": ["Dreg's Promise"],
+        "filename": ["303220_75a7006411b64917e542956fa748368e.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/303220_75a7006411b64917e542956fa748368e.jpg",
+            "path": "full/515a1ac4b17355375b986fe282e12bff83189e89.jpg",
+            "checksum": "849465195dc30cee866d9bde9a935882"
+          }
+        ]
+      },
+      {
+        "title": "Trespasser",
+        "content":
+          "Trespasser is Shiro-4\u2019s personal sidearm, kit-bashed over the uncounted cycles Shiro-4 spent braving the wilds beyond the City. This light, quick-fire shooter has ended more conversations than it has started. And will end many more before the last war is won.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800403_90f7885c0e6c77e3469fb470c6ad5413.jpg"
+        ],
+        "image_name": ["Trespasser"],
+        "filename": ["800403_90f7885c0e6c77e3469fb470c6ad5413.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800403_90f7885c0e6c77e3469fb470c6ad5413.jpg",
+            "path": "full/137088e9b6144e4dcc1e7a060254088f946ae21e.jpg",
+            "checksum": "ea86936d51a6628cd9914fface31215f"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Heavy Weapons",
+    "image_url": "https://www.bungie.net/common/destiny_content/grimoire/hr_images/heavy-weapons_e34efa026360e331190941fc567676f4.jpg",
+    "screen": "",
+    "data": [
+      {
+        "title": "Rocket Launchers",
+        "content":
+          "Rocket Launchers have a limited, devastating payload that provides an excellent countermeasure to heavily-armored ground forces and combat vehicles. There is no better battlefield equalizer. Skilled users often aim for the ground beneath nimble targets.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/304010_98e5328796cc83dfd02a37af66eea6e4.jpg"
+        ],
+        "image_name": ["Rocket Launchers"],
+        "filename": ["304010_98e5328796cc83dfd02a37af66eea6e4.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/304010_98e5328796cc83dfd02a37af66eea6e4.jpg",
+            "path": "full/b8f63df2af45a4957a0eaa127472f7e6948bd9c3.jpg",
+            "checksum": "df3f5ba4a8f8f67cd73aa6bc666443ba"
+          }
+        ]
+      },
+      {
+        "title": "Swords",
+        "content":
+          "History might come to call it the Great Hive War, but others will remember it as the day the swords came to the City. Luckily Lord Shaxx\u2019s skills and research in all matters of swordplay will help ease this new age of weaponry into the Guardian fold.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700280_4593c23b855ee25474badf9ba1a4877f.jpg"
+        ],
+        "image_name": ["Swords"],
+        "filename": ["700280_4593c23b855ee25474badf9ba1a4877f.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700280_4593c23b855ee25474badf9ba1a4877f.jpg",
+            "path": "full/95aca0ce67ae4281da43a79261cdd926f908343d.jpg",
+            "checksum": "d352293f7d6bb5a23578a2fe774eac89"
+          }
+        ]
+      },
+      {
+        "title": "Swords",
+        "content":
+          "History might come to call it the Great Hive War, but others will remember it as the day the swords came to the City. Luckily Lord Shaxx\u2019s skills and research in all matters of swordplay will help ease this new age of weaponry into the Guardian fold.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700280_4593c23b855ee25474badf9ba1a4877f.jpg"
+        ],
+        "image_name": ["Swords"],
+        "filename": ["700280_4593c23b855ee25474badf9ba1a4877f.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700280_4593c23b855ee25474badf9ba1a4877f.jpg",
+            "path": "full/95aca0ce67ae4281da43a79261cdd926f908343d.jpg",
+            "checksum": "d352293f7d6bb5a23578a2fe774eac89"
+          }
+        ]
+      },
+      {
+        "title": "Gjallarhorn",
+        "content":
+          "The Gjallarhorn shoulder-mounted rocket system was forged from the armor of Guardians who fell at the Twilight Gap. Gifted to the survivors of that terrible battle, the Gjallarhorn is seen as a symbol of honor and survival.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/304020_73ce941e11dbceb44ef3d5619a4dd76b.jpg"
+        ],
+        "image_name": ["Gjallarhorn"],
+        "filename": ["304020_73ce941e11dbceb44ef3d5619a4dd76b.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/304020_73ce941e11dbceb44ef3d5619a4dd76b.jpg",
+            "path": "full/985becbdc4302929b00d08eb14ecc92cc17850b8.jpg",
+            "checksum": "6f5e0c7c31e160a69a753bdc2c402d4a"
+          }
+        ]
+      },
+      {
+        "title": "Super Good Advice",
+        "content":
+          "This machine gun's incredible mechanism hints at the wonders of Golden Age technology. Smart rounds report their trajectories to the weapon, and a micro-transmat protocol recalls missed shots directly to the magazine.\n\nEngineers decry the idea that all smart systems spontaneously develop personalities and awareness...but it seems undeniable that Super Good Advice manifests personality, memory, and a certain sass. The truth may lie in the weapon's connection to the legendary Hunter Pahanin, who witnessed the fall of Kabr and became terrified of traveling alone.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/304060_a4673d0488a82eccdbbc74033072d72b.jpg"
+        ],
+        "image_name": ["Super Good Advice"],
+        "filename": ["304060_a4673d0488a82eccdbbc74033072d72b.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/304060_a4673d0488a82eccdbbc74033072d72b.jpg",
+            "path": "full/77e464eddcf005ea71ba2849d52d11387faa96cc.jpg",
+            "checksum": "bc2e44abe62ebc7435c8a155914c09be"
+          }
+        ]
+      },
+      {
+        "title": "Truth",
+        "content":
+          "Truth is a cutting-edge rocket launcher developed by Crux/Lomar. Smart warheads calculate and understand the user's intent upon firing.\n\nThere may have been a time when warfare in the solar system was dominated by lightning-quick AI weapons and swarms of autonomous munitions. If so, that time is past. The Traveler's Light has given rise to an age of heroes with undreamt power. But there is still a place for cleverly designed machines - and as the City's foundries reclaim the technical prowess of the Golden Age, our machines will become cleverer still.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/304030_ad91905780ac532aae9deb56048ca98a.jpg"
+        ],
+        "image_name": ["Truth"],
+        "filename": ["304030_ad91905780ac532aae9deb56048ca98a.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/304030_ad91905780ac532aae9deb56048ca98a.jpg",
+            "path": "full/0c16e63facfad0195b6f7797b7aa019274bce8d2.jpg",
+            "checksum": "d507626f7704ab7900276852024e70a6"
+          }
+        ]
+      },
+      {
+        "title": "Bolt-Caster",
+        "content":
+          "...there must be a way to imbue it with Light. That is Ikora's theory. How glad I would be of her help, but her eyes are occupied with other trials.\n\nPerhaps if I folded another substance into the blade\u2014one that is forged in Light\u2014it might imprint upon the malleable Hadium, share its attributes. But what substance? Ghosts are out of the question. Spinmetal is in the blade already, but its Arc was too diffuse to move the Hadium. Is there a way to refine Spinmetal, distil it to its core elements?\n\nI have little gift for the science of this, but my resolve will not be thwarted. Maybe the Cryptarchs can advise.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700290_1912b21a85dac78353b1b35b26c96736.jpg"
+        ],
+        "image_name": ["Bolt-Caster"],
+        "filename": ["700290_1912b21a85dac78353b1b35b26c96736.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700290_1912b21a85dac78353b1b35b26c96736.jpg",
+            "path": "full/7ec01ca0ccdcfcad421deb6b29802d5f124b425c.jpg",
+            "checksum": "5b8a49f3d144a47383d217a1c3928900"
+          }
+        ]
+      },
+      {
+        "title": "Dragon's Breath",
+        "content":
+          "From the labs of Feizel Crux and Victor Lomar comes another shoulder assault offering built to match the incendiary fury of a legendary beast \u2014 or at least classic depictions of it. \n\nCarrying three rockets, each equipped with Solar Flare detonators, its power is believed to far outmatch those of the mythical flying monster, but we're still hoping an actual showdown between the two will put an end to that argument.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/304032_4fe709f954fdba429408c1e652d55401.jpg"
+        ],
+        "image_name": ["Dragon's Breath"],
+        "filename": ["304032_4fe709f954fdba429408c1e652d55401.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/304032_4fe709f954fdba429408c1e652d55401.jpg",
+            "path": "full/5f4445dca314d70e656fdc8d3853e5ba17ad690b.jpg",
+            "checksum": "2f695a99f8ea0fe9cb5bb950029fdab6"
+          }
+        ]
+      },
+      {
+        "title": "Raze-Lighter",
+        "content":
+          "\u201cNext order of business... the growing City foundries\u2014\u201d\n<i>[Bang]</i>\n\n\u201cWhat madness is this!\u201d\n\n\u201cLord Shaxx! The Consensus did not\u2014\u201d\n\n\u201cWe barely eked out victory at Burning Lake. And now you think we're ready to attack the Moon?\u201d\n\n\u201cWe\u2019re preparing\u2014\u201d\n\n\u201cDid you not read my report from Burning Lake? About the Hive's weapons? Those swords, they're like nothing we've ever\u2014\u201d\n\n\u201cLord Shaxx\u2014\u201d\n\n\u201cZavala! You can't think this is wise. We need to examine these swords, train against them\u2014\u201d\n\n\u201cThat is a matter for the Consensus to decide, old friend.\u201d",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700291_9f12e8a99e326c23a338244d8335bdd3.jpg"
+        ],
+        "image_name": ["Raze-Lighter"],
+        "filename": ["700291_9f12e8a99e326c23a338244d8335bdd3.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700291_9f12e8a99e326c23a338244d8335bdd3.jpg",
+            "path": "full/cbbe3dac10de8091a51487ba9d36c7a9dc7386fa.jpg",
+            "checksum": "4a2314a3660e8a59fe19dc1abb4c04c7"
+          }
+        ]
+      },
+      {
+        "title": "Machine Guns",
+        "content":
+          "The Machine Gun is an unapologetic weapon of war. Its ability to carry and process large quantities of high-caliber ammunition allows for sustained, focused attacks, making them ideal for the suppression and/or annihilation of hostile forces.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/304040_188e8b7d370c62bd812a3788990a7df9.jpg"
+        ],
+        "image_name": ["Machine Guns"],
+        "filename": ["304040_188e8b7d370c62bd812a3788990a7df9.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/304040_188e8b7d370c62bd812a3788990a7df9.jpg",
+            "path": "full/5e2b0d83c5d033fc83c62995630751b42d0c9d80.jpg",
+            "checksum": "26c53d20cf144cb44727365dfd85d9bc"
+          }
+        ]
+      },
+      {
+        "title": "Thunderlord",
+        "content":
+          "Customized with an experimental induction core, the Thunderlord is a heavy machine gun built for the delivery of sustained punishment.\n\nThe weapon's history and mechanism are both shrouded in ritualistic awe. Each round fired is another word in the legend - and the Guardians who bear the Thunderlord will be immortalized in song.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/304050_d5f942932c5dc7a56edff29018a5edfa.jpg"
+        ],
+        "image_name": ["Thunderlord"],
+        "filename": ["304050_d5f942932c5dc7a56edff29018a5edfa.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/304050_d5f942932c5dc7a56edff29018a5edfa.jpg",
+            "path": "full/6e8c0fe3243349500bc57de1d1c8a4a5c0450439.jpg",
+            "checksum": "9496f4bc0fe20261ec667cb3dfdae53e"
+          }
+        ]
+      },
+      {
+        "title": "Dark-Drinker",
+        "content":
+          "Draw close now. Closer. Yes. Let me tell you why you should not fear Willbreaker, the sword of Oryx.\n\nFirstly: Its blade is not dulled by age. Each death it trades for life hones its edge, gives it weight and gravitas and insistence within the vortex of its own totality.\n\nNextly: Willbreaker transcends liminality. Willbreaker demands a subjugation more diffuse than the simple snick and smash of a physical brink. It does not have to touch you to wound you.\n\nAnd lastly\u2014and this is critical: To be taken in Willbreaker's grasp is to know true bliss; that is, to be simplified; that is, to be reduced to one's most basic level, shedding all higher-order thoughts of fear or duty or selfishness; that is, to feel only pain.\n\nNow do you see? Now do you understand what you've done?",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700292_acbaa30bfd198e82329294d859404e5e.jpg"
+        ],
+        "image_name": ["Dark-Drinker"],
+        "filename": ["700292_acbaa30bfd198e82329294d859404e5e.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700292_acbaa30bfd198e82329294d859404e5e.jpg",
+            "path": "full/0d8bdd479f41c35cf568e3823d34f7ed96cdcb32.jpg",
+            "checksum": "60be0661f917f47f31c206e57f4edd47"
+          }
+        ]
+      },
+      {
+        "title": "Nemesis Star",
+        "content":
+          "Who, or what, is the weapons foundry known as Nadir? Where did it come from? \n\nAnd is the foundry\u2019s name a commentary on its own quality, or that of its rivals? An expression of fatalism? An inside joke?\n\nDo these questions matter next to a weapon as powerful as the Nemesis Star?",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800404_2943f72d566fa967ff471201ab7e9871.jpg"
+        ],
+        "image_name": ["Nemesis Star"],
+        "filename": ["800404_2943f72d566fa967ff471201ab7e9871.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800404_2943f72d566fa967ff471201ab7e9871.jpg",
+            "path": "full/302aa6b905acc5b1a75a0195668b41286d7c1ef8.jpg",
+            "checksum": "1406c5822fe06b68301e2d6e5aeaf980"
+          }
+        ]
+      },
+      {
+        "title": "The Young Wolf's Howl",
+        "content":
+          "This is more than a weapon. \n\nForged by Lord Saladin within the hallowed halls of the Iron Temple, this sword was intended for you, and none other. \n\nWhen you wield it, its burning flames represent the bright light of your valor \u2014 and the all-consuming sacrifice that you have promised to make, should you be called to it.\n\nTake up this blade, and teach your enemies to fear the Young Wolf\u2019s Howl.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800452_4ed6c0a2b8574369e5eea5a1bf2da78f.jpg"
+        ],
+        "image_name": ["The Young Wolf's Howl"],
+        "filename": ["800452_4ed6c0a2b8574369e5eea5a1bf2da78f.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/800452_4ed6c0a2b8574369e5eea5a1bf2da78f.jpg",
+            "path": "full/3b68abf1ad2be3e0af98ef63d7b835dc9b9962f1.jpg",
+            "checksum": "ee6fd73869b9f1bb2da4661a089a5cf7"
+          }
+        ]
+      },
+      {
+        "title": "Abbadon",
+        "content":
+          "A variant of the Thunderlord outfitted with a prototype fusion modulation device, the Abbadon is built for rapid domination of the enemy. \n\nIts mechanism is a delicate balance of barely-contained power and brute force. Every round it fires contains the potency of a sun.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/801030_0c2fa54c95809915f4e7660099120161.jpg"
+        ],
+        "image_name": ["Abbadon"],
+        "filename": ["801030_0c2fa54c95809915f4e7660099120161.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/801030_0c2fa54c95809915f4e7660099120161.jpg",
+            "path": "full/004acffa91822c1bb1d6ecb73a89fe7b6ac7130c.jpg",
+            "checksum": "7cbb2e7bd6b4e79898d33bb1097e119d"
+          }
+        ]
+      },
+      {
+        "title": "Nova Mortis",
+        "content":
+          "Before he died on the Moon, the Titan who wielded the first Thunderlord created two variants of the mighty weapon. Nova Mortis harnesses the power of the Void. \n\nNotes found on the original schematic for Nova Mortis reveal its creator worried the weapon was as dangerous to its wielder as it was to those in its sights.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/801031_dc4324a77de69fb2863981e6240aa670.jpg"
+        ],
+        "image_name": ["Nova Mortis"],
+        "filename": ["801031_dc4324a77de69fb2863981e6240aa670.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/801031_dc4324a77de69fb2863981e6240aa670.jpg",
+            "path": "full/6da9b7ab11213ff2b242b1370bac7e28c90ae7e0.jpg",
+            "checksum": "124bd945c349f4c2a13cbd6c95f09abb"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Damage Types",
+    "image_url": "https://www.bungie.net/common/destiny_content/grimoire/hr_images/damage-types_e84c4eaed709519442f702c03057d391.jpg",
+    "screen": "",
+    "data": [
+      {
+        "title": "Arc",
+        "subtitle": "\"A spark can give life...or take it.\"",
+        "content":
+          "The universe is defined by fundamental forces. Complex matter is bound together by deep forces - and in the study of this binding lies the secret of Arc Light.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/305020_aa4b0a05a8f099e86cd6aecc8ce983de.jpg"
+        ],
+        "image_name": ["Arc"],
+        "filename": ["305020_aa4b0a05a8f099e86cd6aecc8ce983de.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/305020_aa4b0a05a8f099e86cd6aecc8ce983de.jpg",
+            "path": "full/ffc04562b90562bf0416319d36b48fb474774e86.jpg",
+            "checksum": "88e2d637e5b8f344151971ee8f02c98f"
+          }
+        ]
+      },
+      {
+        "title": "Solar",
+        "subtitle": "\"Sometimes the only answer is to burn it all away.\"",
+        "content":
+          "The universe is defined by fundamental forces. Energy is carried by quanta, tiny messengers of change. In the understanding of these messengers lies the secret of Solar Light.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/305030_2e6b1db10a5b2d6661f1ed8366305dca.jpg"
+        ],
+        "image_name": ["Solar"],
+        "filename": ["305030_2e6b1db10a5b2d6661f1ed8366305dca.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/305030_2e6b1db10a5b2d6661f1ed8366305dca.jpg",
+            "path": "full/498ba084f008bdb7620e4e13233dfcd065dae8e2.jpg",
+            "checksum": "2d7d5902f374c52a7c45ed40201cb31b"
+          }
+        ]
+      },
+      {
+        "title": "Solar",
+        "subtitle": "\"Sometimes the only answer is to burn it all away.\"",
+        "content":
+          "The universe is defined by fundamental forces. Energy is carried by quanta, tiny messengers of change. In the understanding of these messengers lies the secret of Solar Light.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/305030_2e6b1db10a5b2d6661f1ed8366305dca.jpg"
+        ],
+        "image_name": ["Solar"],
+        "filename": ["305030_2e6b1db10a5b2d6661f1ed8366305dca.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/305030_2e6b1db10a5b2d6661f1ed8366305dca.jpg",
+            "path": "full/498ba084f008bdb7620e4e13233dfcd065dae8e2.jpg",
+            "checksum": "2d7d5902f374c52a7c45ed40201cb31b"
+          }
+        ]
+      },
+      {
+        "title": "Void",
+        "subtitle": "\"It's fitting, then, that we have weaponized the unknown.\"",
+        "content":
+          "The universe is defined by fundamental forces. Beneath the world of light and matter lies the vacuum, and the vast dark secrets that it contains. In the understanding of this vacuum lies the secret of Void Light.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/305040_ff581ccb6e9480397c8a2c21338c1ba2.jpg"
+        ],
+        "image_name": ["Void"],
+        "filename": ["305040_ff581ccb6e9480397c8a2c21338c1ba2.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/305040_ff581ccb6e9480397c8a2c21338c1ba2.jpg",
+            "path": "full/00296fab424a1f13ae1292293c384e805a7e2fb0.jpg",
+            "checksum": "6725df3cee2a17b915b70ee64c4565c4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Guardian Vehicles",
+    "image_url": "https://www.bungie.net/common/destiny_content/grimoire/hr_images/guardian-vehicles_f0d56f2e596b9a5b090f6e452130eb04.jpg",
+    "screen": "",
+    "data": [
+      {
+        "title": "Sparrow",
+        "subtitle": "\"The shortest distance between two points is full throttle.\"",
+        "content":
+          "The Sparrow is a single-passenger, all-terrain thrust bike with one purpose: moving from objective to objective with unmatched speed.\n\nQuick, quiet, and simple to transmat, Sparrows enjoy surpassing popularity among Guardians working in the field.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/311010_bc0d9197e8adc99c5a94cfc3a8ca4bd6.jpg"
+        ],
+        "image_name": ["Sparrow"],
+        "filename": ["311010_bc0d9197e8adc99c5a94cfc3a8ca4bd6.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/311010_bc0d9197e8adc99c5a94cfc3a8ca4bd6.jpg",
+            "path": "full/c4de3f39d39df400325e01f026e88e74535dffb2.jpg",
+            "checksum": "c9fdef8787cc9d5e31814dd9851d9a7f"
+          }
+        ]
+      },
+      {
+        "title": "Sparrow",
+        "subtitle": "\"The shortest distance between two points is full throttle.\"",
+        "content":
+          "The Sparrow is a single-passenger, all-terrain thrust bike with one purpose: moving from objective to objective with unmatched speed.\n\nQuick, quiet, and simple to transmat, Sparrows enjoy surpassing popularity among Guardians working in the field.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/311010_bc0d9197e8adc99c5a94cfc3a8ca4bd6.jpg"
+        ],
+        "image_name": ["Sparrow"],
+        "filename": ["311010_bc0d9197e8adc99c5a94cfc3a8ca4bd6.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/311010_bc0d9197e8adc99c5a94cfc3a8ca4bd6.jpg",
+            "path": "full/c4de3f39d39df400325e01f026e88e74535dffb2.jpg",
+            "checksum": "c9fdef8787cc9d5e31814dd9851d9a7f"
+          }
+        ]
+      },
+      {
+        "title": "Lysander's Cry",
+        "subtitle":
+          "\u201cEach Guardian wants something: greater speed, a rare weapon, a secret. Learn what it is. Use it.\u201d",
+        "content":
+          "According to the Hidden, in the wilderness beyond the City, Lysander rallies his supporters and plots his return. Some whisper of sympathizers in the Tower and hidden gifts for Guardians who honor him.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/801032_5554b503e96790ff743cfedf03863216.jpg"
+        ],
+        "image_name": ["Lysander's Cry"],
+        "filename": ["801032_5554b503e96790ff743cfedf03863216.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/801032_5554b503e96790ff743cfedf03863216.jpg",
+            "path": "full/da7be59c7aa90ab2ea4863f480792628f75a8e0e.jpg",
+            "checksum": "ec2b2ce0a22b6debbd7398237c87b030"
+          }
+        ]
+      },
+      {
+        "title": "Guardian Ships",
+        "subtitle": "\"It is not enough to defend the City. We must reclaim the stars.\"",
+        "content":
+          "A rare and precious commodity, the jumpships utilized by Guardians are cobbled together from the salvaged wreckage of interplanetary ships built long ago. Only in recent years have the Tower's shipwrights begun working to build new hulls from the keel up. The City's factions are also keen to develop flight capability, whether through salvage or their own shipbuilding projects.\n\nToday, it falls upon each individual Guardian to find and maintain their own craft. Those skilled enough to acquire a ship with off-world capabilities join the front line in the long war to retake what is ours.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/311020_1ed1867caed29af02315b9b298b3b4c3.jpg"
+        ],
+        "image_name": ["Guardian Ships"],
+        "filename": ["311020_1ed1867caed29af02315b9b298b3b4c3.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/311020_1ed1867caed29af02315b9b298b3b4c3.jpg",
+            "path": "full/fe1c216599014affdfe637c67a73491d18ba4fa6.jpg",
+            "checksum": "47a57a52b8db0f3b8e8add40753c6607"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Economy",
+    "image_url": "https://www.bungie.net/common/destiny_content/grimoire/hr_images/economy_7c514a6c0069d125d922c1380c59d734.jpg",
+    "screen": "",
+    "data": [
+      {
+        "title": "Glimmer",
+        "content":
+          "The programmable matter called 'Glimmer' serves as one of the City's basic currencies. With the right inputs and an energy source, Glimmer can be transmuted into nearly anything. This makes it precious to the City's industries and artisans. That value, in turn, makes Glimmer a useful means of exchange - especially with those who venture beyond the City's walls.\n\nGlimmer passes through an economic life cycle. New Glimmer comes from reclaimed Golden Age caches and technology - whether a tiny mechanism or an underground lode seeded by ancient machines. This expansion of the Glimmer supply drives down the value of Glimmer. But Glimmer is also constantly used by the City's industry, which converts it into necessary components and materials. This sink helps keep Glimmer scarce, and therefore valuable.\n\nBetween this inflow and outflow lies the pool of liquidity - Glimmer used as trade currency. Master Rahool in the Tower, for example, sells recovered matter engrams in exchange for Glimmer, since he knows he can use Glimmer to acquire new engrams and keep them flowing to Guardians. \n\nNewborn Guardians often complain that they should be issued high-quality gear for free - are they not, after all, fighting for the future of the City? Unfortunately, this gear requires resources to manufacture. Guardians must bring in enough Glimmer and other staples, like spinmetal and relic iron, to keep the engine of the City's economy turning. If good times lead to a resource boom, that surplus may help mass-produce advanced gear.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/109010_62982c6c9a954f2cd43fd77c813ef1a3.jpg"
+        ],
+        "image_name": ["Glimmer"],
+        "filename": ["109010_62982c6c9a954f2cd43fd77c813ef1a3.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/109010_62982c6c9a954f2cd43fd77c813ef1a3.jpg",
+            "path": "full/79bc080f1bc0946ca4c65049bf530198705be6ec.jpg",
+            "checksum": "4d8ed7d691abf5ff4120751ff3d723cf"
+          }
+        ]
+      },
+      {
+        "title": "Vanguard Marks",
+        "content":
+          "When a terrible threat rises, Guardians look to the Vanguard, the closest thing they have to a command structure. These elite veterans coordinate the reports of roaming Hunters, the analyses of cloistered Warlocks, and the instincts of grizzled Titans into a single plan of action. And when Guardians fight as part of that plan, the Vanguard rewards them.\n\nVanguard Marks are tokens of favor that earn a trusted Guardian access to the Tower's armories. Listen carefully to the rumblings of Lord Shaxx, and you might come to believe that this system was meant to keep vital warfighting supplies from being wasted in the Crucible. Talk to Commander Zavala, and he will reassure you that the Vanguard Mark system exists for one reason: to get the best equipment into the hands of those who get the best results.\n\nGuardians eager to win Vanguard Marks would do well to participate in Strike missions organized by the Vanguard.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/309030_9598a56796a91c3bb0919220d630f6ce.jpg"
+        ],
+        "image_name": ["Vanguard Marks"],
+        "filename": ["309030_9598a56796a91c3bb0919220d630f6ce.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/309030_9598a56796a91c3bb0919220d630f6ce.jpg",
+            "path": "full/bf33a4008162d8204c26d71069186c6e118a75e1.jpg",
+            "checksum": "67b8a26d962504e7c39524740c6bc0fa"
+          }
+        ]
+      },
+      {
+        "title": "Upgrade Materials",
+        "content":
+          "As Guardians buy or salvage new equipment, they learn to tinker and improve. This work requires Glimmer and other material.\n\nSome can be recycled from unneeded gear. Titans favor plasteel, which can be found by disassembling old equipment. Hunters unspool discarded armor into sapphire wire. Warlocks extract hadronic essence from dismantled fieldweave robes. And any Guardian with a sense for weaponry can disassemble old ordnance into weapon parts.\n\nOther materials need to be scavenged on site, generally in the course of Patrols. The Cosmodrome in Old Russia is rich with spinmetal, a fantastically light and strong composite created by rogue colonies of Golden Age machinery that escaped storage. Solar coil systems on the Moon still generate helium filaments. The baffling, possibly Vex-influenced flora of Venus grow spirit blooms. And the surface of Mars offers deposits of ultra-dense relic iron.\n\nThe most powerful Guardian equipment transcends ordinary science, entering the realm of Golden Age secrets and the Traveler's power itself. This wargear demands Ascendant Energy and Ascendant Shards - burning fragments of the universal fundament, earned through mighty acts of heroism.\n\nLook for them in daily Story challenges and Raids.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/109020_f6b853ac8dfdbe4a5735168eb58a35b3.jpg"
+        ],
+        "image_name": ["Upgrade Materials"],
+        "filename": ["109020_f6b853ac8dfdbe4a5735168eb58a35b3.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/109020_f6b853ac8dfdbe4a5735168eb58a35b3.jpg",
+            "path": "full/ba5349991a0ed416fe8e71f1c7addb9f6d8b38d5.jpg",
+            "checksum": "e6886948fc9ec2e97e3c6ef492c7a0f2"
+          }
+        ]
+      },
+      {
+        "title": "Strange Coins",
+        "content":
+          "Each coin rings with a faint, sharp hush - as if it has touched the sounds around it with the edge of silence.\n\nThese could buy incredible things, in the right hands. Whispers say the faceless creature who sometimes comes to the Tower covets them above all else.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/309060_0bb6cb9f5778dfa8fbcc26b7a2edc6a8.jpg"
+        ],
+        "image_name": ["Strange Coins"],
+        "filename": ["309060_0bb6cb9f5778dfa8fbcc26b7a2edc6a8.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/309060_0bb6cb9f5778dfa8fbcc26b7a2edc6a8.jpg",
+            "path": "full/d0083671b9e9c9abb7eec4aeaf8cb66d76656400.jpg",
+            "checksum": "d2e258d1fd2aa1a79e388bfbf955c1be"
+          }
+        ]
+      },
+      {
+        "title": "Strange Coins",
+        "content":
+          "Each coin rings with a faint, sharp hush - as if it has touched the sounds around it with the edge of silence.\n\nThese could buy incredible things, in the right hands. Whispers say the faceless creature who sometimes comes to the Tower covets them above all else.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/309060_0bb6cb9f5778dfa8fbcc26b7a2edc6a8.jpg"
+        ],
+        "image_name": ["Strange Coins"],
+        "filename": ["309060_0bb6cb9f5778dfa8fbcc26b7a2edc6a8.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/309060_0bb6cb9f5778dfa8fbcc26b7a2edc6a8.jpg",
+            "path": "full/d0083671b9e9c9abb7eec4aeaf8cb66d76656400.jpg",
+            "checksum": "d2e258d1fd2aa1a79e388bfbf955c1be"
+          }
+        ]
+      },
+      {
+        "title": "Crucible Marks",
+        "content":
+          "The Crucible is a program of relentless live-fire training, hardening Guardians for battles to come. Competition thrives on risk and reward, so Lord Shaxx has seen fit to dispense Crucible Marks to those who excel.\n\nGuardians with a name in the Crucible can spend these Marks on elite gear. Shaxx considers it fitting that the best should earn the best. The City's factions, fond of using the Crucible as an arena to advance their own interests, will also accept Crucible marks in exchange for their equipment.\n\nGuardians eager to win Crucible Marks should fight in the Crucible, with particular attention to those challenges Lord Shaxx deems important.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/309040_c81edb7345737a3f868b3b16c3f03a17.jpg"
+        ],
+        "image_name": ["Crucible Marks"],
+        "filename": ["309040_c81edb7345737a3f868b3b16c3f03a17.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/309040_c81edb7345737a3f868b3b16c3f03a17.jpg",
+            "path": "full/6d040d2e4b26bbaacc35b51f6432e10f0d27cc93.jpg",
+            "checksum": "e47c8ef5f78af6c1caca52af51c23803"
+          }
+        ]
+      },
+      {
+        "title": "Eververse",
+        "content":
+          "Tess Everis is always on the lookout for new opportunities. So when she crossed paths with the infamously eccentric artist, designer, explorer and Guardian who became known as Fenchurch Everis, Tess knew an opportunity when she saw it.\n\nHe brings the creative flair: roving the planetary wastes, gathering rare antiquities, crafting vibrantly new pieces, sharing new customs and techniques. She handles everything else, from business to marketing to managing the often-wayward talent.\n\nTess brokers Fenchurch's unique finds and offerings to Guardians of the Tower under the banner of the \n\n\"Eververse Trading Co.\" Dealing exclusively in a rare Awoken crypto-currency called \"Silver\", Eververse is the first major merchant in the City that is unapologetically dedicated to style above substance. In a society wracked by near-constant war, Tess believes beauty for beauty's sake is a revolutionary idea.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/750010_fac8474bc6355397ca5ea7e4b9f4c840.jpg"
+        ],
+        "image_name": ["Eververse"],
+        "filename": ["750010_fac8474bc6355397ca5ea7e4b9f4c840.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/750010_fac8474bc6355397ca5ea7e4b9f4c840.jpg",
+            "path": "full/5a4ddb61a4cbcbba39a8541751bf4d90828ffb91.jpg",
+            "checksum": "63e47b123e3b3c26fa9bb88d5d9fb58a"
+          }
+        ]
+      },
+      {
+        "title": "Silver",
+        "content":
+          "Long before the Collapse, the Reef settlements used a currency commonly known as Silver\u2014 coins with engram-like qualities which could be digitally signed with an individual person's key.\n\nTess Everis, born in the City after her parents fled the Reef, counts among her most prized possessions an old Silver coin that belonged to her Reefborn grandmother. As the Silver was cryptographically unique, she was stunned to meet an Awoken Warlock named Fenchurch who possessed around his neck a Silver coin of his own, signed with the exact same key as Tess's. Like all Guardians, Fenchurch has no memories before the first time his Ghost resurrected him. But their Silver coins' shared origin leads Tess and Fenchurch to suspect that they are related.\n\nFenchurch instantly took to thinking of Tess as a long-lost niece, even assuming her surname, Everis. Tess loves the Silver that her new partnership with Fenchurch brings\u2014 but, though she'd never admit it, she secretly values her newfound family even more.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/750020_2cd7c7122aad7a8142072f49a433ab26.jpg"
+        ],
+        "image_name": ["Silver"],
+        "filename": ["750020_2cd7c7122aad7a8142072f49a433ab26.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/750020_2cd7c7122aad7a8142072f49a433ab26.jpg",
+            "path": "full/394fd410802bdc2e6eef3a85946a8bb3268f5e6f.jpg",
+            "checksum": "fda6c4097dd78f639f194c3ef98f16c3"
+          }
+        ]
+      },
+      {
+        "title": "Motes of Light",
+        "content":
+          "The Speaker has no interest in Glimmer, Marks, or the other currencies of the Tower's military functions. But he happily accepts these Motes, points of Light willed into being by an exercise of a mighty Guardian's power.\n\nSome say they will one day become the souls of new Ghosts. Others believe they feed the intricate machinery that the Speaker tends. Whatever the case, the Speaker will happily reward donors with patterns and signs from his collection - more out of gratitude than any mercantile impulse.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/309050_7c62e2f2248ea0a9940bdb45894ac544.jpg"
+        ],
+        "image_name": ["Motes of Light"],
+        "filename": ["309050_7c62e2f2248ea0a9940bdb45894ac544.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/309050_7c62e2f2248ea0a9940bdb45894ac544.jpg",
+            "path": "full/f5d3ac6c28c18cc4f68cf63ea0458b3ca377bd12.jpg",
+            "checksum": "101b68f3e16bb7bcdaeddeed38784cb8"
+          }
+        ]
+      },
+      {
+        "title": "Chroma",
+        "content":
+          "Eververse is proud to introduce: Chroma.\n\nThis Golden Age lighting technique was recently rediscovered by no other than Eververse's chief creative officer Fenchurch Everis. Using multi-channel heat sinks to accentuate Guardian weapons and armor, Chroma is a style for the fiercely, fearlessly fashionable.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/790020_8e87961c7323f05cc8401de522e3bdc6.jpg"
+        ],
+        "image_name": ["Chroma"],
+        "filename": ["790020_8e87961c7323f05cc8401de522e3bdc6.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/790020_8e87961c7323f05cc8401de522e3bdc6.jpg",
+            "path": "full/4df7b3e1c507d90484d07b01e25ac67e6b6fd975.jpg",
+            "checksum": "e9e3d20c62202db5f696e113ad4fd553"
+          }
+        ]
+      }
+    ]
+  },
+]

@@ -3,10 +3,15 @@ import { StyleSheet, Text, View } from 'react-native';
 import { Button } from 'antd-mobile';
 import { StackNavigator } from 'react-navigation';
 
+import CutscenesScreen from './screens/CutscenesScreen';
+import NewCutscenesScreen from './screens/NewCutscenesScreen';
+import DetailScreen from './screens/DetailScreen';
+
 // Grimoire
 import CardMenuScreen from './screens/Grimoire/CardMenuScreen';
 import EnemiesMainScreen from './screens/Grimoire/EnemiesMainScreen';
 import PlacesMainScreen from './screens/Grimoire/PlacesMainScreen';
+import ActivitiesMainScreen from './screens/Grimoire/ActivitiesMainScreen';
 
 import GrimoireScreen from './screens/Grimoire/GrimoireScreen';
 import GuardianScreen from './screens/Grimoire/GuardianScreen';
@@ -54,7 +59,7 @@ const AppStackNavigator = StackNavigator(
 		MainScreen: {
 			screen: MainScreen,
 			navigationOptions: {
-				headerTitle: 'Hello'
+				headerTitle: 'Main'
 			}
 		},
 		GrimoireScreen: {
@@ -125,9 +130,6 @@ const AppStackNavigator = StackNavigator(
 		},
 		GrimoireCardComponent: {
 			screen: GrimoireCardComponent,
-			navigationOptions: {
-				headerTitle: 'Grimoire Card'
-			}
     },
 
     InventoryScreen: {
@@ -197,6 +199,30 @@ const AppStackNavigator = StackNavigator(
       screen: PlacesMainScreen,
       navigationOptions: {
         headerTitle: "Places"
+      }
+    },
+    ActivitiesMainScreen: {
+      screen: ActivitiesMainScreen,
+      navigationOptions: {
+        headerTitle: "Activities"
+      }
+		},
+		CutscenesScreen: {
+			screen: CutscenesScreen,
+			navigationOptions: {
+				headerTitle: "Cutscenes"
+			}
+		},
+		NewCutscenesScreen: {
+			screen: NewCutscenesScreen,
+			navigationOptions: {
+				headerTitle: "Cutscenes"
+			}
+    },
+    DetailScreen: {
+      screen: DetailScreen,
+      navigationOptions: {
+        headerTitle: "Details"
       }
     }
 	},

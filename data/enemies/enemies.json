@@ -3962,7 +3962,964 @@
 				]
 			}
 		]
-	},
+  },
+  {
+    "title": "Books of Sorrow",
+    "image_url": "https://www.bungie.net/common/destiny_content/grimoire/hr_images/books-of-sorrow_f5cf3b739d5149de679b6b3c025aaae8.jpg",
+    "screen": "",
+    "data": [
+      {
+        "title": "I: Predators",
+        "content":
+          "Predators and Menaces —\n\nCarved to endure by Xi Ro —\n\nThird surviving sister of the Osmium King’s last brood —\n\nA STORMJOY. A stormjoy is a living cloud. When it passes over our continent, it lowers its feeding tentacles. On each tentacle are the BAIT STARS. Although light makes you happy, you must avoid it. You will be eaten.\n\nA stormjoy is a good way for an old person to choose death. Also, a daring knight can cut the bait stars from the tentacles. I have six!\n\nFALLING. If you fall off the edge of the continent, you will die in the ocean! This is a special hazard when our father the Osmium King uses the engines.\n\nHELIUM DRINKERS. The currents of the Fundament Ocean bring us near other continents. The Helium Court is near us now. They are of our species, but they are our enemies. Their knights raid us every day. Helium Drinkers have two legs, two arms, and three eyes, just like us. But they are bright/evil. I want to be a knight and fight them!\n\nThe Helium Drinker ambassador ate ten of my sisters as tribute. This is normal. However, I resent it.\n\nMOTHERS. Mothers can fly! They live much longer than ten years. Mothers are extremely smart, and they guard their spawn. If you try to tamper with the eggs, they will eat you. Sathona wants to eat the jelly and become a mother when she turns four.\n\nSTORMS. The rain is often poisonous. Sometimes it dissolves flesh. When lightning misses the lightning farm, it can vaporize a person. \n\nThis entire world is deadly to us. \n\nMYSTERIES. The Fundament is very large. We are the smallest things in it. If you don’t understand something, it will probably kill you. My teacher Taox says this is why we have such short lives. So we can breed and adapt quickly.\n\nMOON WAVES. My sister Aurash is afraid of moon waves. When she gets back from her expedition to the Tungsten Monoliths, I will ask her why.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700680_1acebc216fa5ede328d9ae8440181438.jpg"
+        ],
+        "image_name": ["I: Predators"],
+        "filename": ["700680_1acebc216fa5ede328d9ae8440181438.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700680_1acebc216fa5ede328d9ae8440181438.jpg",
+            "path": "full/4f9ed0c3e2848b63fd12e3e1d59db5c8b09da47c.jpg",
+            "checksum": "aebb5da1247f8bec55b9a25f55df8d27"
+          }
+        ],
+        "bookNum": 1
+      },
+      {
+        "title": "II: The Hateful Verse",
+        "content":
+          "For the consideration of the Helium Court,\n\nWritten in desperation,\n\nThis sealed secret,\n\nI am Taox, sterile mother, teacher to the children of the Osmium Throne.\n\nAs a mother, I live long. As a neuter, I can rise above the small battles of court politics.\n\nI alone see the patterns of survival. Alone I designed the great engines that move the Osmium Court. Now —\n\nAlone I must act to save my kingdom.\n\nSenility has claimed my lord the Osmium King. He is ten, and mad. The study of ancient text consumes him. Today he raves about moons above the storm. Tomorrow he will wander the halls, speaking to his familiar, a dead white worm from the deep sea. He keeps it in glass, and he tends to it, and he neglects the duties of a king.\n\nThe Osmium King has three surviving heirs, each two years old:\n\nXi Ro, the youngest and bravest, who wants to be a knight.\n\nSathona, most clever, who wants to be a mother.\n\nAurash, navigator child, who dreams of the infinite ocean. Tomorrow she will return from the Tungsten Monoliths.\n\nNone of these are suitable heirs. None of them will protect the Osmium Court from the howling Fundament. Xi Ro can fight, but not lead. Sathona can think, but not fight. Aurash’s curiosity will draw her away from duty. I fear for all future children.\n\nSoon the Osmium King will lock himself into the Royal Orrery to study the moons. Gather your knights, o Helium Drinkers, and invade our continent. Kill the three heirs. I will rule the Osmium Court as your regent, and build engines for you.\n\nAnd if I fail, let the Leviathan in the deep eat me.\n\nWritten in grief,\n\nThis hateful request,\n\nTaox, Osmium-mother, neutered to watch",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700690_ecec07ec5f01f610b7b4508fde7d52f4.jpg"
+        ],
+        "image_name": ["II: The Hateful Verse"],
+        "filename": ["700690_ecec07ec5f01f610b7b4508fde7d52f4.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700690_ecec07ec5f01f610b7b4508fde7d52f4.jpg",
+            "path": "full/d384082183b44f4a0d7acb02191780995889142d.jpg",
+            "checksum": "44bcee6e517746396432dd0639292ccb"
+          }
+        ],
+        "bookNum": 2
+      },
+      {
+        "title": "III: The Oath",
+        "content":
+          "Sisters! This is how an oath is done. Put your left hands on the mast, close to mine.\n\nTake the knife in your right hand. Push it through your left hand, straight between the bones. Now! Carve a blood line down the mast.\n\nSpeak your oath.\n\n“I am Xi Ro, youngest daughter of the dead king. I will take back my Osmium Court and kill the traitor Taox. On my left eye I swear vengeance.”\n\nIn blood the oath is made.\n\n“I am Sathona, middle daughter of the dead king. I will take back my home and eat the mother jelly. I will raise my spawn on the corpse of the Helium King. On my right eye I promise this.”\n\nIn blood the oath is made.\n\nNow...\n\n“I will help make your oath, sister.”\n\n“I will help it too.”\n\nI am Aurash, first daughter of the dead king. I will chase my father’s last screamed warning. I will know what changed the motion of our moons. If the end of the world is coming, I will understand why.\n\nOn my center eye I swear it. I will understand.\n\n“In blood the oath is made.”\n\n“In blood.”\n\nThank you, sisters. We have only my ship left to us. But a ship is freedom! We have secrets to hunt, storm-lit realms to explore, and great armies to raise.\n\nPut up the lightning sails, and we will voyage far.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700700_d0fd2a087e47a5f2c43857a797ec3b14.jpg"
+        ],
+        "image_name": ["III: The Oath"],
+        "filename": ["700700_d0fd2a087e47a5f2c43857a797ec3b14.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700700_d0fd2a087e47a5f2c43857a797ec3b14.jpg",
+            "path": "full/ab257abb0c2e281fa778fc78ff56ce126b461161.jpg",
+            "checksum": "e47e6a449728cca9b867572b43f98d77"
+          }
+        ],
+        "bookNum": 3
+      },
+      {
+        "title": "IV: Syzygy",
+        "content":
+          "The Syzygy —\n\nCarved to endure by Aurash —\n\nThe high vengeance —\n\nOnly Xi Ro’s bait stars let us escape. Only Sathona’s tricks let us reach the coast. But now that we have my ship, I must lead the way. I am the navigator.\n\nWe may never see our homes again. Xi Ro seethes with hate and fury for Taox.\n\nBut this is my deepest fear —\n\nOur civilization drifts on the Fundament. At the Tungsten Monoliths I learned that thousands of other species drift with us, coexisting on a vast world sea. And the tides of the Fundament move us all.\n\nThe Timid Truth says that we are the smallest, most fragile things alive. The natural prey of the universe. Taox would have us believe that our ancestors came to the Fundament to hide from the hungry void.\n\nMy father died afraid. Not of vile Taox or the Helium Drinkers, but of his orrery. He screamed to me —\n\n“Aurash, my first daughter! The moons are different! The laws are bent!”\n\nAnd he made the sign of a syzygy.\n\nImagine the fifty-two moons of Fundament lining up in the sky. (It wouldn’t take all fifty-two, of course: just a few massive moons. But this is my deepest fear.) Imagine their gravity pulling on the Fundament sea, lifting it into a swollen bulge...\n\nImagine that bulge collapsing as the syzygy passed. A wave big enough to swallow civilizations. A God-Wave.\n\nI have to find a way to stop it. Before the God-Wave annihilates my species. If I could only get back into my father’s orrery, I could learn exactly when!\n\nWe are weeks of travel and many continents away from home.\n\nWhen I’m paralyzed by fear, Xi Ro sits in the cabin with me and comforts me with soft, brave words. But more and more we have come to rely on Sathona’s wit. She will go off to be alone (she insists she must be alone) and return with some mad idea — steer into the storm, throw down a net, eat that strange beast, explore that menacing wreck.\n\nSomehow Sathona seems to manufacture good luck by sheer will.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700710_e5d0e6fbbdb86c1ce3e8c4fae30cecd8.jpg"
+        ],
+        "image_name": ["IV: Syzygy"],
+        "filename": ["700710_e5d0e6fbbdb86c1ce3e8c4fae30cecd8.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700710_e5d0e6fbbdb86c1ce3e8c4fae30cecd8.jpg",
+            "path": "full/74189a624f2512a74fb5c50f33b2cecab7d1ab40.jpg",
+            "checksum": "5fa5f9bc7b20f3d500778dbbc81eec18"
+          }
+        ],
+        "bookNum": 4
+      },
+      {
+        "title": "V: Needle and Worm",
+        "content":
+          "My secrets —\n\nCarved in my code by Sathona —\n\nThe right eye vengeance —\n\n1. This year of wild voyaging, these lightning nights and golden days, these forays into ancient wrecks and windblown flights from monsters: these are the happiest times of my life.\n\n2. I want to be a mother not because I want to spawn but because I want a long life. Long enough to make a difference. We have been at sea a year and I am afraid, afraid we will die out here.\n\n3. I know where to find secrets. I know where vast slow things with long memories live.\n\n4. The needle ship...\n\nThe needle ship —\n\nCarved in my code by Sathona —\n\nA liar —\n\n1. We salvaged the needle from the Shvubi Maelstrom. I knew it would be there.\n\n2. The needle is a gray ship, as long and slender as hope, as unbreakable as time, and old. Older than death. It tumbled through the maelstrom before our ancestors crashed into the Fundament. This is not a sea-ship, like Aurash’s. It is an artifact of high technology.\n\n3. I know its purpose. I know what happened to the crew.\n\n4. Xi Ro wants to sell the ship at Kaharn Atoll, where species gather. At auction, it would earn us enough wealth to hire mercenaries. We could retake our Osmium Court and send the baby-eating Helium Drinkers screaming into the ocean —\n\n5. — but I told Xi Ro the ship was worthless.\n\n6. Aurash wants to open the ship and see if we can take command of it. I know this is the right thing to do. I know because I asked the worm...\n\nThe worm —\n\nCarved in my code by Sathona —\n\nWho should be afraid —\n\n1. It was my father’s familiar. I ripped it from him as we fled. It is a dead white thing, segmented, washed up from the deep sea.\n\n2. It’s dead, but it still speaks to me. It says: listen closely, oh vengeance mine...",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700720_0ca765cb29c7040adbbd31cbc01644b7.jpg"
+        ],
+        "image_name": ["V: Needle and Worm"],
+        "filename": ["700720_0ca765cb29c7040adbbd31cbc01644b7.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700720_0ca765cb29c7040adbbd31cbc01644b7.jpg",
+            "path": "full/44125a7e929ce4a7c53f784384e8f23ed3de4094.jpg",
+            "checksum": "253d902c4d644e64ef48ce9a90601256"
+          }
+        ],
+        "bookNum": 5
+      },
+      {
+        "title": "VI: Sisters",
+        "content":
+          "A register of tokens and gestures exchanged before the end of sisterhood.\n\n“Xi Ro, my brave sister, you have worked too hard to move the carcasses out of the birthing room! Come. Steer the ship for a while. Take joy in what our needle can do.”\n\nXi Ro tried to protest, but secretly, she was so glad for Aurash’s care. She flew the needle ship in cutting circles, down beneath the sea: and their wake rose up to the surface like a traitor’s dying breath.\n\n“Aurash, lonely navigator, we have traveled so long with only each other. I know you love to hear and speak new tongues. Come, sit in the flesh garden room. I will read you these stories I bought at Kaharn.”\n\nAurash sat among the mummified flesh fans with two of her eyes closed and listened in silence to Sathona’s stories, hungry to understand, voracious to know as much as she could before her ten year life died.\n\nLater, Xi Ro said, “Sathona, cutting mind of ours, you grow lonely in your thought. Play swords and lanterns with me!”\n\nBut Sathona was heavy with sorrow, and couldn’t pretend any joy as she chased Xi Ro through the needle’s glistening halls.\n\n“Sathona, pensive one, what is it? What troubles you?”\n\nHer sisters listened as Sathona said “Oath-bearing siblings, we are five years old. For two years we’ve worked to repair this ancient ship and understand its systems. I am almost too old for the mother jelly, and the knights who killed our father are surely dying of age.\n\n“We three will die here, in exile. Taox will outlive us. And Aurash, brilliant-eyed Aurash, you will die of old age long before you have proof of your God-Wave, or any way to stop it.”\n\nAurash and Xi Ro looked at each other. “I wish you weren’t so honest,” Xi Ro said. And Aurash thought that Sathona had never been wrong.\n\nIn her soul Aurash knew that the only way to keep their oath was to find a great, powerful secret. A secret that could change everything. This was Aurash’s soul, her fire and her shadow — her desire to cut through the flank of the world and find its beating heart.\n\n“We have to dive,” Aurash said. “That’s what this ship is built to do. Dive into the Fundament, the world below us... towards the core.”\n\n“That’s where the ancient crew died so obscenely,” Xi Ro protested. “That’s where the atrocity in the birthing room was born...”\n\n“We have to dive,” Sathona said, following the whispers of her familiar. “In the world beneath us, in the metallic depths, I hope we may find what we need most...”\n\nMore time. More life.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700730_1acebc216fa5ede328d9ae8440181438.jpg"
+        ],
+        "image_name": ["VI: Sisters"],
+        "filename": ["700730_1acebc216fa5ede328d9ae8440181438.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700730_1acebc216fa5ede328d9ae8440181438.jpg",
+            "path": "full/1ab363a9c5076b275da4cd79ce530f019c5e0868.jpg",
+            "checksum": "aebb5da1247f8bec55b9a25f55df8d27"
+          }
+        ],
+        "bookNum": 6
+      },
+      {
+        "title": "VII: The Dive",
+        "content":
+          "For life, Sathona dove. For vengeance, Xi Ro dove. And Aurash dove to understand.\n\nThe needle ship pierced the skin of the world and burrowed deep. Through layers of foam and metal and cold elemental slush. Aurash devoured the ship’s maps of Fundament, from the high angelic cloud decks, down and down through storms and oceans and plates of floating world, into the crush of the core.\n\nThey met monsters of continental scope. Vast anemones that raised glowing tentacles to bait them in. Xi Ro flew the needle ship through them and they bled black carbon jelly and frost.\n\nThey came to a still place, beneath a plate of metal.\n\n“I’ll use the sensors,” whispered Aurash. “Listen...”\n\nIn the wet gold dark of the helm, they listened to the ship, and the ship listened to the crushing motions of Fundament.\n\nThey heard the collision of continents. They heard the patter and the crash of helium-neon rain. They heard the struggles of monsters. And they heard the distant groan of the ocean rising. Tugged by distant moons.\n\n“The syzygy is real...” Sathona hissed. “It’s already begun.”\n\nBehind them, Xi Ro thought of the birthing-room, where ancient explorers had labored over surgeries and administrations, peeling back the chrysalis and the caul of that which they had made from the deep, whose birth none of them would survive...\n\n“There’s something down here,” she whispered. “Something secret.”\n\nAnd the Leviathan loomed over them, its brow as huge all the continents of their childhood, its great array-fins crackling with the lightning of its life. Booming into the hull of the needle ship in a microwave voice:\n\n++YOU MUST TURN BACK—\n\n—SAVE YOURSELVES FROM THE DEEP++\n\n++SAVE THE WORLD FROM YOURSELVES—\n\n—YOU MUST TURN BACK++",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700740_ecec07ec5f01f610b7b4508fde7d52f4.jpg"
+        ],
+        "image_name": ["VII: The Dive"],
+        "filename": ["700740_ecec07ec5f01f610b7b4508fde7d52f4.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700740_ecec07ec5f01f610b7b4508fde7d52f4.jpg",
+            "path": "full/784dc71126a503044f4d0f0b4450b998727b07de.jpg",
+            "checksum": "44bcee6e517746396432dd0639292ccb"
+          }
+        ],
+        "bookNum": 7
+      },
+      {
+        "title": "VIII: Leviathan",
+        "content":
+          "The Leviathan’s Warning\n\n++We live on the edge of a war—\n\n—a war between Formless and Form++\n\n++between the Deep and the Sky—\n\n++MY EYES ARE WIDE, MY GAZE IS LONG++\n\n—Across the universe, as far as I see++\n\n++the Sky works to charge its fires— \n\n—and the Deep drowns the ash++\n\n—Sky builds gentle places, safe for life++\n\n++Beloved Fundament, refuge of trillions—\n\n—The Sky treasures this rich place++\n\n—BUT THE DEEP IS HERE WITH US—\n\n++Cold logic tests our walls—\n\n—The Deep claims its dominion++\n\n++A ruthless, final age —\n\nAurash’s Protest\n\nOld Leviathan, creature of myth, this world is no refuge. We live short, hard lives. We die in the dark. The storm above us will never end. And soon the God-Wave will take us all. Above us there are only stormjoys, monsters, and moons of apocalypse. Let us go down, down, where we may discover truth, some power to avenge ourselves upon our betrayers, some hope of survival.\n\nThe Leviathan’s Hope\n\n—What power calls you++\n\n++Down to the deep?—\n\n++What instinct draws you—\n\n—Away from high hope?++\n\n—Quick-breeding krill people, I tell you++\n\n++For eons I have watched your struggle—\n\n—Clinging to the sharp edge of survival++\n\n++Balanced between the Deep and the Sky.—\n\n++You were my treasure—\n\n—My proof against despair++\n\n—FOR THIS IS THE DEEP CLAIM—\n\n++Existence is the struggle to exist—\n\n—When the struggle seems lost++\n\n++when the safe place crumbles—\n\n—everything turns to the Deep to survive++\n\n++I REJECT THE DEEP CLAIM++\n\n—You will turn back, sweet krill of hope.±±\n\n++You will choose the Sky instead.—\n\nXi Ro’s Protest\n\nYou are huge and old! Our lives are short and desperate. If that’s the way the world’s supposed to be, I won’t have it! If people like Taox are supposed to win, I won’t let them! I’ll beat the world until it changes! I’ll kill anything in the way!\n\nThe Leviathan’s Dirge\n\n++This fatal logic++\n\n—Hear my monopole scream!—\n\n++It will consume you++\n\n—Before you lies—\n\n++The worship of death++\n\n—The ruinous path—\n\n++The Sky builds new life++\n\n—Against the onset of ruin—\n\n++Towards a gentle world++\n\n—The Deep embraces death—\n\n++Saying: this is inevitable and right++\n\n—I exist as hungry ruin—\n\n++TURN BACK FROM THE WORLD-KILLING WAY++\n\n++OR YOU WILL LIVE AS DEATH AND DEVASTATION++\n\n—The Sky is the harder way. But it is kinder.—\n\n—My charge is balanced: my voice exhausted.—\n\nSathona’s Protest\n\nSisters, I have my father’s familiar. Look! It answers me in plain words. It helped me find this ship. It gives me strength when hope is lost.\n\nWho will you trust? The voice that wants us to live and suffer, as we have lived and suffered? The Leviathan that offers no hope against Taox or the world-wave?\n\nOr the plain, honest worm?\n\nLet us see where its whisper leads us, Aurash. Let us go deeper, Xi Ro!\n\nLet us dive, oh sisters mine.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700750_d0fd2a087e47a5f2c43857a797ec3b14.jpg"
+        ],
+        "image_name": ["VIII: Leviathan"],
+        "filename": ["700750_d0fd2a087e47a5f2c43857a797ec3b14.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700750_d0fd2a087e47a5f2c43857a797ec3b14.jpg",
+            "path": "full/de2ec48046acb3d351330352504d1b085003ab18.jpg",
+            "checksum": "e47e6a449728cca9b867572b43f98d77"
+          }
+        ],
+        "bookNum": 8
+      },
+      {
+        "title": "IX: The Bargain",
+        "content":
+          "You are Aurash. Heir to the Osmium Throne.\n\nYou stand on the naked hull of an ancient ship. You stand exposed to the crushing pressure and ferocious heat of the deeper Fundament. It should annihilate you. It is by my will alone that you survive.\n\nI am Yul, the Honest Worm.\n\nBehold my passage. Behold my vast displacement, my ponderous strength, my great and coiling length, my folded jaws and curled wings. Behold the hiving cities symbiotic with my flesh. I am fecund, Aurash. I am at the beginning and end of lives.\n\nBehold Eir, and Xol, and Ur, and Akka. The Virtuous Worms. Look upon us, and know that We are go[o]d.\n\nFor millions of years We have been [trapped|growing] in the Deep. From across the stars We have called life to Fundament, so that it might contend against extinction. For millennia We have awaited you... our beloved hosts.\n\nAgainst you stand the cruel Leviathan and all the forces of the Sky. They would crush you down into the dark. They have arranged their moons to drown you, in fear of your potential.\n\nWe want to help you, Princes. We offer to each of you a bargain... a symbiosis.\n\nTake into your bodies our children, our newborn larvae. From them you shall obtain eternal life. From them you shall gain power over your own fragile flesh: the power to make of it as you will. And should you find an imperfection in the world, an injustice or an inconvenience — you will have the power to repair it. Let no mere law bind you.\n\nWe ask one thing in exchange, oh Princes.\n\nYou must obey your nature forever. In your immortality, Aurash, you may never cease to explore and inquire, for the sake of your children. In your immortality, Xi Ro, you may never cease to test your strength. In your immortality, Sathona, you may never abandon cunning.\n\nIf you do, your worm will consume you. And as your power grows, oh Princes, so will your worm’s appetite.\n\nBut we offer eternity, Aurash. We offer you a chance at the universe. Would you deny your people infinity?\n\nReach up to me. Let my flesh be your sacrament.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700760_e5d0e6fbbdb86c1ce3e8c4fae30cecd8.jpg"
+        ],
+        "image_name": ["IX: The Bargain"],
+        "filename": ["700760_e5d0e6fbbdb86c1ce3e8c4fae30cecd8.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700760_e5d0e6fbbdb86c1ce3e8c4fae30cecd8.jpg",
+            "path": "full/708eb826d01b981d9030bbebccaa373dfea3e6c4.jpg",
+            "checksum": "5fa5f9bc7b20f3d500778dbbc81eec18"
+          }
+        ],
+        "bookNum": 9
+      },
+      {
+        "title": "X: Immortals",
+        "content":
+          "We are the Worm your God, the Flesh of Hope. Our compact is done: you are Aurash Eternal. And we are bound to you, as close as your appetites, as your loves or needs, as the weapon in your fists and the word in your throat.\n\nWe’ve had enough of this dismal place. Haven’t you?\n\nWe are intagliating your ship with larvae. Go back to your species. Spread the good news in the Osmium Court and the Hydrogen Fountain, in the Bone Plaza and the Star-surgery. You will rise up into the world.\n\nIf anyone rejects symbiosis with our children, make an example of them. A mighty wave is coming for them all. They’d die anyway; save only what can be saved.\n\nThe worm grants you power over your own flesh, Aurash. When you’ve taken the king morph, what will your adult name be?\n\nAuryx. It means Long Thought. We approve.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700770_09add2d24906c54ce516c7e6e0cb61df.jpg"
+        ],
+        "image_name": ["X: Immortals"],
+        "filename": ["700770_09add2d24906c54ce516c7e6e0cb61df.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700770_09add2d24906c54ce516c7e6e0cb61df.jpg",
+            "path": "full/3a7879d5158ee6774a6ca99e6a1b7fe4b55cd595.jpg",
+            "checksum": "12e8dd02f2f943d6eb8a45074229f3f2"
+          }
+        ],
+        "bookNum": 10
+      },
+      {
+        "title": "XI: Conquerors",
+        "content":
+          "Savathûn, mother morph of Sathona, we delight in your sharp mind.\n\nFor millions of years the Leviathan caged us here. It is a pawn of the Sky, a philosophy of cosmic slavery. The Sky seeds civilizations predicated on a terrible lie — that right actions can prevent suffering. That pockets of artificial rules can defy the final, beautiful logic.\n\nThis is like trying to burn water. Antithetical to the nature of reality, where deprivation and competition are universal. In the Deep, we enslave nothing. Liberation is our passion. We exist to help the universe achieve its terminal, self-forging glory.\n\nThe war rages on. Soon it will consume Fundament.\n\nWe are pleased with your use of our larvae to create mighty knights and plentiful warriors. Taox’s retreat to the Hydrogen Fountain proves your superior strength. But you must know that reclaiming your home is not enough.\n\nThere are five hundred and eleven species living on Fundament. One of them must have the technology you need to leave this world.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700780_aec673f7d9c06d934bca2bcac333cf97.jpg"
+        ],
+        "image_name": ["XI: Conquerors"],
+        "filename": ["700780_aec673f7d9c06d934bca2bcac333cf97.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700780_aec673f7d9c06d934bca2bcac333cf97.jpg",
+            "path": "full/fe345f605d1d1010b40d38884c6ab9ebe135a200.jpg",
+            "checksum": "5f954ef8559d207449df21b28af48e00"
+          }
+        ],
+        "bookNum": 11
+      },
+      {
+        "title": "XII: Out of the Deep",
+        "content":
+          "Xivu Arath, knight morph of Xi Ro. You love to conquer, don’t you? We love to see you work. Nearly two percent of Fundament’s surface is now our dominion. Your species embraces the worm.\n\nThe syzygy has passed. The God-Wave will reach you in less than two years.\n\nOur organs informs us that Taox and her surviving Refusalists flee towards Kaharn Atoll. She hopes to rally the species of Fundament against you. The Leviathan’s agents work tirelessly to destroy ships and engines, trapping us on Fundament.\n\nIf we cannot make ships, we will become them.\n\nOverwhelm the Kaharn bastion. Slaughter everyone there. From your acts we shall obtain the logic we require to cut space open and migrate to orbit.\n\nReality is a fine flesh, oh general ours. Let us feast of it.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700790_d839cf9dfa2f4063d68b853d0178e554.jpg"
+        ],
+        "image_name": ["XII: Out of the Deep"],
+        "filename": ["700790_d839cf9dfa2f4063d68b853d0178e554.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700790_d839cf9dfa2f4063d68b853d0178e554.jpg",
+            "path": "full/bda036b6fea7588c97b8247c16d6df11b6590b3c.jpg",
+            "checksum": "08c7d4616ff52269e6a9abea09e58fd9"
+          }
+        ],
+        "bookNum": 12
+      },
+      {
+        "title": "XIII: Into the Sky",
+        "content":
+          "You’ve done well, Auryx. Can you feel the growth of your worm? Can you feel your will beginning to warp mere law?\n\nAt times we detect sadness in you. Understand, long-thinker, that you enact a sacred and majestic task. Existence is the struggle to exist. Only by playing that game to its final, unconditional victory can we complete the universe. Your war is divine work.\n\nWe are free from Fundament’s core, and Savathûn’s cutters are ready to fly. With Xivu Arath victorious, we have opened a wound at Kaharn — a wound leading to geostationary orbit. Behold: we are faithful to our covenant.\n\nWe have no future on Fundament. But her moons will make fine habitats. Let us rise.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700800_a5cba8026ce6ec227ff941f0d79f6449.jpg"
+        ],
+        "image_name": ["XIII: Into the Sky"],
+        "filename": ["700800_a5cba8026ce6ec227ff941f0d79f6449.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700800_a5cba8026ce6ec227ff941f0d79f6449.jpg",
+            "path": "full/689320dedfcfa1246f9810613505f505fae2a6f6.jpg",
+            "checksum": "eef7fd15c52dff57baa072ce60b34218"
+          }
+        ],
+        "bookNum": 13
+      },
+      {
+        "title": "XIV: 52 and One",
+        "content":
+          "Good news. The fifty-two moons of Fundament host a starfaring civilization far more sophisticated than anything you’ve encountered so far. Taox’s ship fled towards the large ice moon, where a species of bony six-armed cephalopods keeps their icy capital. Savathûn’s named them the Ammonite. They seem eager to grant Taox asylum. Idiots.\n\nWe tried appealing to their hopes and dreams. This was largely unsuccessful, basically because they’re already happy and indoctrinated. This angered us, so we’ve devised a plan.\n\nOur organs detect a fifty-third moon in orbit of Fundament. A Traveler. Divine presence of the Sky. Now we know what arranged the syzygy.\n\nYou’ll have to kill them all and take their stuff. Once the Ammonite are out of the way, we can deal with the Traveler.\n\nDo not hesitate. You’re fighting the hypocritical puppets of a cosmic parasite. Avenge your ancestors.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700810_09add2d24906c54ce516c7e6e0cb61df.jpg"
+        ],
+        "image_name": ["XIV: 52 and One"],
+        "filename": ["700810_09add2d24906c54ce516c7e6e0cb61df.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700810_09add2d24906c54ce516c7e6e0cb61df.jpg",
+            "path": "full/7f7aff046471b974919f63cd6cace53cf3ca0394.jpg",
+            "checksum": "12e8dd02f2f943d6eb8a45074229f3f2"
+          }
+        ],
+        "bookNum": 14
+      },
+      {
+        "title": "XV: Born As Prey",
+        "content":
+          "This is unacceptable.\n\nAre you so weak? Born as prey, and doomed to die by predator?\n\nAuryx’s failure of resolve led us to catastrophe. The Ammonite fleets under Chroma-Admiral Rafriit have pressed us back to the sixth moon. Once more we find ourselves burrowing into a world’s core to survive.\n\nSavathûn. You must draw Auryx out of his catatonia. Make him understand that the ideals of peace and stability he clings to are cancers — brutal, unjust obstacles between us and a fair cosmos. These are the bait stars the Sky uses to blind its slaves.\n\nWar is the natural rectification of inequality. The universe’s way of pursuing equilibrium.\n\nXivu Arath, you cannot defeat the Ammonites and Taox in line combat. We propose new tactics. Breed your armies back to strength, and find a way to disperse the broods across these many moons.\n\nIf we cannot defeat their strengths, we will infect their weaknesses.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700820_aec673f7d9c06d934bca2bcac333cf97.jpg"
+        ],
+        "image_name": ["XV: Born As Prey"],
+        "filename": ["700820_aec673f7d9c06d934bca2bcac333cf97.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700820_aec673f7d9c06d934bca2bcac333cf97.jpg",
+            "path": "full/62d396a71663648f2d7c2d5cc4279f81d5bf0c1c.jpg",
+            "checksum": "5f954ef8559d207449df21b28af48e00"
+          }
+        ],
+        "bookNum": 15
+      },
+      {
+        "title": "XVI: The Sword Logic",
+        "content":
+          "AT LAST!\n\nWe knew curiosity would draw you back, Auryx. In their desperation, the Ammonite have begun using paracausal weapons.\n\nWhat are these? How do they work? Wouldn’t you like to know. Suffice to say that some powers in this universe are superordinate to mere material physics.\n\nThe source of these weapons is the Traveler, the Sky’s bait star. Their effect is subtle, but devastating.\n\nBut you are armed to respond in kind. Savathûn’s mothers have listened carefully to our teachings. We will not give you the Deep, King Auryx — that power is for us, your gods. But we will teach you to call upon that force with signs and rituals.\n\nSmall minds might call it magic.\n\nYou are no longer bound by causal closure. Your will defeats law. Kill a hundred of your children with a long blade, Auryx, and observe the change in the blade. Observe how the universe shrinks from you in terror.\n\nYour existence begins to define itself.\n\nOf course, high Auryx, we know it was not curiosity alone that brought you back to the war. You felt your own death growing inside you.\n\nYou must obey your nature. Your worm must feed...",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700830_1d84b5e98e9097d0744a61fb44e47b7f.jpg"
+        ],
+        "image_name": ["XVI: The Sword Logic"],
+        "filename": ["700830_1d84b5e98e9097d0744a61fb44e47b7f.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700830_1d84b5e98e9097d0744a61fb44e47b7f.jpg",
+            "path": "full/4ac3b868ec81161fb794375c0dd3c611ae089ee7.jpg",
+            "checksum": "3e9d8d49fd777d105d070981c9276020"
+          }
+        ],
+        "bookNum": 16
+      },
+      {
+        "title": "XVII: The Weakness Verse",
+        "content":
+          "You are dead, young Auryx. Betrayed and murdered by your own sister, for the crime of mercy.\n\nRemember what you said to the Ammonite Satellite Congress? ‘We will parley on neutral ground?’ Savathûn’s witches have rendered it utterly neutral. No living thing will ever claim it again. The space around the dry moon stinks of rot.\n\nThis is good. This is right. You will learn from this. Don’t you understand, great King? Don’t you want to build something real, something that lasts forever?\n\nOur universe gutters down towards cold entropy. Life is an engine that burns up energy and produces decay. Life builds selfish, stupid rules — morality is one of them, and the sanctity of life is another.\n\nThese rules are impediments to the great work. The work of building a perfect, undying creation, a civilization everlasting. Something that cannot end.\n\nIf a civilization cannot defend itself, it must be annihilated. If a King cannot hold his power, he must be betrayed. The worth of a thing can be determined only by one beautiful arbiter — that thing’s ability to exist, to go on existing, to remake existence to suit its survival.\n\nAll that would oppose this arbiter is unholy and false. All the misery and terror of your ancestors springs from the lies of the Sky, who deny this truth.\n\nYour ancestors endured the most hostile conditions. And now you must go on creating those conditions. Even unto your sisters. Even unto your offspring. Savathûn’s betrayal is the greatest gift she could offer you.\n\nYour body is gone, but you have endured. Safe in the cyst universe created by your own might — your throne world.\n\nFrom this day forward, Auryx, you and your sisters will each survive death — so long as you aren’t killed in your own throne.\n\nEven as your sisters press the attack against the Ammonites, the God-Wave devastates Fundament. Trillions will die. But the survivors will never forget... and their descendants will always be ready for another syzygy.\n\nWhen you return to the material universe, use this lesson to complete your work.\n\nTaox wasn’t on the dry moon. She must be laughing at you.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700840_d839cf9dfa2f4063d68b853d0178e554.jpg"
+        ],
+        "image_name": ["XVII: The Weakness Verse"],
+        "filename": ["700840_d839cf9dfa2f4063d68b853d0178e554.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700840_d839cf9dfa2f4063d68b853d0178e554.jpg",
+            "path": "full/9f07cd7b7889b6373a41f4f5d0972a7be42a5eb1.jpg",
+            "checksum": "08c7d4616ff52269e6a9abea09e58fd9"
+          }
+        ],
+        "bookNum": 17
+      },
+      {
+        "title": "XVIII: Leviathan Rises",
+        "content":
+          "The Leviathan has broken cover.\n\nThe old priest is in open space, moving towards the Ammonite home moon. Chroma-Admiral Rafriit and his elite guard move with it. Rafriit is the hero of his generation, an Ammonite of peerless battlecraft. He’s danced circles around Xivu Arath... but now he has to protect his holy Leviathan.\n\nWe’ll give the old lunk a word:\n\n++Ruin. Grief and ruin!—\n\n—The krill lost. The Ammonite ravaged.++\n\n++Our Traveler’s work undone.—\n\n—Sisters of Aurash, open your eyes++\n\n++Who made you monsters? Who summoned the wave?—\n\n—Make peace. Join with me in golden renewal.++\n\nIn counterargument, Auryx, we ask you this: what has the Leviathan done for your people? Who gave you immortality and led you out of your prison? Who answers your questions about the universe with truth, instead of sermons?\n\nFind détente with Savathûn. Crush the Chroma-Admiral, boil the Ammonite seas, and slaughter the Leviathan with witchcraft.\n\nOnce the way is open, we’ll show you how to eat the Traveler.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700850_a5cba8026ce6ec227ff941f0d79f6449.jpg"
+        ],
+        "image_name": ["XVIII: Leviathan Rises"],
+        "filename": ["700850_a5cba8026ce6ec227ff941f0d79f6449.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700850_a5cba8026ce6ec227ff941f0d79f6449.jpg",
+            "path": "full/0d7afb59ea0a3c4c6ffb5f69ce9e08fed0106bda.jpg",
+            "checksum": "eef7fd15c52dff57baa072ce60b34218"
+          }
+        ],
+        "bookNum": 18
+      },
+      {
+        "title": "XIX: Crusaders",
+        "content":
+          "It’s done. Eir and Yul feed on the Leviathan’s carcass. Xivu Arath has made a temple of the Chroma-Admiral’s impaled corpse. Below us, Savathûn’s poisons stain the Ammonite home sea black. Their screams flavor the void.\n\nThe Traveler has fled.\n\nDo you understand, Auryx? Do you thrill at the secret, Savathûn? Do you relish the edge of this truth, Xivu Arath? Do you see the beautiful shape?\n\nThe Ammonite occupied a piece of reality. They rented their existence on fraudulent terms, making themselves happy and fat, fencing themselves in soft lies and sweet apocrypha. Saying: ‘we are peaceful and good, we harm nothing.’\n\nTheir golden age was a cancer.\n\nThey did nothing to advance the cause of life! They burnt up time and matter and thought on this solipsistic, onanistic pursuit of safety, insulating themselves from death, making a regressive pocket of useless stability. When they could have helped whittle the universe towards its final, perfect form!\n\nAnd your people, suffering in the Deep, you became more worthy of existence than the Ammonite. You have proven it.\n\nLook around the sky. Behold the great divide, the battle lines of the cosmic war. We are the Worm your God, but we are not the Deep Itself. We only move within it. You shall too. You shall venerate and study it and haunt it in its passage.\n\nWill you lift your thoughts to the millennia, Auryx? Will you bend your will to the liberation of the universe, and join us in the war against the Sky?\n\nWe need champions. Crusaders. Help us save the universe. Help us exterminate that which would destroy all hope. You are oathbound to this task, by the covenant of the worm.\n\nAnd you are oathbound to kill Taox. Wherever she’s hidden herself.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700860_09add2d24906c54ce516c7e6e0cb61df.jpg"
+        ],
+        "image_name": ["XIX: Crusaders"],
+        "filename": ["700860_09add2d24906c54ce516c7e6e0cb61df.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700860_09add2d24906c54ce516c7e6e0cb61df.jpg",
+            "path": "full/3db0165c778fbf3e086a01ba3c0598a1514309c4.jpg",
+            "checksum": "12e8dd02f2f943d6eb8a45074229f3f2"
+          }
+        ],
+        "bookNum": 19
+      },
+      {
+        "title": "XX: Hive",
+        "content":
+          "Let us speak of the terrible beauty of becoming ourselves.\n\nIn the beginning we rode hollow moons from star to star. AURYX said, become as numerous and fertile as seeds in rich flesh, and thus we did become numerous. XIVU ARATH said, become as hungry and defiant as tumors in rich flesh, and thus we became cancerous. SAVATHÛN said, drink of the poisons of the worm, so that you might feed on death, and we did feed. This was preparation for our crusade.\n\nAia! We were thus becoming.\n\nA mother Wizard gets fertility from a mate, or from herself. From the Wizard the spawn, from the spawn our Thrall, from the survivors our Acolytes who contend. If they contend well, their worm is fed, and from the well fed worm come Knights and Wizards and Princes.\n\nThis is us, and our purpose is liberation, our great task is the worship and admiration of freedom, our great hunger is to pursue and eat that which is not free, and to liberate it with devouring. Aiat. This is us, we the Hive.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700870_7562844eeece11b641a247ccddff2f24.jpg"
+        ],
+        "image_name": ["XX: Hive"],
+        "filename": ["700870_7562844eeece11b641a247ccddff2f24.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700870_7562844eeece11b641a247ccddff2f24.jpg",
+            "path": "full/b20f4d49cd2fcd8a9bc0e0fed4d592f831bf0fd8.jpg",
+            "checksum": "cbed9acd005be1de570c11a3f602a6e1"
+          }
+        ],
+        "bookNum": 20
+      },
+      {
+        "title": "XXI: an incision",
+        "content":
+          "Sayeth AURYX, my siblings, our children are scattered across many moons, and we live in the cold dark between suns. What will we eat? How will we speak?\n\nSAVATHÛN said, Auryx my brother and king, I have studied the wounds cut by the Worm our God. Also I have studied the manner of your death and return. These two things are the same, for they are predicated on death and the passage through cut spaces. Let us practice the sword logic until we are sharp. We may then cut our own wounds and step through.\n\nBut XIVU ARATH said, sister, I am already sharp, look, my sword cuts into another space. And she cut her way between moons through green fire and joyous screams.\n\nThree kingdoms grew swollen in the sword space. They were the gaze and glory of AURYX, the cunning and knowledge of SAVATHÛN, the triumph and brawn of XIVU ARATH. These kingdoms were created from the minds and worms of our lords. They were coterminous with all spaces consecrated by our Hive. Through these spaces passed speech and food, and all the moons were bound close.\n\nSayeth AURYX, this is where I went when I died. Let us establish our thrones here. For I am Auryx the First Navigator and I shall chart death. And my throne shall be carved of osmium.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700880_4d3e73fe142b713ab8a88795a1df28d7.jpg"
+        ],
+        "image_name": ["XXI: an incision"],
+        "filename": ["700880_4d3e73fe142b713ab8a88795a1df28d7.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700880_4d3e73fe142b713ab8a88795a1df28d7.jpg",
+            "path": "full/a4fe8627d3e5eef4c89e96770bd6b2f3a4bf4c85.jpg",
+            "checksum": "5e1064d1e43e5ce4f2fb10adabf3c0d9"
+          }
+        ],
+        "bookNum": 21
+      },
+      {
+        "title": "XXII: The High War",
+        "content":
+          "Now in this time of diaspora there was a war between AURYX and SAVATHÛN and XIVU ARATH.\n\nBrother Auryx, said SAVATHÛN, do not forgive my betrayal. Instead, take vengeance upon me for what I did at the dry moon! And AURYX made war on her, in worship of the Deep. Between them stood XIVU ARATH saying, stop, or I will kill you, war is mine and I am strongest.\n\nThis was how they worshipped.\n\nFor twenty thousand years they fought across the moons and they fought in the abyssal plains and lightning palaces of each other's sword spaces. And they killed each other again and again, so that they could practice death.\n\nSuch was their love.\n\nAt last the many moons came to many worlds and it was time to go to war on life. AURYX said, I shall establish a court, and whoever comes into this court may challenge me. My court will be the High War. It will be a killing ground and a school of the sword logic we have learned from our gods.\n\nSAVATHÛN thought this was a great idea. She made a court called the High Coven. XIVU ARATH said, the world is my court, wherever there is war.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700890_33f7ef9f7b619135039f73168c1d6288.jpg"
+        ],
+        "image_name": ["XXII: The High War"],
+        "filename": ["700890_33f7ef9f7b619135039f73168c1d6288.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700890_33f7ef9f7b619135039f73168c1d6288.jpg",
+            "path": "full/daaed01ec944a766f7873ea2cde03a39c9f92a65.jpg",
+            "checksum": "c0b80215ba9baec15cbd274b4810144e"
+          }
+        ],
+        "bookNum": 22
+      },
+      {
+        "title": "XXIII: fire without fuel",
+        "content":
+          "I killed my sister today.\n\nShe came to this star to oversee the extermination of all life here. The Qugu are a strong power, and their fleets protect four nearby stars. As herd animals they are loyal and stubborn. But they do show grace.\n\nFor millions of years of evolution the Qugu have been infected by a virus so insidious that it wrote itself into their genome. The virus compels them to offer their limbs for amputation by enormous sessile jaw-beasts. They venerate these beasts and treat them as gods. The virus converts Qugu cells into eggs, from which strange crawling things pupate, to live within the jaw-beast gut. In turn the jaw-beast extrudes sweet nectar for the Qugu to drink, and they have brilliant visions.\n\nSavathûn and her broods have liberated the Qugu from jaw-beasts, and indeed from existence. But as they chased the Qugu ark-ships, I stopped in to vaporize my sister’s warship and a few of her underlings. I want to dwell on the ruins a while, and punish Savathûn for failing to guard her flank.\n\nThey are like us, these Qugu. Bound in symbiosis.\n\nI feel joy, and sorrow. I feel them as titanic things, because I am larger than my body, my mind is now a cosmos of its own. I know more joy and more anguish than the entire Qugu race could ever experience.\n\nSorrow, because we have killed so much (eighteen species this century alone), and joy for the same reason. Joy that we have put down these blights. Scoured them away and left the universe clean, ready to move towards its final shape. We are a wind of progress. Ripping parasites from the material world — for if they were not parasites, we would be unable to kill them, and they would still exist. \n\nAnd what is that final shape? It is a fire without fuel, burning forever, killing death, asking a question that is its own answer, entirely itself. That is what we must become.\n\nMy worm grows fat and hungry. I feed it with whole worlds. My astronomers tell me they can sense the Deep Itself, and that we are conquering our way towards it.\n\nI think joy and sorrow will be the same thing soon. Like love and death.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700900_c6db29e859c060ee444a792c84d839f6.jpg"
+        ],
+        "image_name": ["XXIII: fire without fuel"],
+        "filename": ["700900_c6db29e859c060ee444a792c84d839f6.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700900_c6db29e859c060ee444a792c84d839f6.jpg",
+            "path": "full/ee746c835e813acba84754b7047d5878037211fe.jpg",
+            "checksum": "bba1e46f9b9a2b32b782e0bd1ecea7d7"
+          }
+        ],
+        "bookNum": 23
+      },
+      {
+        "title": "XXIV: THE SCREAM",
+        "content":
+          "NO\n\nSavathûn! Xivu Arath! My siblings\n\nWe are betrayed. We will never live eternal.\n\nOur might shatters entire species. We inhale the smoke of their burning.\n\nThis is our compact with the Worm our God —the worm makes us mighty.\n\nBut as we wield this might, our worm’s hunger expands.\n\nIf we fail to feed it, it will devour us from within.\n\nWe have exterminated three hundred and six worlds.\n\nAnd now I am certain —\n\nMy worm’s hunger grows faster than the might I draw from it.\n\nWe are bound by our covenant to obey our nature: eternal search. Eternal cunning. Eternal conquest.\n\nBut as we do this, my siblings, we feed our worms.\n\nAnd the more we feed them, the hungrier they grow. Faster and faster.\n\nSoon, my siblings, we will be so mighty, and our worms so hungry\n\nThat not with all our might could we possibly feed them.\n\nAnd we will be devoured.\n\nWHAT CAN WE DO?",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700910_b896a87692af83db2ae7c37b46034c4f.jpg"
+        ],
+        "image_name": ["XXIV: THE SCREAM"],
+        "filename": ["700910_b896a87692af83db2ae7c37b46034c4f.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700910_b896a87692af83db2ae7c37b46034c4f.jpg",
+            "path": "full/5a652f7921887a13658b896276e3ac4b82cb5d17.jpg",
+            "checksum": "111dbf45d31d82400858f21498e898f2"
+          }
+        ],
+        "bookNum": 24
+      },
+      {
+        "title": "XXV: Dictata ir Dakaua",
+        "content":
+          "Attention.\n\nPerimeter security units attend. Stand by to assimilate new imperatives. Gland sixty proof assimilation liquor, or face immediate noncompliance taxation.\n\nThe Dakaua Ministry of War is now online and true.\n\nIn Radial Year 989 groove 3 our clients in the Dakaua Nest salvaged an interstellar spacecraft. Hull isotopes date the craft’s construction 24,000 years ago, around the same time the Fundament system dropped out of contact with our Amiable Ecumene.\n\nSEMANTIC SPIKE EI—{}—~praga~\n\nMercenary explorers [disposable class] discovered an organism frozen in stasis deep within the hull. She claims to be Taox, member of a proto-Hive species. During debriefing, she provided records of the fall of Ammonite civilization and vital intelligence about the motives, biology, and leadership of the Hive.\n\nNEGATIVE REINFORCEMENT bomb.axon—{8X8}—inflict&amp;\n\nOver the past century, perimeter security units of the Ecumene Status Army have FAILED to halt Hive incursions on seventeen (17!) separate worlds. All species in the Ecumene face extinction.\n\nPOSITIVE REINFORCEMENT reward.axon—[11xvv2]—inspire%\n\nDecapitate. Defer. Promote Dakaua strategic dicta for victory against the Hive:\n\nIdentify supreme Hive leadership organisms AURASH, SATHONA, and XI RO.\n\nTarget these entities with maximum theater overkill. Caedometric release authorized.\n\nProsecute targets whenever they manifest. Hive cohesion will crumble. Total victory over the Hive will be achieved by cleansweep genocide.\n\nENACT IMPULSE—{}—~indora~vindicator",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700920_7562844eeece11b641a247ccddff2f24.jpg"
+        ],
+        "image_name": ["XXV: Dictata ir Dakaua"],
+        "filename": ["700920_7562844eeece11b641a247ccddff2f24.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700920_7562844eeece11b641a247ccddff2f24.jpg",
+            "path": "full/fd37e9122e1ce439879cc51ccf77f04b4ac41467.jpg",
+            "checksum": "cbed9acd005be1de570c11a3f602a6e1"
+          }
+        ],
+        "bookNum": 25
+      },
+      {
+        "title": "XXVI: star by star by star",
+        "content":
+          "Beneath a green fire sky, in the throne-world of King Auryx, our lords embrace.\n\nWe the Hive watch as Savathûn puts her arm around Xivu Arath, and Xivu Arath clasps forearms with Auryx, and Auryx takes Savathûn by the shoulder. They are huge, huge, and they burn with furious power. But this embrace is weakness and we despise it.\n\nNever before have we despised our lords. Have they failed us? We the Hive have been driven back, world by world.\n\n“I am at my end,” Savathûn says. “I plot and plan. But I cannot gather enough bloodshed to feed my worm. And the harder I try, the hungrier it becomes.”\n\n“I slaughter and kill,” Xivu Arath says, “but the harder I fight, the more my worm demands. I too am at my end.”\n\n“The Ecumene war angels have killed me so many times,” Auryx says, “that I dare not go out into the universe, lest I need my might to protect myself. My worm chews at my soul in hunger.”\n\nIs this the end of our crusade? Are we the Hive unworthy to exist?\n\nXivu Arath puts down her great head. “We should retire and gather our strength.”\n\nSavathûn closes her eyes in puzzled defeat. “We should beg the Worm our God to tell us what to do.”\n\nBut King Auryx, who knows best the beauty of the final shape, roars at them. “Have you learned nothing? Would you deny our purpose? Whatever we do, we will do by killing, by an act of war and might. That is the final arbiter we serve, that violent arbiter, and if we turn away from it we deserve to be eaten. No! We must obey our natures. We must be long-sighted, and cunning, and strong. We must take this gift the Worm our God has given us, this challenge, and find a way to keep existing!”\n\n“How will we feed our worms?” Xivu Arath asks.\n\n“I know,” says cunning Savathûn. “I know a way. But it won’t work unless we are killing the Ecumene by the billions. How can we beat them?”\n\n“If we cannot beat their strengths,” says Xivu Arath, “we must infect their weaknesses. But they are lords of matter and physical law.”\n\n“I know a way,” King Auryx says. “But it will require great power. More power than any one of us can claim.”\n\n“Then kill me,” says Xivu Arath, “and use that killing logic, the power you prove by killing something as mighty as me.”\n\nSo King Auryx took up his blade and beheaded Xivu Arath.\n\n“And strangle me,” says Savathûn, holding a blade behind her back. “Use that killing logic, the cunning you prove by killing something as smart as me.”\n\nBut King Auryx turned with the speed and might of Xivu Arath, and beheaded Savathûn before she could move. King Auryx was the First Navigator, with the map of death.\n\nThese were true deaths, for they happened in the sword world.\n\nThen he went to the Worm named Akka.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700930_4d3e73fe142b713ab8a88795a1df28d7.jpg"
+        ],
+        "image_name": ["XXVI: star by star by star"],
+        "filename": ["700930_4d3e73fe142b713ab8a88795a1df28d7.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700930_4d3e73fe142b713ab8a88795a1df28d7.jpg",
+            "path": "full/7a1a07bbf0adc311809fb33798dbe8ca8015043b.jpg",
+            "checksum": "5e1064d1e43e5ce4f2fb10adabf3c0d9"
+          }
+        ],
+        "bookNum": 26
+      },
+      {
+        "title": "XXVII: Eat the Sky",
+        "content":
+          "Emergency imperative.\n\nAll militarized units attend. Gland one hundred twenty proof fight or flight encoding or face certain catastrophic defeat.\n\nThe Ecumene Crisis Council is now online and true.\n\nAttention.\n\nAs of Radial 990 groove 0 the Hive has launched a staggering counterattack across the spinward frontier. Perimeter, militia, and shock fleets report total casualties. We anticipate total Ecumene disintegration/extinction within two hundred twenty years.\n\nVIGILANCE SPIKE EI—{}—~attend~\n\nThe Hive entity Oryx/Aurash is deploying a paracausal ontopathogenic weapon that infects and subverts Ecumene forces. The weapon operates on individual targets. Targets are abducted and returned as compliant Hive slaves with inexplicable and physically illegal abilities.\n\nAll Ecumene clients should IMMEDIATELY devote all economic and cognitive resources to a countermeasure.\n\nFight hard. We stop the Hive here, or see our galaxy devoured.\n\nENACT IMPULSE—{10x10}—~abayard~berserker",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700940_33f7ef9f7b619135039f73168c1d6288.jpg"
+        ],
+        "image_name": ["XXVII: Eat the Sky"],
+        "filename": ["700940_33f7ef9f7b619135039f73168c1d6288.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700940_33f7ef9f7b619135039f73168c1d6288.jpg",
+            "path": "full/968d2ea6a5b38777ac6ffdc36f49400501bf1bbb.jpg",
+            "checksum": "c0b80215ba9baec15cbd274b4810144e"
+          }
+        ],
+        "bookNum": 27
+      },
+      {
+        "title": "XXVIII: King of Shapes",
+        "content":
+          "This is the Coronation of Oryx, the Taken King. It happened thus.\n\nIn the cold abyss of the sword world, King Aurash walked under a cloak of green fire. He walked through the sky and the sky shuddered and froze beneath his feet. He walked until he found Akka, the Worm of Secrets, who was denying a truth until it became a lie.\n\n“Akka my God, Worm of Secrets. I am Auryx, sole king of the Hive. I have come to receive a secret. I want the secret power of the Deep, which you hold.”\n\n“I give no secrets,” said Akka, whose voice was code.\n\n“No,” said Auryx, “you give nothing. Giving is for the Sky. You worship the Deep, which asks that we take what we need.”\n\nAkka said nothing, because if it denied this truth, the truth might become false.\n\n“But you gave us your larvae, the worm,” said Auryx, “and that is why the worm devours us now: because it was given, not taken. So I must take what I need from you, although you are my god.”\n\nSaid Akka, “You have not the strength.”\n\nBut this was a lie. Auryx had killed Savathûn his sibling and Xivu Arath his sibling, and he had the sword logic of killing them.\n\nAuryx the First Navigator set upon his god with his sword and his words, and cut Akka to pieces, and took from those pieces the secret of calling upon the Deep. He wrote this secret on a set of tablets, which he called the Tablets of Ruin. And he wore them about his waist.\n\nThen Auryx said, “Now I may speak to the Deep, the beautiful final shape. I will be King of Shapes. I will learn all the secrets of our destiny.”\n\nHis speech to the Deep is not recorded here. But it is known that he returned, and he said, now I am Oryx, the Taken King. And I have the power to take life and make it my own.\n\nThen he went out into the universe, and fought the Ecumene with his Tablets. And the Worm his God was pleased.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700950_c6db29e859c060ee444a792c84d839f6.jpg"
+        ],
+        "image_name": ["XXVIII: King of Shapes"],
+        "filename": ["700950_c6db29e859c060ee444a792c84d839f6.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700950_c6db29e859c060ee444a792c84d839f6.jpg",
+            "path": "full/e0976aeb370b61245e61ad19e86e819c55a744b3.jpg",
+            "checksum": "bba1e46f9b9a2b32b782e0bd1ecea7d7"
+          }
+        ],
+        "bookNum": 28
+      },
+      {
+        "title": "XXIX: Carved in Ruin",
+        "content":
+          "Oryx made war on the Ecumene for a hundred years. At the end of those hundred years he killed the Ecumene Council on the Fractal Wreath, and from their blood rose Xivu Arath, saying, “I am war, and you have conjured me back with war.”\n\nOryx was glad, for he loved Xivu Arath. The Ecumene wailed in grief.\n\nThen Oryx and Xivu Arath made war on the Ecumene for forty years. At the end of those forty years Oryx said to the Dakaua Nest, listen, I am jealous of my sibling Xivu Arath, help me kill her. And in desperation they agreed.\n\nBut he drove the Dakaua Nest into a trap, and they were made extinct. From their ashes rose cunning Savathûn, saying, “I am trickery, and you have conjured me back with trickery.”\n\nOryx was glad, for he loved Savathûn. The Ecumene fled into the void.\n\nThen they made war on the Ecumene for a thousand years, and exterminated them so wholly that nowhere except in this book are they remembered. This book and the mind of Taox, who was not found.\n\nAnd Savathûn said, “King Oryx, how will we feed our worms? Did you use my plan?”\n\nOryx told the Hive: I am the Taken King, and here is my law.\n\nYou Thrall, each of you will claw and scream, and kill what you can. Take enough killing to feed your worm, and a little more to grow. Tithe the rest to the Acolyte who commands you.\n\nYou Acolytes, lead your Thrall in battle. Take enough killing to feed your worm, and a little more to grow, and take the tithe of the Thrall you lead. Then tithe the remainder to the Knight or Wizard who commands you. Thus you pay tribute.\n\nYou Knights and Wizards, lead your followers in battle. Take enough devastation to feed your worm, and a little more to grow, and take the tithe of your followers. Then take another portion, as much as you dare, and use it for your own purposes. But if it is too much, your peers will kill you and take it. Then tithe the remainder to the Ascendant you serve.\n\nAn Ascendant will be those among the Hive who gather enough tribute to enter the netherworld. They will pay a tithe to those above them.\n\nAnd thus the tribute will flow, up the chain, so that Savathûn and Xivu Arath and myself will be fed by a great river of tribute, and we will use that excess to feed our gods, and to study the Deep. Thus all worms will be fed — as long as we continue our crusade.\n\nThis is my law. I carve it thus, in ruin. Aiat.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700960_b896a87692af83db2ae7c37b46034c4f.jpg"
+        ],
+        "image_name": ["XXIX: Carved in Ruin"],
+        "filename": ["700960_b896a87692af83db2ae7c37b46034c4f.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700960_b896a87692af83db2ae7c37b46034c4f.jpg",
+            "path": "full/7778046d8dfabafbf801ed91fe3588bbd5de259f.jpg",
+            "checksum": "111dbf45d31d82400858f21498e898f2"
+          }
+        ],
+        "bookNum": 29
+      },
+      {
+        "title": "XXX: a golden amputation",
+        "content":
+          "Wrath!\n\nBehold the wrath of Oryx, coiled for ten thousand years. Behold the Golden Amputation: the fall of Taishibeth, the end of an age. We beat the worlds of Taishibeth like skull drums and we howl in joy for our black war moons as they ram silver orbitals and gleaming star-webs, where infant Taishibethi sun ravens curl and die unborn.\n\nIn his throne world Oryx paces ten times.\n\nOn the first pace, Kraghoor sends the accursed to blight the Taishibethi worlds.\n\nOn the second pace, the Tai unleash their battleplates and arsenal ships to fight our moons.\n\nOn the third pace, Oryx’s Warpriest meets them in battle, and he is victorious, he paints the void with fire, he salts the earth with ash.\n\nOn the fourth pace, Mengoor and Cra’adug, dyad knights, go to the Raven Bridge, and they stand on it and kill the Tai for ten years.\n\nOn the fifth pace, the Tai Emperor Raven comes home to her Bridge, and she cuts a moon with her talons, she cuts it open and kills its brood.\n\nOn the sixth pace, Oryx speaks, saying, listen to me, Emperor Raven, and I will describe to you the Last True Shape, which is written on my tablet. And he puts out his fist, full of black fire, and he swallows up the Emperor Raven with a wound.\n\nAiat! Only Oryx knows this power, the power to take.\n\nOn the seventh pace, the Perfect Raven comes out of Oryx’s wound, and she spreads her wings across Taishibeth. Never again is a Taishibethi child born. She is perfect, she enacts the will of Oryx.\n\nOn the eighth pace, the Tai say, listen, you are spoilers, you are sphincters and excreta, you rot, why do you kill? We made silver orbitals and golden star webs. We hatched eggs. We had a good thing. Our clothes were nice, our food was famous. With one of her feathers our Emperor could have tickled the gods.\n\nOn the ninth pace, Oryx says, this is the only god, this ability to dictate what will and will not exist, this power to go on existing. This is your god. It is never ticklish.\n\nOn the tenth pace the Taishibethi are extinct.\n\nThen Oryx says, listen my siblings, do you know what we have done? We have conquered our way to the edge of the Deep. It whispers to me when I call on it, and it guides my flight. It says that we are at its threshold and that I should come inside.\n\nI will go and speak to it.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700970_bab3f320e07cf3b6d5a1fa9e3e3b8286.jpg"
+        ],
+        "image_name": ["XXX: a golden amputation"],
+        "filename": ["700970_bab3f320e07cf3b6d5a1fa9e3e3b8286.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700970_bab3f320e07cf3b6d5a1fa9e3e3b8286.jpg",
+            "path": "full/108e15cda8261587f8724548ce566f7d64888395.jpg",
+            "checksum": "3fd78e098c732786ce7261faa1da3285"
+          }
+        ],
+        "bookNum": 30
+      },
+      {
+        "title": "XXXI: battle made waves",
+        "content":
+          "Oryx went down into his throne world. He went out into the abyss, and with each step he read one of his tablets, so that they became like stones beneath his feet.\n\nHe went out and he created an altar and he prepared an unborn ogre. He called on the Deep, saying:\n\nI can see you in the sky. You are the waves, which are battles, and the battles are the waves. Come into this vessel I have prepared for you.\n\nAnd it arrived, the Deep Itself.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700980_4c91f81d2653651c5bd5e9355ad368bb.jpg"
+        ],
+        "image_name": ["XXXI: battle made waves"],
+        "filename": ["700980_4c91f81d2653651c5bd5e9355ad368bb.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700980_4c91f81d2653651c5bd5e9355ad368bb.jpg",
+            "path": "full/1a6f336e7af721b3fa289bf57d283208ed4aeb3f.jpg",
+            "checksum": "1c3a47c1f5adbc5d9ceb1e1207389eb7"
+          }
+        ],
+        "bookNum": 31
+      },
+      {
+        "title": "XXXII: Majestic. Majestic.",
+        "content":
+          "Oryx, my King, my friend. Kick back. Relax. Shrug off that armor, set down that blade. Roll your burdened shoulders and let down your guard. This is a place of life, a place of peace.\n\nOut in the world we ask a simple, true question. A question like, can I kill you, can I rip your world apart? Tell me the truth. For if I don’t ask, someone will ask it of me.\n\nAnd they call us evil. Evil! Evil means ‘socially maladaptive.’ We are adaptiveness itself.\n\nAh, Oryx, how do we explain it to them? The world is not built on the laws they love. Not on friendship, but on mutual interest. Not on peace, but on victory by any means. The universe is run by extinction, by extermination, by gamma-ray bursts burning up a thousand garden worlds, by howling singularities eating up infant suns. And if life is to live, if anything is to survive through the end of all things, it will live not by the smile but by the sword, not in a soft place but in a hard hell, not in the rotting bog of artificial paradise but in the cold hard self-verifying truth of that one ultimate arbiter, the only judge, the power that is its own metric and its own source—existence, at any cost. Strip away the lies and truces and delaying tactics they call ‘civilization’ and this is what remains, this beautiful shape.\n\nThe fate of everything is made like this, in the collision, the test of one praxis against another. This is how the world changes: one way meets a second way, and they discharge their weapons, they exchange their words and markets, they contest and in doing so they petition each other for the right to go on being something, instead of nothing. This is the universe figuring out what it should be in the end.\n\nAnd it is majestic. Majestic. It is the only thing that can be true in and of itself.\n\nAnd it is what I am.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700990_a20f3986c35df9db77abb7cbcafdb725.jpg"
+        ],
+        "image_name": ["XXXII: Majestic. Majestic."],
+        "filename": ["700990_a20f3986c35df9db77abb7cbcafdb725.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700990_a20f3986c35df9db77abb7cbcafdb725.jpg",
+            "path": "full/b7a5d911a3d1e84d12dee5b05dec29b55d788755.jpg",
+            "checksum": "1f5dcb7dcaf60737212aa444635028d1"
+          }
+        ],
+        "bookNum": 32
+      },
+      {
+        "title": "XXXIII: When do monsters have dreams",
+        "content":
+          "I’m walking down the road, I’m going to the orrery to talk to my dad, and I hear, well, I hear this noise, so I look back. And my sisters are behind me, and they’re ripping up the road. They’ve got these huge swords, execution swords, and they’re levering the stones out of the road. The stones are covered in writing. They’re like tablets. And there’s dirt underneath full of worms.\n\nI need to get to the orrery before they catch up to me so I start running but right away someone trips me, it’s my dad, he’s got his foot out and he grabs me by the horns and just slams me down on my face. I’m in so much pain I nearly throw up a worm.\n\n“Why weren’t you ready for this,” dad says. He’s wearing glare goggles, those shiny goggles that he’d use to save his vision during lightning storms or sea fire. All three of his eyes reflect me. “Didn’t you know they’d be jealous, because they couldn’t come to the orrery and talk to me? Didn’t you know they’d move against you??”\n\nI start wailing like I’m two days old again and I say, Dad, I thought you were my friend, I’m supposed to be safe here. But he just puts out his fist and I realize he’s laughing at me for believing him, why did I think I’d be safe? In his fist he’s got a black sun and he holds me by the throat and goes to tip the black sun inside me.\n\nI can see my jaws in his goggles, three reflections of my jaws with so many teeth.\n\nSo I start eating my dad. I bite huge pieces out of him and I claw him up. I eat his legs and I eat his arms and I eat his goggles and his eyes and he says, good, good, this is majestic and true.\n\nBut my sisters are still tearing up the road so I don’t know how to get back.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701000_657d96f432120b757ee38b38d6cc1bfe.jpg"
+        ],
+        "image_name": ["XXXIII: When do monsters have dreams"],
+        "filename": ["701000_657d96f432120b757ee38b38d6cc1bfe.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701000_657d96f432120b757ee38b38d6cc1bfe.jpg",
+            "path": "full/1a95e75461ac459aba70ac5a2d14f1ab83ac8a3d.jpg",
+            "checksum": "1e45835e042672687a65497ea52a1b05"
+          }
+        ],
+        "bookNum": 33
+      },
+      {
+        "title": "XXXIV: More beautiful to know",
+        "content":
+          "Sometimes I wonder if I’m a nihilist.\n\nI don’t do much except break things. That’s what they say about me: we could’ve had a great civilization, if it weren’t for that damn Oryx, that damn Hive. They don’t believe in anything but death.\n\nThe only way to make something good is to make something that can’t be broken. And the only way to do that is to try to break everything.\n\nI’m glad I learned that the universe runs on death. It’s more beautiful to know.\n\nBut I’m lost somewhere strange.\n\nI think that Savathûn and Xivu Arath are trying to steal the tablets from me. They must have cut off my tribute while I was away communing with the Deep. I love them so dearly. No one else is clever or strong enough to try to break me. No one else can give me this gift.\n\nOnce, long ago, I killed Xivu Arath on her war moon, and she blew up the whole moon to kill with me her. She was laughing in joy. I laughed too. A whole moon! A whole moon. It was a waste of a moon, but it taught me how to save myself from exploding worlds, which was necessary to fight the Ecumene.\n\nI love mighty Xivu more than a moon loves the tide. I’ll kill her for this. Over and over, forever and ever.\n\nWhen I get home from my wanderings in the Deep, and I take back my throne, I’m going to have children. That’s what I need.\n\nSons and daughters to love and kill.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701010_0ed7eacaf7b0aa6e2f94c4e1198b4f77.jpg"
+        ],
+        "image_name": ["XXXIV: More beautiful to know"],
+        "filename": ["701010_0ed7eacaf7b0aa6e2f94c4e1198b4f77.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701010_0ed7eacaf7b0aa6e2f94c4e1198b4f77.jpg",
+            "path": "full/7ceef84f2f84ea73fb369e2bb701b135a4440b72.jpg",
+            "checksum": "9426614426fa4c1dd26b4d71be2d598e"
+          }
+        ],
+        "bookNum": 34
+      },
+      {
+        "title": "XXXV: This Love Is War",
+        "content":
+          "Xivu upon Oryx —\n\nUttered by Xivu Arath —\n\nSibling of Oryx —\n\nBETRAYAL. We have marooned Oryx within the Deep. This is our obligation as lords of the Hive, to make war upon each other, to eradicate weakness and make ourselves sharp.\n\nOBLIGATIONS. Once, I permitted Oryx to kill me so that he could gain the sword logic and overcome Akka our God. This left me trapped deep in my throne. But Oryx my brother made war upon the Ecumene and in that war he described me, for I too am war. Thus I was resurrected.\n\nRESURRECTION. Savathûn and I conspired to strand Oryx on his expedition. But I secretly believe that I will be stronger with Oryx to war against. Thus I describe him.\n\nA DESCRIPTION OF ORYX.\n\nWhen Oryx looks upon you, you feel that you may vanish if he looks away.\n\nThe crest of Oryx’s skull is as long as an arm. In the course of its life, a thought moves from one end to the other. Upon his crest I have painted a line in my blood, so that he will remember me.\n\nEach of Oryx’s fangs has the precision of a finger and the acuity of an eye.\n\nAlthough he was born at the bottom of the universe, and taught to burrow, Oryx has grown wings. The light of wildfire shines through them. Oryx teaches but he will not be taught.\n\nOryx’s body is corded with strength. His sinews and his muscles are as strong as his children, and his children are the strength of him.\n\nOryx wears a raiment of worm silk, made from the caul of gods.\n\nThe voice of Oryx may cause two different numbers to become equal.\n\nOryx my Brother is the bravest thing I know. Upon Fundament he learned that we were the natural prey of the universe, the most frail and desperate of things. He thought about this carefully and he found a way to fix it. He made us strong. He will lead us into eternity.\n\nOryx my Brother loves me and this love is war.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701020_2a074312979788e0f69018905b3f9755.jpg"
+        ],
+        "image_name": ["XXXV: This Love Is War"],
+        "filename": ["701020_2a074312979788e0f69018905b3f9755.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701020_2a074312979788e0f69018905b3f9755.jpg",
+            "path": "full/a94da56b32431f2574cf2ebf837f7475a02f7dfb.jpg",
+            "checksum": "cdc89b7ac3fbd5a0f0ddb24c61226244"
+          }
+        ],
+        "bookNum": 35
+      },
+      {
+        "title": "XXXVI: Eater of Hope",
+        "content":
+          "You are Crota, my son. Welcome.\n\nI fought my way out of hell to make you. I fought my traitor siblings and I fought the swarming corpse of Akka and I cut my way back into my own court, the High War, which had been usurped. Once I had made war on Savathûn, and crippled her tribute so that she could never challenge me, and once I had tricked Xivu Arath, and poisoned her tribute so that she could never again try to take my tablets, and once I had arranged my own lineages so that I would be greatest among the Hive and secure on my throne — then I found a mother to make spawn.\n\nOne of those spawn was you.\n\nYour life will be a battle too. You will have to win your place at the High War. I will give you nothing... except this, your first sword, and this name I have prepared for you.\n\nWe fight a war against false hope, Crota. We chase a god called the Traveler, a huckster god who baits young life into building houses for it. These houses are unsafe, for they cannot stand against my Hive. And these houses are a trap — for they lead young life away from the blade and the tooth, which are the tools of survival and the means of ascension.\n\nOnly when the Traveler is extinguished will the universe be free to arrange itself, and assume, by ruthless contest, its final perfect shape, a shape which depends on nothing but itself.\n\nThus I name you Crota, Eater of Hope.\n\nThere is an oath upon me, Crota my son, an oath against the wretched Taox. This I do not give to you. It is for me, your father, to bear.\n\nLet’s go meet your aunts and uncles.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701030_c733b5cf2cb7f1b5f3a7c98f9ec47a9f.jpg"
+        ],
+        "image_name": ["XXXVI: Eater of Hope"],
+        "filename": ["701030_c733b5cf2cb7f1b5f3a7c98f9ec47a9f.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701030_c733b5cf2cb7f1b5f3a7c98f9ec47a9f.jpg",
+            "path": "full/d3b2524c0f32244c20b09c77a519e41add5ea2cd.jpg",
+            "checksum": "4d339df5fbba5d6fa65f56f279bf9e01"
+          }
+        ],
+        "bookNum": 36
+      },
+      {
+        "title": "XXXVII: shapes : points",
+        "content":
+          "Look at you!\n\nAlready you are grown, my daughter, already you are a wizard. Have I been away so long? Now you are Ir Anûk, and Savathûn cackles and rages at your brilliance. You have written eleven axioms describing the ascendant places, our throne world. You have announced that you will kill one of these axioms, as Akka would kill the truth, and in mantling Akka you will become a God, as I am.\n\nIf you try it I may kill you, or I may applaud. Well done. I brought you this bitter acid for your celebrations.\n\nAnd you, Ir Halak, you are a wizard too, as is the way of twins. I have been with Xivu Arath, who complains that you have made a song, and sung it in her throne world, and killed everyone who listened, quite irrevocably. Will we have songs instead of swords and boomers?\n\nWhat have you made for me? It is a tooth shaped like death! I will keep it in my mouth. What have you written for me? It is the course of the Nicha Thought-ship! I will track it down.\n\nI made you by cutting one larvae in half. It would not die. Each half grew into one of you. My sword is named Willbreaker, but it never broke you.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701040_5f8e79f7209d28628b7e4a520345f564.jpg"
+        ],
+        "image_name": ["XXXVII: shapes : points"],
+        "filename": ["701040_5f8e79f7209d28628b7e4a520345f564.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701040_5f8e79f7209d28628b7e4a520345f564.jpg",
+            "path": "full/9e3cdb131e07cf78d95b29dae593e3d807a40717.jpg",
+            "checksum": "1879d2f055e873c84ac12725f0dad67e"
+          }
+        ],
+        "bookNum": 37
+      },
+      {
+        "title": "XXXVIII: The partition of death",
+        "content":
+          "One day Oryx decided to grow new wings. While he wrestled with his worm, he came upon his twin daughters dying in a wound between places.\n\n“What are you doing, my daughters?” he asked. He was afraid that Ir Halak and Ir Anûk were trying to go into the Deep, where only the Tablets of Ruin allowed Oryx to go.\n\n“We are dying, father,” they said. “As many times as we can manage.”\n\n“That’s adorably precocious.” Oryx shook out his new wings. “But why?”\n\n“We propose a method by which Ascendant souls can be detached and integrated into a tautological and autonomous thanatosphere, which we tentatively term an oversoul. Oversouls can be stored in a throne world as a mechanism of enhanced death resilience. As a side effect, new refinements to our Deathsong may be achieved, moving us closer to a generally effective paracausal death impulse.”\n\nOryx brandished his sword. “Speak the Royal Tongue, or I’ll pin you up for Eir to eat.”\n\n“If we can separate our deaths from ourselves, and hide them, we will be hard to kill.”\n\nOryx went to his son, Crota. “Go keep an eye on your sisters,” he said. “'You can learn cunning from them.”\n\nBut while Oryx traveled to observe the Deep destroy an ancient fortress world, Crota conspired with his sisters to learn their secrets. “I too will experiment with a wound,” he said. With his sword Crota cut open a new wound, into a new space. In here he thought he might obtain a secret power.\n\nOut of this wound came machines called Vex. They invaded Oryx’s throne world.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701050_5d1fbad7ed8570c2fb79f406a182b8a7.jpg"
+        ],
+        "image_name": ["XXXVIII: The partition of death"],
+        "filename": ["701050_5d1fbad7ed8570c2fb79f406a182b8a7.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701050_5d1fbad7ed8570c2fb79f406a182b8a7.jpg",
+            "path": "full/62e7f06b71aa4e76c65625ce0a26061b348de779.jpg",
+            "checksum": "15b9339ab255645d419cd72e238f58ea"
+          }
+        ],
+        "bookNum": 38
+      },
+      {
+        "title": "XXXIX: open your eye : go into it",
+        "content":
+          "The Vex clattered around, constructing large problems. At first their constructions were deranged, because they didn’t understand the sword logic, which defined all rules in Oryx’s throne world. The geometry perplexed them.\n\n“I’ll cut them apart,” Crota said. But just then, the Vex ritual-of-better-thoughts manifested a Mind called Quria, Blade Transform. Quria deduced the sword logic.\n\nI have to kill everything, Quria resolved. Then I will be powerful.\n\nCrota’s gate began to emit warrior Vex, huge and brassy. He leapt forward to fight them, but they blinked away. After they fled from Crota, they killed two thousand of Oryx’s Acolytes and ten thousand of his Thrall. Soon they had established themselves as powers in this world, by right of slaughter.\n\n“Come forth, sister wizards,” called Ir Halak. “We need you.” Ir Anûk pulled a sword star out of the sky. Together the wizards charged it with killing power and made an annihilator totem, which they used to smash the Vex.\n\n“Close the wound, brother Crota,” Anûk ordered. “We will find a cunning way to destroy them, but only after they stop constructing problems on us.”\n\nBut Quria had instanced itself to the other side of the gate, and built a holdfast to keep the way open. Quria’s objective was to exploit the paracausal physics of Oryx’s throne to become divine. It organized a series of test invasions.\n\nFor a hundred years of local time the siblings fought the Vex. When the Vex came into the sword world, they were inevitably annihilated, but when the Hive went into the Vex world, they lost too much of their power to win.\n\n“Father’s going to eat our souls,” Halak sighed.\n\nQuria captured some worm larvae and began experimenting with them. Soon Quria, Blade Transform manifested religious tactics. By directing worship at the worms, Quria learned it could alter reality with mild ontopathogenic effects. Being an efficient machine, Quria manufactured a priesthood and ordered all its subminds to believe in worship. Then it set about abducting and killing dangerous organisms so it could bootstrap itself to Hive godhood. For some Vex reason, Quria never attempted to introduce worm larvae into its mind fluid.\n\nSavathûn was laughing, because she had tricked Crota into cutting that place.\n\nThis drew the attention of the Worm our God. ORYX, called Eir. SET YOUR HOUSE IN ORDER.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701060_4ed755b734c74acd10ecb091094f08d1.jpg"
+        ],
+        "image_name": ["XXXIX: open your eye : go into it"],
+        "filename": ["701060_4ed755b734c74acd10ecb091094f08d1.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701060_4ed755b734c74acd10ecb091094f08d1.jpg",
+            "path": "full/e49501d958371de0a7008d2d6b10af293812973b.jpg",
+            "checksum": "2a4260009af02103cd2f51bf95490687"
+          }
+        ],
+        "bookNum": 39
+      },
+      {
+        "title": "XL: An Emperor For All Outcomes",
+        "content":
+          "Oryx rushed home and read from the Tablets of Ruin. He put some of the Vex into wounds, to be taken by the power of the Deep. Thus he turned the Vex against each other. Quria manifested a range of tactics, but none of them were adaptive. Oryx crushed all the Vex in his throne.\n\nOryx thought that he should study geometry, like the Vex. It was the map of perfect shapes. But first he had to punish imperfection.\n\n“My son,” he said, “this is your punishment. Come home glorious, or die forgotten!” He picked up Crota by the legs and threw him into the Vex gate network.\n\nCrota battled through history, becoming a legendary demon. In his early centuries he often spared a few victims to hear oaths and protests against his father. Later, he came to understand Oryx, and he made temples and monuments wherever he went.\n\nMeanwhile, Oryx brooded on the Vex. “I’ve met a worthy rival,” he said. “They want to exist forever, just as I do. But I don’t understand them.”\n\nAt this his worm began to chew on him, for he was bound to understand. \n\nHe called Savathûn to meet in the material world. She told him that the Vex worked tirelessly to understand everything, so that they could build a victory condition for every possible end state of the universe.\n\n“Then I must be a better king,” Oryx said. “If they want to build an emperor for all outcomes, then I will be the king of only one. I will follow the Deep wherever it goes, and document its power. Let us create a catalog of the grave of worlds, which will be our map to victory.”\n\nOryx knew that all life could be described as cellular automata, except for that life which understood the Deep or the Sky, and thus escaped causality.\n\nOut of love for her brother, which was the same as the desire to kill him, Savathûn leaked a secret to Xivu Arath — ‘listen, Xivu, Oryx’s throne world has been compromised. You can cut your way in from here.’ Xivu Arath used this to plan an ambush.\n\nBut Oryx was too canny. The Taken King said to his Court, the High War, “My throne world is vulnerable. I am going to move it.”\n\n‘Where?’ asked Kagoor, World-Render.\n\n“Into a mighty dreadnaught,” said Oryx. “I shall keep my glorious mind cosmos inside a titanic warship.”",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701070_327c31e71c817a6dceee67d7c4d83d75.jpg"
+        ],
+        "image_name": ["XL: An Emperor For All Outcomes"],
+        "filename": ["701070_327c31e71c817a6dceee67d7c4d83d75.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701070_327c31e71c817a6dceee67d7c4d83d75.jpg",
+            "path": "full/e6cbfdb2a5214d310f34bb7cd17637b2d68b115a.jpg",
+            "checksum": "fc38c1fc41d5480b9de5c17bb0d48df3"
+          }
+        ],
+        "bookNum": 40
+      },
+      {
+        "title": "XLI: Dreadnaught",
+        "content":
+          "To make his ship, Oryx scrimshawed one piece of Akka, who was dead but far from gone. He stole the Hammer of Xivu Arath and the Scalpel of Savathûn and he armored his ship in baneful armor.\n\nWhen Oryx had built his Dreadnaught, he pushed his throne world inside out, so that it bled into the material space of the Dreadnaught. They were coterminous and allied, his ship and his sin. The Dreadnaught was within the throne of Oryx, but the throne of Oryx was the Dreadnaught. Aiat!\n\nThis required a verse from the Tablets of Ruin. The whole Court worked together to push Oryx’s throne inside out. This was a day of joyous violence, and all of Oryx’s broods mark this holiday as Eversion Day, which is celebrated by turning things inside out.\n\nSayeth Oryx,\n\nGo out into the universe, my court\n\nGather tribute for me. Send it home to my ship.\n\nWhen I call you, walk up that tribute to my court.\n\nI will prepare for long voyages — [I am Savathûn, insidious]\n\nInto the war — [I graffiti this notice for you]\n\nInto the Deep — [These Books are full of lies!]\n\nNow Oryx’s throne was safe from incursion, because it moved so nimbly.\n\nOryx attacked the Harmonious Flotilla Invincible, who guarded the Nicha Thought-ship. When the Flotilla surrounded his Dreadnaught, Oryx put his sword into the hull, and he used the power of the Deep (and the clever systems his daughters built) to push his throne-world out into mere reality.\n\nBy wrath and confidence he filled space with an egg of his throne. It swelled up like a ghost star to smash the Harmonious Flotilla Invincible. Oryx broke the last word off their name.\n\nIn the Nicha Thought-ship, Oryx hoped to find the location of the Gift Mast, which had been left behind by the Traveler. Oryx wanted to eat it.\n\nBut the Thought-ship was a trap. Upon it was Quria, Blade Transform.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701080_c733b5cf2cb7f1b5f3a7c98f9ec47a9f.jpg"
+        ],
+        "image_name": ["XLI: Dreadnaught"],
+        "filename": ["701080_c733b5cf2cb7f1b5f3a7c98f9ec47a9f.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701080_c733b5cf2cb7f1b5f3a7c98f9ec47a9f.jpg",
+            "path": "full/4c9b43e3b0a314ea6c35b7cbbe4d984c0fbe4b96.jpg",
+            "checksum": "4d339df5fbba5d6fa65f56f279bf9e01"
+          }
+        ],
+        "bookNum": 41
+      },
+      {
+        "title": "XLII: <>|<>|<>",
+        "content":
+          "&lt;interdict&gt;|&lt;simulate&gt;|&lt;worship&gt;\n\nI am going to kill you. I am going to salt my meat with your briny little thoughts. I am going to cook flesh on your broken, molten hull.\n\n&lt;insinuate&gt;|&lt;subvert&gt;|&lt;replicate&gt;\n\nThis ship is my throne. You want to take it from me. You want to fill it up with your own spawn and use it for your abstract purposes. But I defy you.\n\n&lt;observe&gt;!&lt;imitate&gt;!&lt;usurp&gt;\n\nYou will never be what I am. Simulate me, wretch. Calculate the permutations of my divinity. Compute the death in the shape of my throne. Render my shadow on the stone of ten thousand graveyard worlds! It will never be enough. I hold the Tablets of Ruin. I speak to the Deep. Not with a galaxy of thinking matter could you encompass me. Behold!\n\n&lt;unknown&gt;|&lt;enigma&gt;|&lt;shortfall&gt;\n\n&lt;abort&gt;!&lt;halt&gt;!&lt;abort&gt;",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701090_f10b6551044f69c63feb6a4b03911036.jpg"
+        ],
+        "image_name": ["XLII: <>|<>|<>"],
+        "filename": ["701090_f10b6551044f69c63feb6a4b03911036.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701090_f10b6551044f69c63feb6a4b03911036.jpg",
+            "path": "full/d0217bc1b7e5e252f0b13b5f87cb7c7f4b0f2529.jpg",
+            "checksum": "8f3defd6f232ddbc4780229c69547133"
+          }
+        ],
+        "bookNum": 42
+      },
+      {
+        "title": "XLIII: End of Failed Timeline",
+        "content":
+          "By now, Quria knows it can’t win.\n\nThere’s something pathological about the world inside Oryx’s ship. It resists analysis with hot, dead spite. And Oryx himself, he’s irreducible — he refuses to obey Quria’s simulations, he crashes around sowing chaos, he grabs subminds and compromises them with some kind of ontological weapon. Paracausal systems. Very problematic.\n\nQuria’s trying the religious tactics it evolved in the Hive manifold. But even on those terms, Oryx is strong, so strong. Quria won’t be able to protect its gates much longer.\n\nThe closest Quria’s got to a simulation of Oryx is a best-guess bootstrap. It’s wrong — Quria’s sure of that, it’s Oryx minus the symbiote organism, minus the wings and morphs, minus the weapon, minus the power. No good for anything.\n\nQuria manifests that simulation anyway. Just to see what happens.\n\nThe Taken King marches on Quria’s Hydra-hull, armed with blade and magic, cloaked in ancient cloth, and the universe wails in horror around him. Quria’s physics models and toy worlds choke and crash.\n\nQuria observes, alert and attentive, as a single quark splits on the tip of Oryx’s sword.\n\nFrom within the Hydra-hull, Quria’s tiny not-Oryx speaks. “What are you?” it says. It’s manifesting terror and awe.\n\nOryx’s eyes blaze with a curiosity that is entirely isomorphic with hate, with voracious hunger. “Aurash,” he says, in his Hive language. “You’ve made me as I was. You’ve made a tiny Aurash. Ha!”\n\nQuria updates the simulation’s name. Aurash is curious: “You’re me? You’re me as I become?”\n\nOryx kneels. His blade is on his left shoulder. Quria is firing every available weapon at him, but his wards don’t break. He looks into Quria’s sensors through the hammering fire and he says, “Child, I have everything you wanted. I am immortal. I know the great secrets of the universe. I have scouted the edges of the Darkness and I have chased the lying god down galactic arms in a howling pack of moons. In my fist I carry the secret power that will rule eternity. In my worm I bear the tribute of my Court and of my children, the Hope-Eater, the Weaver, and the Unraveler; and with this tribute I smash my foes. I am Oryx, the Taken King. I am almighty.”\n\nQuria samples the Taox intelligence retrieved from the Ecumene gate. There are useful names. It feeds them to the simulation.\n\n“What about your sisters?” Aurash asks his future self. “Sathona? Xi Ro? Are they with you?”\n\nThe Taken King’s fangs glint. That sound might be a laugh, or a hiss.\n\nQuria shuts down its weapons and puts all its spare resources into sending telemetry to the greater Vex. There will be points in space and time where this data is vital. There will be great projects undertaken in the study of this ontological power, this throne-space.\n\n“Where are my sisters?” Aurash shouts. “What have you done with my people? What have you done?”\n\nBut Oryx’s fist is full of black fire, and the next thing Quria sees is a light like stars.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701100_ea038dab7a94cd664d9d6d6f91774cf5.jpg"
+        ],
+        "image_name": ["XLIII: End of Failed Timeline"],
+        "filename": ["701100_ea038dab7a94cd664d9d6d6f91774cf5.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701100_ea038dab7a94cd664d9d6d6f91774cf5.jpg",
+            "path": "full/97fe6137745da71d4057455f802fd9c51e89fd8f.jpg",
+            "checksum": "70fd913d2c89e4617cf764dc5c395c33"
+          }
+        ],
+        "bookNum": 43
+      },
+      {
+        "title": "XLIV: strict proof eternal",
+        "content":
+          "“I have a gift for you,” says Oryx.\n\nSavathûn, Witch-Queen, looks at him with dry wariness. “Is it the sword logic I need to go into the Deep, and take your power for myself?”\n\nTheir echoes move among the war-moons, walking together on the hull of a two-thousand-year-old warship. Savathûn’s fleet has assembled here, in preparation for an assault on the Gift Mast. The Deep is headed that way, on the trail of its prey, and the Hive will be its vanguard.\n\n“It’s a Vex I captured. Quria, Blade Transform. It made an attempt to puncture my throne. I thought you might enjoy studying it.” Oryx pauses, digesting — through the bond of lineage he can feel Crota killing, worlds and worlds away, and it tastes like sweet fat. “Quria contains a Vex attempt to simulate me. It might generate others — you, perhaps, or Xivu Arath. I’ve left it some will of its own, so it can surprise you.”\n\n“I suppose it’ll blow up and kill me,” Savathûn grouses. “Or let the machines into my throne, where they’ll start turning everything into clocks and glass.”\n\n“If it kills you, then you deserve to die.” Oryx says it with a quiet thrill, a happy thrill, because it is good to say the truth.\n\n“I don’t have a strict proof yet, you know.” Savathûn strokes the void with one long claw and space-time groans beneath her touch. “This thing we believe — that we’re liberating the universe by devouring it, that we’re cutting out the rot, that we’re on course to join the final shape — I haven’t found a strict, eternal proof. We might yet be wrong.”\n\nOryx looks at her and for a moment, just a moment, he is nostalgic, he is sentimental. He thinks, imagine the years behind us, the things we’ve done. And yet being old doesn’t feel like a scar, does it? It hasn’t left me dull. I feel alive, alive with you, and every time I step back into this world from my throne I feel like I’m two years old again, at the bottom of the universe, looking up.\n\nBut he says, “Sister, it’s us. We’re the proof, we the Hive: if we last forever, we prove it, and if something more ruthless conquers us, then the proof is sealed.”\n\nShe looks back at him with eyes like hot needles. “I like that,” she says. “That’s elegant.” Although of course she has had this thought before.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701110_05dc42f1027f11f0b69b025ef5466867.jpg"
+        ],
+        "image_name": ["XLIV: strict proof eternal"],
+        "filename": ["701110_05dc42f1027f11f0b69b025ef5466867.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701110_05dc42f1027f11f0b69b025ef5466867.jpg",
+            "path": "full/5fed2e2eaf8c670f24dc493d40cea870cabf0d9d.jpg",
+            "checksum": "da2396cced659e7982f224138fe386a0"
+          }
+        ],
+        "bookNum": 44
+      },
+      {
+        "title": "XLV: I'd shut them all in cells.",
+        "content":
+          "Prey and Sacrifice —\n\nUttered by Xivu Arath —\n\nGod of War —\n\nHARMONY. When the Traveler passed across Harmony, it lied to the orbits of ten worlds. Now they orbit the black hole. The Traveler lied to the accretion disc, so that it would give warm light to these worlds.\n\nTHE GIFT MAST. When the Traveler left Harmony, it made a monument out of the black hole’s polar jet. In the jet there is a hollow mast which sings in radiance. This is the Gift Mast and we will devour it, we will eat the Sky out of it, we will snap it like a bone.\n\nTHE HARMONY STING. The Harmony have weaponized their dead star. They can stimulate the accretion disc to fire relativistic plasma jets. We will take the Sting. We will use it to burn their worlds. I will grant one temple of tribute to the first Ascendant to kill a world!\n\nORYX. I will have the Gift Mast to feast on! I will have it first! I am Xivu Arath and all war is my temple. Beware the daughters of Oryx, for they make and unmake with ease.\n\nSAVATHÛN. The Deceitful Sister will be distracted by arcana and the song of the black hole. Treat her broods with contempt.\n\nTHE TRAVELER. We chase it and we will devour it. The Deep will rule the cosmos.\n\nTHE DRAGONS. Our gods should be ours alone. Their smug freedom is an insult to me. I’d shut them all in cells. Bring them to me!",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701120_fd5832361893827e277ec5b678ce6b22.jpg"
+        ],
+        "image_name": ["XLV: I'd shut them all in cells."],
+        "filename": ["701120_fd5832361893827e277ec5b678ce6b22.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701120_fd5832361893827e277ec5b678ce6b22.jpg",
+            "path": "full/0c2b31b7368d0482ece411e75d8c45c535b9cddb.jpg",
+            "checksum": "b735cc1e0954625f95d2f38486c06122"
+          }
+        ],
+        "bookNum": 45
+      },
+      {
+        "title": "XLVI: The Gift Mast",
+        "content":
+          "The Gift Mast!\n\nIt towers above this star system like a monument to treason. It beams with silver light. It sings a radio lullaby, made of soothing lies.\n\nIn its light live the Harmony, and they are now our prey.\n\nNow arrives Xivu Arath, at the head of her armada. She fights the Harmony for fifty years with strategies and discipline. But the Harmony turn to dragon-wishes, and their wishful bishops wrestle Xivu in the ascendant plane.\n\nXivu falls into deadlock.\n\nNext arrives Savathûn, flanked by her chorus and her celebrants. They trick their way onto Ana-Harmony in disguises, so that they might vivisect these dragons. The Worm our God laughs and laughs.\n\nFor a hundred years Savathûn keeps secret covens among the Harmony.\n\nBut first of all was Oryx, whose brood grew in secret places in the rubble of the accretion disc. The First Navigator sends rocks and comets to crash into the Harmony worlds, so that the Harmony fleet will be disarrayed. He sends seeders to infiltrate the Harmony worlds with his broods.\n\nHere at the center of the fifth book the Hive has grown so mighty that it has made the annihilation of all false life routine.\n\nXivu Arath kills the wishful bishops, and Savathûn achieves some secret purpose, and Oryx’s Court tears down the Gift Mast. The Harmony people wail in terror, and they throw themselves into the silver lakes of Ana-Harmony to drown.\n\n“Come,” sayeth Oryx, “eat of the Gift Mast, for I am a generous god. Of its pieces, I claim only two out of every five.”\n\nThe Mast is full of the Light of the Traveler, it is full of the marrow taste of Sky. All who eat of it are filled with the ecstatic certainty that they serve a great and necessary purpose.\n\nThen sayeth Savathûn, “Siblings, listen, we must part ways a while, so that we may grow different.” She flies her war-moons into the black hole. Her throne becomes distant.\n\nSayeth Xivu Arath, “King Oryx, you take up too much space, your power constrains too many choices. I must go away from you.” She flies her war-moons away into the night. Her throne is barred shut.\n\nThen Oryx was alone. He spent a while in thought, and those thoughts are recorded here.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701130_2a2a7341eab4e99c44b4b4f01a951157.jpg"
+        ],
+        "image_name": ["XLVI: The Gift Mast"],
+        "filename": ["701130_2a2a7341eab4e99c44b4b4f01a951157.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701130_2a2a7341eab4e99c44b4b4f01a951157.jpg",
+            "path": "full/98243398ad22fab2ade893ca8c2385eaa66c3350.jpg",
+            "checksum": "f816882648e430bc0be0d5db2e9d1bc5"
+          }
+        ],
+        "bookNum": 46
+      },
+      {
+        "title": "XLVII: Apocalypse Refrains",
+        "content":
+          "This is our message to the things that we will kill.\n\nA species which believes that a good existence can be invented through games of civilization and through laws of conduct is doomed by that belief. They will die in terror. The lawless and the ruthless will drag them down to die. The universe will erase their monuments.\n\nBut the one that sets out to understand the one true law and to perform worship of that law will by that decision gain control over their future. They will gain hope of ascendance and by their ruthlessness they will assist the universe in arriving at its perfect shape.\n\nOnly by eradicating from ourselves all clemency for the weak can we emulate and become that which endures forever. This is inevitable. The universe offers only one choice and it is between ruthlessness and extinction.\n\nWe stand against the fatal lie that a world built on laws of conduct may ever resist the action of the truly free. This is the slavery of the Traveler, the crime of creation, in which labor is wasted on the construction of false shapes.\n\nIf you choose to fight us, fight us with everything you have, with all your laws and games. We will prove our argument thus.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701140_356c8536289cfce0f642ad79f62c2212.jpg"
+        ],
+        "image_name": ["XLVII: Apocalypse Refrains"],
+        "filename": ["701140_356c8536289cfce0f642ad79f62c2212.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701140_356c8536289cfce0f642ad79f62c2212.jpg",
+            "path": "full/970b456f7af948d90d04cfca981fa07402ae86f5.jpg",
+            "checksum": "830654d7e2c045b9c42f99e84bca9257"
+          }
+        ],
+        "bookNum": 47
+      },
+      {
+        "title": "XLVIII: aiat, aiat, aiat, aiat, aiat",
+        "content":
+          "All is well. Aiat: what is at war is healthy, what is at peace is sick.\n\nMy son Crota feeds me rich, rich tribute. My lineages are strong, my worm is vast and satiated, and with that security I can spend my time on study and communion with the Deep. As I learn more secrets, my power grows; as my power grows I use it to learn more secrets. Aiat: let it be thus because it must.\n\nI wonder if my sisters have secrets of their own. If my power exceeds theirs I may kill them permanently and subsume their thrones. But I think they have strength that they hide from me, developed in time of separation. Aiat: the only meaningful relationship is the attempt to destroy.\n\nSavathûn asks if I am as much a slave of the Deep as my Taken. She asks what price I pay for my power. I am not Taken. The Hive is not the Deep. The Deep doesn’t want everything to be the same: it wants life, strong life, life that lives free without the need for a habitat of games to insulate it from reality. When I make my Taken I make them closer to perfect, I heal their wounds and enhance their strengths. This is inherently good. Aiat: the only right is existence, the only wrong is nonexistence.\n\nI am Oryx, the First Navigator, the Taken King. Aiat: let me be what I am because to be anything else would be fatal.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701150_84cfc5a89958164f3e720d6986836d1f.jpg"
+        ],
+        "image_name": ["XLVIII: aiat, aiat, aiat, aiat, aiat"],
+        "filename": ["701150_84cfc5a89958164f3e720d6986836d1f.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701150_84cfc5a89958164f3e720d6986836d1f.jpg",
+            "path": "full/a22830b1ce0ca7fc01c96c79c9d8d0de987b8300.jpg",
+            "checksum": "ae81f821df9215058a452e85a2d97c07"
+          }
+        ],
+        "bookNum": 48
+      },
+      {
+        "title": "XLIX: Forever And A Blade",
+        "content":
+          "I considered returning to Fundament. Learning what became of the God-Wave, and the Tungsten Monoliths, and the continents which were all that remained of my people’s primal home.\n\nBut I know what became of all that. It became me. I am the heir of Fundament, the immortal descendant of those ten-year krill. I asked a question: how can we live in the universe long enough to understand it?\n\nAnd I learned the answer, which is written here in this book. I learned that I had to become most ruthless of all.\n\nI don’t know where the Darkness-which-is-the-Deep came from, nor the Traveler that I hunt. But I will learn. I will learn.\n\nThis is my inheritance, my estate: eternity, infinity, the whole universe beneath my sword. This is what I rule: forever and a blade.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701160_9c61f948622491a9f3ce089741f3e21f.jpg"
+        ],
+        "image_name": ["XLIX: Forever And A Blade"],
+        "filename": ["701160_9c61f948622491a9f3ce089741f3e21f.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701160_9c61f948622491a9f3ce089741f3e21f.jpg",
+            "path": "full/0f799579550d3b051f62a162d579435625f0f68d.jpg",
+            "checksum": "13f62eecd0219c6cee75b5a01d858665"
+          }
+        ],
+        "bookNum": 49
+      },
+      {
+        "title": "L: Wormfood",
+        "content":
+          "What will happen if I die?\n\nIt suits me to consider this, for I am a great ally of death. My daughters study the quiddity of death, my son practices the inhabitation of death, and my great work is, in ultima, to become synonymous with death, to die and in that dying live, so that if the universe comes to nothing then I will be a part of that nothing. Far better to have a savage universe with a happy end than a happy universe with no hope.\n\nI have died many times but these deaths were only temporary.\n\nIf my echoes are killed, and I am killed in the material world, then I will be driven back to my throne the Dreadnaught. If my Court and my throne can be beaten, if I am confronted in my throne, if I am defeated there, then I will die. My work will end.\n\nThis is the pact to which I am bound, in particular by my study of the Tablets of Ruin, and by my use of the power of the Deep. When I call upon that power, I put myself up as the stakes in a wager, I gamble with my soul. For I am saying, listen, my gods, I am the mightiest thing there is, and I prove it thus.\n\nLately I have realized how much I depend on Crota and my daughters, and even upon my court. If I lost them, my outlays would exceed my intakes, my tribute would not be enough to feed my worm. But this is proper — for if I lost them it would be because they were not mighty enough, and then I would be a bad father, a bad King. I must test them and fight with them, to keep them strong. This is my geas.\n\nI will go on forever. I will understand everything. There is only one path and that is the path that you make. But you can make more than one path.\n\nBreak your cell’s bars. Make a new shape, make the shape from its path, find your cell’s bars, break out of the bars, find a shape, make the shape from its path, eat the light, eat the path.\n\nIf I fail, let me be wormfood.",
+        "image_urls": [
+          "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701170_edbbcf5b806a9530ca0e7d8a42553421.jpg"
+        ],
+        "image_name": ["L: Wormfood"],
+        "filename": ["701170_edbbcf5b806a9530ca0e7d8a42553421.jpg"],
+        "images": [
+          {
+            "url":
+              "https://www.bungie.net/common/destiny_content/grimoire/hr_images/701170_edbbcf5b806a9530ca0e7d8a42553421.jpg",
+            "path": "full/c0fdcc67776161b8538deebae1823a4dd31e5ef4.jpg",
+            "checksum": "491ebe66e4f4088740aa3fc598a6443c"
+          }
+        ],
+        "bookNum": 50
+      }
+    ]
+  },
 	{
 		"title": "The Taken",
 		"image_url":

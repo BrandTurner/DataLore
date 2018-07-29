@@ -178,7 +178,80 @@
 		"title": "Osiris",
     "image_url": "https://www.bungie.net/common/destiny_content/grimoire/hr_images/rasputin_c9489762802b863ec9c5354135b348a0.jpg",
     "screen": "",
-    "data": ""
+    "data": [
+        {
+          "title": "Osiris",
+          "content":
+            "What drives a Warlock to madness?\nGhosts choose those suited to war and heroism to be reborn. By nature or circumstance they go to battle against the Darkness, and through this battle they learn how to use the Light. But Warlocks, by their nature, fight a second, internal war. This is the war to understand a universe of secrets— a world that expects Guardians to fight without full knowledge of what they are or what they might hope to achieve.\nYou were a mighty warrior. I watched you at Six Fronts, and heeded the call of Saint-14 to appoint you Vanguard Commander, even when the Concordat claimed to have records proving you were a Golden Age experiment mis-incarnated as a human by an inept Ghost. Saint-14 assured me you were just a man without much patience for obfuscation.\nI watched as you grew tired of strike missions and the grueling, unproductive sessions with the Cryptarchs. That was when I took you under my wing. I saw our future in you. But your curiosity was voracious— How much of a Guardian's personality and memories were true? How much had been fabricated by their Ghost? Did Guardians share particular personality traits— a willingness to yield to authority, a tendency to do anything anyone asked for the promise of uncertain reward, a blind knight-errant mentality? Had the Traveler manufactured all of you as living weapons?\nI admit, I found your questions divisive and disloyal, and I feared you might be capable of breaking our unity when the City's position had grown so tenuous. Why divert attention away from the Traveler, our only hope?\nAnd then it got worse, dabbling in thanatonautics, Ahamkara-lore, chasing after Xur and the tricks of the Nine. Launching expeditions into the Reef and beyond at a time when ships were irreplaceable. Your quest split Guardians along ideological lines. This was your greatest crime: Hunters chose to pursue your visions instead of protecting refugees, Titans assembled teams to chase the legendary Vault of Glass instead of striking the Fallen, and Warlocks turned away from the study of the Traveler in favor of your ultimate obsession... learning the exact nature of the Darkness.\nWhen debate became argument, and argument became acrimony, I realized you had already become a cult of personality, attracting Guardians who wanted a clear idea of why they were fighting, what they faced, and how they would ultimately win.\nI don’t know where you have gone, but I can no longer send Ghosts out to find you. Some come back— with tales of your death or how you went seeking answers from the far reaches of space and time. That you found a way to explore the Vex gate networks. That you've made breakthrough after breakthrough as to their origins— theories that a Guardian could not be simulated, that the Traveler might be an ontoformer or a god-incubator, that the Vex had diverged into multiple groups in order to secure 'an end state for every possible configuration of reality'.\nI fear you have become as obsessed with the Vex as Toland was with the Hive. I've heard your own insane prophecies about pits and dead Hive kings. And of Crota, which now I cannot deny. \nI hear stories of Lord Shaxx meeting with fireteams of Warlocks who have no shadow and never blink. Of jumpships slipping into the Reef on cold trajectories and meeting no intercept. Of questions hidden in matter engrams and answers decrypted on distant battlefields. \nPerhaps you are still out there. If this reaches you, I would very much like to speak with you, to hear your theories in your own words.\nPerhaps what drives a Warlock to madness is truth.",
+          "image_urls": [
+            "https://www.bungie.net/common/destiny_content/grimoire/hr_images/110012_5cf70d2549d0aadb5a08d8382bb396df.jpg"
+          ],
+          "image_name": ["Osiris"],
+          "filename": ["770090_d79d2aa0cb00cfdd82238468d1d80dc6.jpg"],
+          "images": [
+            {
+              "url":
+                "https://www.bungie.net/common/destiny_content/grimoire/hr_images/110012_5cf70d2549d0aadb5a08d8382bb396df.jpg",
+              "path": "full/203d11e402cba58e4213354e35066f5638bc4e6d.jpg",
+              "checksum": "ab32ba38b470db432809ccddd2ca6378"
+            }
+          ]
+        },
+        {
+          "title": "Disciples of Osiris",
+          "content":
+            "ENCRYPED: Champollion Algorithm v.4\nKEY: ############################VANC\nMy brother,\nDespite all of Shaxx's work with the Crucible, we must accept that the Tower may never be ready to accept the Trials. But, as many Guardians flock to the Reef, we are suddenly presented with not one opportunity, but two.\nGo to the Reef. Tell Guardians your story. Give passage to any Guardian that requests it. If the Tower learns of this, do not fear. If they know of the Trials, the Tower will not suspect your other motive for dwelling so close to the margins between Light and Dark.\nYour sister,\nFaora",
+          "image_urls": [
+            "https://www.bungie.net/common/destiny_content/grimoire/hr_images/110010_7030f84d535da3be877ee6beece7e2cd.jpg"
+          ],
+          "image_name": ["Disciples of Osiris"],
+          "filename": ["770090_d79d2aa0cb00cfdd82238468d1d80dc6.jpg"],
+          "images": [
+            {
+              "url":
+                "https://www.bungie.net/common/destiny_content/grimoire/hr_images/110010_7030f84d535da3be877ee6beece7e2cd.jpg",
+              "path": "full/203d11e402cba58e4213354e35066f5638bc4e6d.jpg",
+              "checksum": "ab32ba38b470db432809ccddd2ca6378"
+            }
+          ]
+        },
+        {
+          "title": "Vision 47",
+          "content":
+            "The first comes in a shadow. \n\nA window becomes a door. \n\nAn ebb becomes a gulf. \n\nThe second comes in bones. \n\nTithes offering feasts, carrying laws. \n\nA path torn, minds shattered. \n\nThe third does not come alone. It cannot.\n\nOur truths woven into their being, desires beyond our own. \n\nThe first needs the second to fail, the third needs the first to succeed.\n\nThe second will never cease, yet the first always prevails. The third is born of all outcomes.\n\nUnless, all ends flow from the same pit.",
+          "image_urls": [
+            "https://www.bungie.net/common/destiny_content/grimoire/hr_images/770090_d79d2aa0cb00cfdd82238468d1d80dc6.jpg"
+          ],
+          "image_name": ["Vision 47"],
+          "filename": ["770090_d79d2aa0cb00cfdd82238468d1d80dc6.jpg"],
+          "images": [
+            {
+              "url":
+                "https://www.bungie.net/common/destiny_content/grimoire/hr_images/770090_d79d2aa0cb00cfdd82238468d1d80dc6.jpg",
+              "path": "full/203d11e402cba58e4213354e35066f5638bc4e6d.jpg",
+              "checksum": "ab32ba38b470db432809ccddd2ca6378"
+            }
+          ]
+        },
+        {
+          "title": "Vision 81",
+          "content": "This journey begins with doubt.\n And ends in solace.\n One by one they fall, and you realize you are alone.\nThere, in the shadow of night, you see the world splinter, the Darkness thrive.\nAnd you fight, with more than your Light... you use your pain.\nYou remember its source, the way it gained its ground.\nBut you never wavered. You never believed.\nYou loved her. How couldn't you?\nListen, that's her calling... you back.\nBut you know now that is where you will die.",
+          "image_urls": [
+            "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700360_06fd6444986a1adedf07c18d35ceb2c8.jpg"
+          ],
+          "image_name": ["Vision 81"],
+          "filename": ["770090_d79d2aa0cb00cfdd82238468d1d80dc6.jpg"],
+          "images": [
+            {
+              "url":
+                "https://www.bungie.net/common/destiny_content/grimoire/hr_images/700360_06fd6444986a1adedf07c18d35ceb2c8.jpg",
+              "path": "full/203d11e402cba58e4213354e35066f5638bc4e6d.jpg",
+              "checksum": "ab32ba38b470db432809ccddd2ca6378"
+            }
+          ]
+        }
+
+    ]
   },
   {
 		"title": "Legends and Mysteries",

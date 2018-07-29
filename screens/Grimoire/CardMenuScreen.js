@@ -4,6 +4,14 @@ import GridView from 'react-native-super-grid';
 import GrimoireCardComponent from './GrimoireCardComponent'
 
 export default class CardMenuScreen extends Component {
+  static navigationOptions = ({ navigation }) => ({
+    title: `${navigation.state.params.title}`,
+     headerTitleStyle : {textAlign: 'center',alignSelf:'center'},
+        headerStyle:{
+            backgroundColor:'white',
+        },
+    });
+
   render() {
     const { navigation } = this.props;
     // const Items = navigation.getParam('menu_json', 'no title');
@@ -13,6 +21,9 @@ export default class CardMenuScreen extends Component {
     // const image = navigation.getParam('image', 'none');
     const Cards = navigation.getParam('card_data', null)
     // const isImageUrl = navigation.getParam('isImageUrl', false);
+    if (navigation.state.params.title.toLowerCase() !== 'books of sorrow')
+      Cards.sort(function(a,b) {return (a.title > b.title) ? 1 : ((b.title > a.title) ? -1 : 0);} );
+    
 
     return (
         <GridView
@@ -24,7 +35,7 @@ export default class CardMenuScreen extends Component {
               onPress={() =>
                 this.props.navigation.navigate('GrimoireCardComponent', {
                   title: card.title,
-                  subtitle: "",
+                  subtitle: card.subtitle,
                   content: card.content,
                   image: card.image_urls[0],
                   isImageUrl: true

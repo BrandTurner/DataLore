@@ -1,6 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, ListView, Platform, StatusBar, Image, TouchableOpacity } from 'react-native';
-import { Grid } from 'antd-mobile';
+import { Icon, Container, Content, Header, List } from 'native-base';
+import { Col, Row, Grid } from 'react-native-easy-grid';
 
 export default class MainScreen extends React.Component {
 	constructor(props) {
@@ -9,38 +10,95 @@ export default class MainScreen extends React.Component {
 
 	render() {
 		return (
-			<View style={styles.container}>
-				<View style={styles.row}>
-					<TouchableOpacity style={styles.imageWrapper}>
-						<Image
-							style={styles.archive2}
-							source={require('../assets/archive_sections/enlightenment.png')}
-						/>
-					</TouchableOpacity>
-					<TouchableOpacity style={styles.imageWrapper}>
-						<Image style={styles.archive2} source={require('../assets/archive_sections/cutscenes.png')} />
-					</TouchableOpacity>
-				</View>
-				<View style={styles.row}>
-					<TouchableOpacity
-						style={styles.imageWrapper}
-						onPress={() => this.props.navigation.navigate('GrimoireScreen')}
-					>
-						<Image style={styles.archive2} source={require('../assets/archive_sections/grimoire.png')} />
-					</TouchableOpacity>
-					<TouchableOpacity style={styles.imageWrapper}>
-						<Image style={styles.archive2} source={require('../assets/archive_sections/cutscenes.png')} />
-					</TouchableOpacity>
-				</View>
-				<View style={styles.row}>
-					<TouchableOpacity style={styles.imageWrapper}>
-						<Image style={styles.archive2} source={require('../assets/archive_sections/arsenal.png')} />
-					</TouchableOpacity>
-					<TouchableOpacity style={styles.imageWrapper}>
-						<Image style={styles.archive2} source={require('../assets/archive_sections/codex.png')} />
-					</TouchableOpacity>
-				</View>
-			</View>
+      <Container>
+        <Content>
+      <Grid>
+      <Row size={50} style={styles.homeRow}>
+        <Col
+          style={{
+            height: 200
+          }}
+        >
+          <TouchableOpacity
+            style={styles.imageWrapper}
+            onPress={() => this.props.navigation.navigate('GrimoireScreen')}
+          >
+            <Image
+              style={styles.archive2}
+              source={require('../assets/archive_sections/grimoire.png')}
+            />
+          </TouchableOpacity>
+        </Col>
+        <Col
+          style={{
+            height: 200
+          }}
+        >
+          <TouchableOpacity
+            style={styles.imageWrapper}
+            onPress={() => this.props.navigation.navigate('CutscenesScreen')}
+          >
+            <Image
+              style={styles.archive2}
+              source={require('../assets/archive_sections/cutscenes.png')}
+            />
+          </TouchableOpacity>
+        </Col>
+      </Row>
+      <Row size={50} style={styles.homeRow}>
+        <Col
+          style={{
+            height: 200
+          }}
+        >
+          <TouchableOpacity
+            style={styles.imageWrapper}
+            onPress={() => this.props.navigation.navigate('NewCutscenesScreen')}
+          >
+            <Image
+              style={styles.archive2}
+              source={require('../assets/archive_sections/cutscenes.png')}
+            />
+          </TouchableOpacity>
+        </Col>
+        </Row>
+      </Grid>
+      </Content>
+      </Container>
+
+
+			// <View style={styles.container}>
+			// 	<View style={styles.row}>
+			// 		<TouchableOpacity style={styles.imageWrapper} onPress={() => this.props.navigation.navigate('GrimoireScreen')}>
+			// 			<Image
+			// 				style={styles.archive2}
+			// 				source={require('../assets/archive_sections/grimoire.png')}
+			// 			/>
+			// 		</TouchableOpacity>
+			// 		<TouchableOpacity style={styles.imageWrapper} onPress={() => this.props.navigation.navigate('CutscenesScreen')}>
+			// 			<Image style={styles.archive2} source={require('../assets/archive_sections/cutscenes.png')} />
+			// 		</TouchableOpacity>
+			// 	</View>
+			// 	<View style={styles.row}>
+			// 		<TouchableOpacity
+			// 			style={styles.imageWrapper}
+			// 			onPress={() => this.props.navigation.navigate('GrimoireScreen')}
+			// 		>
+			// 			<Image style={styles.archive2} source={require('../assets/archive_sections/grimoire.png')} />
+			// 		</TouchableOpacity>
+			// 		<TouchableOpacity style={styles.imageWrapper} onPress={() => this.props.navigation.navigate('NewCutscenesScreen')}>
+			// 			<Image style={styles.archive2} source={require('../assets/archive_sections/cutscenes.png')} />
+			// 		</TouchableOpacity>
+			// 	</View>
+			// 	<View style={styles.row}>
+			// 		<TouchableOpacity style={styles.imageWrapper}>
+			// 			<Image style={styles.archive2} source={require('../assets/archive_sections/arsenal.png')} />
+			// 		</TouchableOpacity>
+			// 		<TouchableOpacity style={styles.imageWrapper}>
+			// 			<Image style={styles.archive2} source={require('../assets/archive_sections/codex.png')} />
+			// 		</TouchableOpacity>
+			// 	</View>
+			// </View>
 		);
 	}
 }

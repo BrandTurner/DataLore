@@ -1,5 +1,231 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0"
+    "name": "Luxonomicon",
+    "icon": "./app_icon.png",
+    "version": "0.1.0",
+    "slug": "Luxonomicon",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.umbrella.luxonomicon"
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    },
+    "splash": {
+        /*
+          Color to fill the loading screen background
+          6 character long hex color string, eg: "#000000"
+        */
+        "backgroundColor": "#000000",
+
+        /*
+          Determines how the "image" will be displayed in the splash loading screen.
+          Must be one of "cover" or "contain", defaults to `contain`.
+          Valid values: "cover", "contain"
+        */
+        "resizeMode": "contain",
+
+        /*
+          Local path or remote url to an image.
+          Will fill the background of the loading/splash screen.
+          Image size and aspect ratio are up to you. Must be a .png.
+        */
+        "image": "./assets/cyber.png"
+    },
+    "android": {
+      /*
+        The package name for your Android standalone app.
+        You make it up, but it needs to be unique on the Play Store.
+
+        stackoverflow.com/questions/6273892/android-package-name-convention
+
+        Reverse DNS notation unique name for your app.
+        For example, host.exp.exponent, where exp.host is our domain and Expo is our app.
+      */
+      "package": "com.umbrella.luxonomicon",
+
+      /*
+        Version number required by Google Play.
+        Increment by one for each release.
+        Must be an integer.
+        developer.android.com/studio/publish/versioning.html
+      */
+      "versionCode": 1,
+
+      /*
+        Local path or remote url to an image to use for your app's icon on Android.
+        If specified, this overrides the top-level "icon" key.
+
+        We recommend that you use a 1024x1024 png file.
+        Transparency is recommended for the Google Play Store.
+        This icon will appear on the home screen and within the Expo app.
+      */
+      "icon": "./app_icon.png",
+
+      /*
+        Settings for an Adaptive Launcher Icon on Android.
+        [https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive](https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive)
+      */
+      "adaptiveIcon": {
+        /*
+          Local path or remote url to an image to use for
+          the foreground of your app's icon on Android.
+
+          We recommend that you use a 1024x1024 png file,
+          leaving at least the outer 1/6 transparent on each side.
+          If specified, this overrides the top-level "icon" and the "android.icon" keys.
+          This icon will appear on the home screen.
+        */
+        // "foregroundImage": STRING,
+
+        // /*
+        //   Color to use as the background for your app's Adaptive Icon on Android.
+        //   Defaults to white (#FFFFFF).
+        // */
+        // "backgroundColor": STRING,
+
+        // /*
+        //   Local path or remote url to a background image for
+        //   the background of your app's icon on Android.
+
+        //   If specified, this overrides the "backgroundColor" key.
+        //   Must have the same dimensions as "foregroundImage".
+        // */
+        // "backgroundImage": STRING
+      },
+
+      /*
+        URL to your app on the Google Play Store, if you have deployed it there.
+        This is used to link to your store page from your Expo project page if your app is public.
+      */
+      //"playStoreUrl": STRING,
+
+      /*
+        List of additional permissions the standalone app will request upon installation.
+        Along with the minimum necessary for an expo app to function.
+
+        Don't use "permissions" to use the defualt list.
+
+        Set "permissions" to [] to use ONLY the MINIMUM necessary permissions.
+      */
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "CAMERA",
+        "MANAGE_DOCUMENTS",
+        "READ_CONTACTS",
+        "READ_CALENDAR",
+        "WRITE_CALENDAR",
+        "READ_EXTERNAL_STORAGE",
+        "READ_INTERNAL_STORAGE",
+        "READ_PHONE_STATE",
+        "RECORD_AUDIO",
+        "USE_FINGERPRINT",
+        "VIBRATE",
+        "WAKE_LOCK",
+        "WRITE_EXTERNAL_STORAGE",
+        "com.anddoes.launcher.permission.UPDATE_COUNT",
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        "com.htc.launcher.permission.READ_SETTINGS",
+        "com.htc.launcher.permission.UPDATE_SHORTCUT",
+        "com.majeur.launcher.permission.UPDATE_BADGE",
+        "com.sec.android.provider.badge.permission.READ",
+        "com.sec.android.provider.badge.permission.WRITE",
+        "com.sonyericsson.home.permission.BROADCAST_BADGE"
+      ],
+
+      "config": {
+        /*
+          Branch (https://branch.io/) key to hook up Branch linking services.
+        */
+        // "branch": {
+        //   /*
+        //     Your Branch API key
+        //   */
+        //   "apiKey": STRING
+        // },
+
+        /*
+          Google Developers Fabric keys to hook up Crashlytics and other services.
+          get.fabric.io/
+        */
+        // "fabric": {
+        //   /*
+        //     Your Fabric API key
+        //   */
+        //   "apiKey": STRING,
+
+        //   /*
+        //     Your Fabric build secret
+        //   */
+        //   "buildSecret": STRING
+        // },
+
+        /*
+          Google Maps Android SDK key for your standalone app.
+          developers.google.com/maps/documentation/android-api/signup
+        // */
+        // "googleMaps": {
+        //   /*
+        //     Your Google Maps Android SDK API key
+        //   */
+        //   "apiKey": STRING
+        // }
+
+        // /*
+        //   Google Sign-In Android SDK keys for your standalone app.
+        //   developers.google.com/identity/sign-in/android/start-integrating
+        // */
+        // "googleSignIn": {
+        //   /*
+        //     The Android API key.
+        //     Can be found in the credentials section of the developer console
+        //     or in "google-services.json"
+        //   */
+        //   "apiKey": STRING,
+
+        //   /*
+        //     The SHA-1 hash of the signing certificate used to build the apk without any separator `:`.
+        //     Can be found in "google-services.json".
+        //     developers.google.com/android/guides/client-auth
+        //   */
+        //   "certificateHash": STRING
+        // }
+      },
+
+      /*
+        Configuration for loading and splash screen for standalone Android apps.
+      */
+      "splash": {
+        /*
+          Color to fill the loading screen background
+          6 character long hex color string, eg: "#000000"
+        */
+        "backgroundColor": "#000000",
+
+        /*
+          Determines how the "image" will be displayed in the splash loading screen.
+          Must be one of "cover" or "contain", defaults to "contain".
+          Valid values: "cover", "contain"
+        */
+        "resizeMode": "contain",
+
+        /*
+          Local path or remote url to an image to fill the background of the loading screen.
+          Image size and aspect ratio are up to you.
+          Must be a .png.
+        */
+        "ldpi": "./assets/cyber.png",
+        "mdpi": "./assets/cyber.png",
+        "hdpi": "./assets/cyber.png",
+        "xhdpi": "./assets/cyber.png",
+        "xxhdpi": "./assets/cyber.png",
+        "xxxhdpi": "./assets/cyber.png"
+      }
+    }
   }
+
 }

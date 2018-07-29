@@ -27,8 +27,6 @@ const { width, height } = Dimensions.get('window');
 
 // create a component
 
-console.log(cardJSON);
-
 class ClassesScreen extends Component {
 	constructor(props) {
 		super(props);

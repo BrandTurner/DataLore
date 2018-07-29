@@ -120,7 +120,7 @@ class GrimoireScreen extends Component {
 							>
               <TouchableOpacity
 									style={styles.imageWrapper}
-									onPress={() => this.props.navigation.navigate('EnemiesMainScreen')}
+									onPress={() => this.props.navigation.navigate('ActivitiesMainScreen')}
 								>
                   <Image
                     style={styles.archive2}
